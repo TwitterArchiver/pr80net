@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084968514541199360"
+      ],
+      "media_source_tweet_id": [
+        "2084968547902693865"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2084971098735829136",
+    "created_at": "2026-08-05T11:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T12:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084971098735829136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1583693716849844226",
+          "start": 3,
+          "username": "hxh_xxy"
+        },
+        {
+          "end": 26,
+          "id": "38217523",
+          "start": 16,
+          "username": "ZakkysLab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AIGom2j8nz",
+          "end": 50,
+          "expanded_url": "https://x.com/hxh_xxy/status/2084968547902693865/photo/1",
+          "media_key": "3_2084968514541199360",
+          "start": 27,
+          "url": "https://t.co/AIGom2j8nz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084971098735829136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084968547902693865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hxh_xxy: 爱来自@ZakkysLab https://t.co/AIGom2j8nz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084968514541199360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9L0T0aIAAUxn0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084968514541199360"
+          ]
+        },
+        "author_id": "1583693716849844226",
+        "conversation_id": "2084968547902693865",
+        "created_at": "2026-08-05T11:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084968547902693865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "38217523",
+              "start": 3,
+              "username": "ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AIGom2j8nz",
+              "end": 37,
+              "expanded_url": "https://x.com/hxh_xxy/status/2084968547902693865/photo/1",
+              "media_key": "3_2084968514541199360",
+              "start": 14,
+              "url": "https://t.co/AIGom2j8nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084968547902693865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "爱来自@ZakkysLab https://t.co/AIGom2j8nz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084968514541199360"
+          ],
+          "media_source_tweet_id": [
+            "2084968547902693865"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2084971098735829136",
+        "created_at": "2026-08-05T11:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084971098735829136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1583693716849844226",
+              "start": 3,
+              "username": "hxh_xxy"
+            },
+            {
+              "end": 26,
+              "id": "38217523",
+              "start": 16,
+              "username": "ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AIGom2j8nz",
+              "end": 50,
+              "expanded_url": "https://x.com/hxh_xxy/status/2084968547902693865/photo/1",
+              "media_key": "3_2084968514541199360",
+              "start": 27,
+              "url": "https://t.co/AIGom2j8nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084971098735829136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084968547902693865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hxh_xxy: 爱来自@ZakkysLab https://t.co/AIGom2j8nz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2084640778538946628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 513,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 116
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-22T05:36:29.000Z",
+        "description": "脑瘫 找到另一个我了哦🚪188口令\n门槛是一切的前提 \n接线下求包养",
+        "id": "1583693716849844226",
+        "name": "她比我更会当狗吗",
+        "pinned_tweet_id": "2033364315307384890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614315948743458817/IQSJBI20_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3530,
+          "following_count": 9,
+          "like_count": 703,
+          "listed_count": 14,
+          "media_count": 170,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "hxh_xxy",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-06T16:33:52.000Z",
+        "description": "welcome to los pollos hermanos.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/I2Is12SUjx"
+              }
+            ]
+          }
+        },
+        "id": "38217523",
+        "name": "Zakky's LAB 养号中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083182116012224512/rSNbGMS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 55,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 47
+        },
+        "url": "https://t.co/I2Is12SUjx",
+        "username": "ZakkysLab",
+        "verified": true
+      }
+    ]
+  }
+}

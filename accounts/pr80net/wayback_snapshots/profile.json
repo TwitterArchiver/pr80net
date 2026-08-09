@@ -1,0 +1,29 @@
+{
+  "name": "pr80.net 永夜安港",
+  "username": "@pr80net",
+  "bio": "https://t.me/ilovepr80 平等尊重每一个人，才能获得每一个人平等的尊重。 极端冷门药物科普 / 平等交流社区 / 友一切人工回fo Sponsored by Zakky's @ZakkysLab Created by Luvsenberg",
+  "location": "永夜安港",
+  "link": "https://pr80.net/",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 108,
+        "start": 98,
+        "username": "ZakkysLab"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "t.me/ilovepr80",
+        "end": 23,
+        "expanded_url": "https://t.me/ilovepr80",
+        "start": 0,
+        "url": "https://t.co/U6cOi5U2lA"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg"
+}

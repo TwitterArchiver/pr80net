@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2084281727590224209",
+    "created_at": "2026-08-03T14:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084285080189710380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1436750270512336897",
+          "start": 0,
+          "username": "Qmmqmm21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084285080189710380",
+    "in_reply_to_user_id": "1436750270512336897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084284657148043318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qmmqmm21 恭喜你眼熟度+1 慢慢来 每天都随机出空投"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2084281727590224209",
+        "created_at": "2026-08-03T14:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084285080189710380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1436750270512336897",
+              "start": 0,
+              "username": "Qmmqmm21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084285080189710380",
+        "in_reply_to_user_id": "1436750270512336897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084284657148043318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qmmqmm21 恭喜你眼熟度+1 慢慢来 每天都随机出空投"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436750270512336897",
+        "conversation_id": "2084281727590224209",
+        "created_at": "2026-08-03T14:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084284657148043318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084284657148043318",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084281727590224209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net OK也是直接试图混眼熟.jpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 476,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-11T17:55:56.000Z",
+        "description": "你好，每一位点进查看我主页，不曾相识的陌生人，以下是自我介绍本人性别猫娘，目前开拓的很杂，番剧、漫画、小说、游戏，gal都广有涉及，fps游戏苦手，废萌，偏向推理、科幻、本格/心理/恐怖等题材游戏。目前近期常驻领域ip为:边狱巴士、明日方舟以及1999/blacksouls\n再次很高兴能认识你by2026年5月",
+        "id": "1436750270512336897",
+        "location": "Tadaoka-cho, Osaka",
+        "name": "Alice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984745257188409347/Jh3LdSou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 1764,
+          "like_count": 3820,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "Qmmqmm21",
+        "verified": false
+      }
+    ]
+  }
+}

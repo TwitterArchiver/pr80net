@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082383022243131392",
+        "3_2082383041121648640",
+        "3_2082383074764185600",
+        "3_2082383107236462592"
+      ],
+      "media_source_tweet_id": [
+        "2082383334701953525",
+        "2082383334701953525",
+        "2082383334701953525",
+        "2082383334701953525"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082385153612263586",
+    "created_at": "2026-07-29T08:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082385153612263586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "711509826",
+          "start": 3,
+          "username": "ZakkysPR80"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6oRnqnSnMS",
+          "end": 89,
+          "expanded_url": "https://x.com/ZakkysPR80/status/2082383334701953525/photo/1",
+          "media_key": "3_2082383022243131392",
+          "start": 66,
+          "url": "https://t.co/6oRnqnSnMS"
+        },
+        {
+          "display_url": "pic.x.com/6oRnqnSnMS",
+          "end": 89,
+          "expanded_url": "https://x.com/ZakkysPR80/status/2082383334701953525/photo/1",
+          "media_key": "3_2082383041121648640",
+          "start": 66,
+          "url": "https://t.co/6oRnqnSnMS"
+        },
+        {
+          "display_url": "pic.x.com/6oRnqnSnMS",
+          "end": 89,
+          "expanded_url": "https://x.com/ZakkysPR80/status/2082383334701953525/photo/1",
+          "media_key": "3_2082383074764185600",
+          "start": 66,
+          "url": "https://t.co/6oRnqnSnMS"
+        },
+        {
+          "display_url": "pic.x.com/6oRnqnSnMS",
+          "end": 89,
+          "expanded_url": "https://x.com/ZakkysPR80/status/2082383334701953525/photo/1",
+          "media_key": "3_2082383107236462592",
+          "start": 66,
+          "url": "https://t.co/6oRnqnSnMS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082385153612263586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082383334701953525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZakkysPR80: 是我，Zakky's，Pr80的匠人，马斯克的世仇，封我十一个推特号，我们的意志是永远不会被磨灭的 https://t.co/6oRnqnSnMS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 633,
+        "media_key": "3_2082383022243131392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYcU2cbMAA1zkt.png",
+        "width": 648
+      },
+      {
+        "height": 981,
+        "media_key": "3_2082383041121648640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYcV8xagAARQLO.jpg",
+        "width": 839
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2082383074764185600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYcX6Ga4AAn0PC.jpg",
+        "width": 2000
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2082383107236462592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYcZzEagAA_0P2.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082383022243131392",
+            "3_2082383041121648640",
+            "3_2082383074764185600",
+            "3_2082383107236462592"
+          ]
+        },
+        "author_id": "711509826",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082383334701953525",
+        "created_at": "2026-07-29T08:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082383334701953525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6oRnqnSnMS",
+              "end": 73,
+              "expanded_url": "https://x.com/ZakkysPR80/status/2082383334701953525/photo/1",
+              "media_key": "3_2082383022243131392",
+              "start": 50,
+              "url": "https://t.co/6oRnqnSnMS"
+            },
+            {
+              "display_url": "pic.x.com/6oRnqnSnMS",
+              "end": 73,
+              "expanded_url": "https://x.com/ZakkysPR80/status/2082383334701953525/photo/1",
+              "media_key": "3_2082383041121648640",
+              "start": 50,
+              "url": "https://t.co/6oRnqnSnMS"
+            },
+            {
+              "display_url": "pic.x.com/6oRnqnSnMS",
+              "end": 73,
+              "expanded_url": "https://x.com/ZakkysPR80/status/2082383334701953525/photo/1",
+              "media_key": "3_2082383074764185600",
+              "start": 50,
+              "url": "https://t.co/6oRnqnSnMS"
+            },
+            {
+              "display_url": "pic.x.com/6oRnqnSnMS",
+              "end": 73,
+              "expanded_url": "https://x.com/ZakkysPR80/status/2082383334701953525/photo/1",
+              "media_key": "3_2082383107236462592",
+              "start": 50,
+              "url": "https://t.co/6oRnqnSnMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082383334701953525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "是我，Zakky's，Pr80的匠人，马斯克的世仇，封我十一个推特号，我们的意志是永远不会被磨灭的 https://t.co/6oRnqnSnMS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082383022243131392",
+            "3_2082383041121648640",
+            "3_2082383074764185600",
+            "3_2082383107236462592"
+          ],
+          "media_source_tweet_id": [
+            "2082383334701953525",
+            "2082383334701953525",
+            "2082383334701953525",
+            "2082383334701953525"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082385153612263586",
+        "created_at": "2026-07-29T08:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082385153612263586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "711509826",
+              "start": 3,
+              "username": "ZakkysPR80"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6oRnqnSnMS",
+              "end": 89,
+              "expanded_url": "https://x.com/ZakkysPR80/status/2082383334701953525/photo/1",
+              "media_key": "3_2082383022243131392",
+              "start": 66,
+              "url": "https://t.co/6oRnqnSnMS"
+            },
+            {
+              "display_url": "pic.x.com/6oRnqnSnMS",
+              "end": 89,
+              "expanded_url": "https://x.com/ZakkysPR80/status/2082383334701953525/photo/1",
+              "media_key": "3_2082383041121648640",
+              "start": 66,
+              "url": "https://t.co/6oRnqnSnMS"
+            },
+            {
+              "display_url": "pic.x.com/6oRnqnSnMS",
+              "end": 89,
+              "expanded_url": "https://x.com/ZakkysPR80/status/2082383334701953525/photo/1",
+              "media_key": "3_2082383074764185600",
+              "start": 66,
+              "url": "https://t.co/6oRnqnSnMS"
+            },
+            {
+              "display_url": "pic.x.com/6oRnqnSnMS",
+              "end": 89,
+              "expanded_url": "https://x.com/ZakkysPR80/status/2082383334701953525/photo/1",
+              "media_key": "3_2082383107236462592",
+              "start": 66,
+              "url": "https://t.co/6oRnqnSnMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082385153612263586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082383334701953525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZakkysPR80: 是我，Zakky's，Pr80的匠人，马斯克的世仇，封我十一个推特号，我们的意志是永远不会被磨灭的 https://t.co/6oRnqnSnMS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5UAb8\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's pr80原粉 @ZakkysPR80\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "ZakkysPR80"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5UAb8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1RGI"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 405,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/Un7kre1RGI",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-23T00:31:56.000Z",
+        "description": "https://t.co/qrGM7NLu5j\nhttps://t.co/OARSHSBTqU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/qrGM7NLu5j"
+              },
+              {
+                "display_url": "t.me/ZakkyPR80",
+                "end": 47,
+                "expanded_url": "https://t.me/ZakkyPR80",
+                "start": 24,
+                "url": "https://t.co/OARSHSBTqU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/qrGM7NLu5j"
+              }
+            ]
+          }
+        },
+        "id": "711509826",
+        "location": "普瑞巴林原粉",
+        "name": "Zakky's Pr80",
+        "pinned_tweet_id": "2082383334701953525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082382691610271744/J5uDAkCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 18,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/qrGM7NLu5j",
+        "username": "ZakkysPR80",
+        "verified": false
+      }
+    ]
+  }
+}

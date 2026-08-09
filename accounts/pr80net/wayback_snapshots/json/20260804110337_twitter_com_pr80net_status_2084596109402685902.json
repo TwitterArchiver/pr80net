@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2084596109402685902",
+    "created_at": "2026-08-04T11:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084596109402685902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sorcerer1311/s…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Sorcerer1311/status/2084581488872579505",
+          "start": 18,
+          "url": "https://t.co/3YJr35ZXTm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084596109402685902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084581488872579505",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我这辈子都想不出来尼古毛毛这个名字 https://t.co/3YJr35ZXTm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 189,
+        "media_key": "3_2084581474515521536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3rznXbkAAL2Kl.jpg",
+        "width": 264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2084596109402685902",
+        "created_at": "2026-08-04T11:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084596109402685902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sorcerer1311/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Sorcerer1311/status/2084581488872579505",
+              "start": 18,
+              "url": "https://t.co/3YJr35ZXTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084596109402685902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084581488872579505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这辈子都想不出来尼古毛毛这个名字 https://t.co/3YJr35ZXTm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084581474515521536"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2084581488872579505",
+        "created_at": "2026-08-04T10:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084581488872579505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/itTxp9TEyL",
+              "end": 55,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2084581488872579505/photo/1",
+              "media_key": "3_2084581474515521536",
+              "start": 32,
+              "url": "https://t.co/itTxp9TEyL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084581488872579505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尼古毛毛\n\n中国青年报记者洪克在57年第三次全国代表大会时抓拍 https://t.co/itTxp9TEyL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2084293044342538250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 493,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 967,
+          "like_count": 2058,
+          "listed_count": 3,
+          "media_count": 452,
+          "tweet_count": 3329
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      }
+    ]
+  }
+}

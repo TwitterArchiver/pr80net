@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083424980675829760"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2083426791813968084",
+    "created_at": "2026-08-01T05:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083426791813968084"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LFfvPMM7Qx",
+          "end": 156,
+          "expanded_url": "https://x.com/pr80net/status/2083426791813968084/photo/1",
+          "media_key": "3_2083424980675829760",
+          "start": 133,
+          "url": "https://t.co/LFfvPMM7Qx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083426791813968084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有机化学命名篇（1），别™问我吃草酸有什么副作用了，草酸什么？我问你草酸什么？草酸什么啊？那™是药物的形态！再™看见草酸草酸我打你的嘴！好好听课，人可以笨但笨不可以不学！就算你™问AI，你至少也得知道怎么问吧！都给我看！仔细看！不繁琐不复杂！看懂这几篇你就能懂了！ https://t.co/LFfvPMM7Qx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2083424980675829760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnP-0FboAAdOWY.png",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083424980675829760"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2083426791813968084",
+        "created_at": "2026-08-01T05:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083426791813968084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LFfvPMM7Qx",
+              "end": 156,
+              "expanded_url": "https://x.com/pr80net/status/2083426791813968084/photo/1",
+              "media_key": "3_2083424980675829760",
+              "start": 133,
+              "url": "https://t.co/LFfvPMM7Qx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083426791813968084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有机化学命名篇（1），别™问我吃草酸有什么副作用了，草酸什么？我问你草酸什么？草酸什么啊？那™是药物的形态！再™看见草酸草酸我打你的嘴！好好听课，人可以笨但笨不可以不学！就算你™问AI，你至少也得知道怎么问吧！都给我看！仔细看！不繁琐不复杂！看懂这几篇你就能懂了！ https://t.co/LFfvPMM7Qx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 419,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      }
+    ]
+  }
+}

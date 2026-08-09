@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2081144290030518324",
+    "created_at": "2026-07-26T15:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081405344295895322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2077517932532527104",
+          "start": 0,
+          "username": "_zz_h_dd_"
+        },
+        {
+          "end": 20,
+          "id": "1278105503391002624",
+          "start": 11,
+          "username": "ZakkyV10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081405344295895322",
+    "in_reply_to_user_id": "2077517932532527104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081144290030518324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_zz_h_dd_ @ZakkyV10 兄弟，我发现抽爆珠香烟也可以让肺清凉一点，你觉得呢？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2081144282933768192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOG1su6aMAAGwlq.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2081144290030518324",
+        "created_at": "2026-07-26T15:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081405344295895322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2077517932532527104",
+              "start": 0,
+              "username": "_zz_h_dd_"
+            },
+            {
+              "end": 20,
+              "id": "1278105503391002624",
+              "start": 11,
+              "username": "ZakkyV10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081405344295895322",
+        "in_reply_to_user_id": "2077517932532527104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081144290030518324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_zz_h_dd_ @ZakkyV10 兄弟，我发现抽爆珠香烟也可以让肺清凉一点，你觉得呢？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081144282933768192"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2081144290030518324",
+        "created_at": "2026-07-25T22:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T23:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081144290030518324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XfRqym9gRo",
+              "end": 34,
+              "expanded_url": "https://x.com/_zz_h_dd_/status/2081144290030518324/photo/1",
+              "media_key": "3_2081144282933768192",
+              "start": 11,
+              "url": "https://t.co/XfRqym9gRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081144290030518324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看来我离癌症不远了👅 https://t.co/XfRqym9gRo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5UAb8\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5UAb8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1RGI"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 159,
+          "like_count": 2,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 30
+        },
+        "url": "https://t.co/Un7kre1RGI",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 63,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-30T23:18:16.000Z",
+        "description": "Renegade 危险将我包围\nRenegade 浓雾刺我脊椎\nhttps://t.co/Gf73fISC5F",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ZakkyPR80",
+                "end": 55,
+                "expanded_url": "https://t.me/ZakkyPR80",
+                "start": 32,
+                "url": "https://t.co/Gf73fISC5F"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/ZW8e3JmfB0"
+              }
+            ]
+          }
+        },
+        "id": "1278105503391002624",
+        "name": "Zakky普瑞 V10",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079957635839950848/JY7BYGYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 68,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/ZW8e3JmfB0",
+        "username": "ZakkyV10",
+        "verified": false
+      }
+    ]
+  }
+}

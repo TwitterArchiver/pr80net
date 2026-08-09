@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081346609989001216",
+        "3_2081346619866546176",
+        "3_2081346631677714432",
+        "3_2081346643182669824"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2081347341660098916",
+    "created_at": "2026-07-26T11:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T12:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081347341660098916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 62,
+          "id": "1938958377620824064",
+          "start": 48,
+          "username": "IamLuvsenberg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KbBCafQVJH",
+          "end": 206,
+          "expanded_url": "https://x.com/pr80net/status/2081347341660098916/photo/1",
+          "media_key": "3_2081346609989001216",
+          "start": 183,
+          "url": "https://t.co/KbBCafQVJH"
+        },
+        {
+          "display_url": "pic.x.com/KbBCafQVJH",
+          "end": 206,
+          "expanded_url": "https://x.com/pr80net/status/2081347341660098916/photo/1",
+          "media_key": "3_2081346619866546176",
+          "start": 183,
+          "url": "https://t.co/KbBCafQVJH"
+        },
+        {
+          "display_url": "pic.x.com/KbBCafQVJH",
+          "end": 206,
+          "expanded_url": "https://x.com/pr80net/status/2081347341660098916/photo/1",
+          "media_key": "3_2081346631677714432",
+          "start": 183,
+          "url": "https://t.co/KbBCafQVJH"
+        },
+        {
+          "display_url": "pic.x.com/KbBCafQVJH",
+          "end": 206,
+          "expanded_url": "https://x.com/pr80net/status/2081347341660098916/photo/1",
+          "media_key": "3_2081346643182669824",
+          "start": 183,
+          "url": "https://t.co/KbBCafQVJH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081347341660098916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "永夜安港 RC解构之 “ISOTRAMAFAXINE”\n开发者：Luvsenberg （个人） @IamLuvsenberg \n现已失传，最后版本揭示如图。\n评价：天才级的进入3C家族，蠢材级的融入M5曲马多与4-氯-文拉法辛\nIsotramafaxine曾作为一款RC药物并短暂传播于开发人Luvsenberg的好友，评价很高，但作为个人开发从未作为RC药贩售。 https://t.co/KbBCafQVJH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2081346609989001216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJttt7boAABGFP.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2081346619866546176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJtuSubAAA5jGZ.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2081346631677714432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJtu-ubIAAVhPM.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2081346643182669824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJtvpla0AAc5c0.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081346609989001216",
+            "3_2081346619866546176",
+            "3_2081346631677714432",
+            "3_2081346643182669824"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2081347341660098916",
+        "created_at": "2026-07-26T11:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081347341660098916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 62,
+              "id": "1938958377620824064",
+              "start": 48,
+              "username": "IamLuvsenberg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbBCafQVJH",
+              "end": 206,
+              "expanded_url": "https://x.com/pr80net/status/2081347341660098916/photo/1",
+              "media_key": "3_2081346609989001216",
+              "start": 183,
+              "url": "https://t.co/KbBCafQVJH"
+            },
+            {
+              "display_url": "pic.x.com/KbBCafQVJH",
+              "end": 206,
+              "expanded_url": "https://x.com/pr80net/status/2081347341660098916/photo/1",
+              "media_key": "3_2081346619866546176",
+              "start": 183,
+              "url": "https://t.co/KbBCafQVJH"
+            },
+            {
+              "display_url": "pic.x.com/KbBCafQVJH",
+              "end": 206,
+              "expanded_url": "https://x.com/pr80net/status/2081347341660098916/photo/1",
+              "media_key": "3_2081346631677714432",
+              "start": 183,
+              "url": "https://t.co/KbBCafQVJH"
+            },
+            {
+              "display_url": "pic.x.com/KbBCafQVJH",
+              "end": 206,
+              "expanded_url": "https://x.com/pr80net/status/2081347341660098916/photo/1",
+              "media_key": "3_2081346643182669824",
+              "start": 183,
+              "url": "https://t.co/KbBCafQVJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081347341660098916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "永夜安港 RC解构之 “ISOTRAMAFAXINE”\n开发者：Luvsenberg （个人） @IamLuvsenberg \n现已失传，最后版本揭示如图。\n评价：天才级的进入3C家族，蠢材级的融入M5曲马多与4-氯-文拉法辛\nIsotramafaxine曾作为一款RC药物并短暂传播于开发人Luvsenberg的好友，评价很高，但作为个人开发从未作为RC药贩售。 https://t.co/KbBCafQVJH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5UAb8\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5UAb8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1RGI"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 101,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/Un7kre1RGI",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-28T13:51:26.000Z",
+        "description": "璐哥转世2.0 生如夏花元老级\nhttps://t.co/EZ1soEtyfV\n永夜安港社区 https://t.co/Oh5yI4Htys\n在售产品看置顶\n我自己的wiki：https://t.co/gvPJtcy0S6 性别多元者友好的综合支持平台。\n有机化学 / 精神病理学 / 前RC Artist\nL U V S E N B E R G      Est.2016",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ShineLikeRiri",
+                "end": 39,
+                "expanded_url": "http://t.me/ShineLikeRiri",
+                "start": 16,
+                "url": "https://t.co/EZ1soEtyfV"
+              },
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 70,
+                "expanded_url": "http://t.me/ilovepr80",
+                "start": 47,
+                "url": "https://t.co/Oh5yI4Htys"
+              },
+              {
+                "display_url": "Luluv.wiki",
+                "end": 111,
+                "expanded_url": "http://Luluv.wiki",
+                "start": 88,
+                "url": "https://t.co/gvPJtcy0S6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ShineLikeRiri",
+                "end": 23,
+                "expanded_url": "https://t.me/ShineLikeRiri",
+                "start": 0,
+                "url": "https://t.co/QyHSJBdSgO"
+              }
+            ]
+          }
+        },
+        "id": "1938958377620824064",
+        "name": "Luvsenberg 璐璐",
+        "pinned_tweet_id": "2072641647054299373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072289907981398016/EzdYB0QL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 154,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/QyHSJBdSgO",
+        "username": "IamLuvsenberg",
+        "verified": false
+      }
+    ]
+  }
+}

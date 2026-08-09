@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084595363948990464"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2084595423113892290",
+    "created_at": "2026-08-04T11:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084595423113892290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8cWPfTUfb0",
+          "end": 43,
+          "expanded_url": "https://x.com/pr80net/status/2084595423113892290/photo/1",
+          "media_key": "3_2084595363948990464",
+          "start": 20,
+          "url": "https://t.co/8cWPfTUfb0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084595423113892290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很喜欢胜哥的一句评价：你搁这养死士呢？ https://t.co/8cWPfTUfb0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1127,
+        "media_key": "3_2084595363948990464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO34cFibEAAZmRM.jpg",
+        "width": 846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084595363948990464"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2084595423113892290",
+        "created_at": "2026-08-04T11:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084595423113892290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8cWPfTUfb0",
+              "end": 43,
+              "expanded_url": "https://x.com/pr80net/status/2084595423113892290/photo/1",
+              "media_key": "3_2084595363948990464",
+              "start": 20,
+              "url": "https://t.co/8cWPfTUfb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084595423113892290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很喜欢胜哥的一句评价：你搁这养死士呢？ https://t.co/8cWPfTUfb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2084293044342538250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 493,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 102
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      }
+    ]
+  }
+}

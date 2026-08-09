@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084578976908062720"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2084578993551065540",
+    "created_at": "2026-08-04T09:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084578993551065540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6w3r9NTBiV",
+          "end": 186,
+          "expanded_url": "https://x.com/pr80net/status/2084578993551065540/photo/1",
+          "media_key": "3_2084578976908062720",
+          "start": 163,
+          "url": "https://t.co/6w3r9NTBiV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084578993551065540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "传奇人物志4 接下来登场的是双相患者最大的救赎、躁狂症医疗的奠基人、用患者尿液做研究的战俘营医生、心境稳定剂概念创始人：约翰·凯德！碳酸锂依旧是第一线的心境稳定剂，一个元素统治整个药理学领域的传奇。 教育类科普 无任何商业目的    Educational ONLY , non Commercial knowledge . https://t.co/6w3r9NTBiV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2084578976908062720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3piPDaMAAEVXC.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084578976908062720"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2084578993551065540",
+        "created_at": "2026-08-04T09:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084578993551065540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6w3r9NTBiV",
+              "end": 186,
+              "expanded_url": "https://x.com/pr80net/status/2084578993551065540/photo/1",
+              "media_key": "3_2084578976908062720",
+              "start": 163,
+              "url": "https://t.co/6w3r9NTBiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084578993551065540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "传奇人物志4 接下来登场的是双相患者最大的救赎、躁狂症医疗的奠基人、用患者尿液做研究的战俘营医生、心境稳定剂概念创始人：约翰·凯德！碳酸锂依旧是第一线的心境稳定剂，一个元素统治整个药理学领域的传奇。 教育类科普 无任何商业目的    Educational ONLY , non Commercial knowledge . https://t.co/6w3r9NTBiV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2084293044342538250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 492,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      }
+    ]
+  }
+}

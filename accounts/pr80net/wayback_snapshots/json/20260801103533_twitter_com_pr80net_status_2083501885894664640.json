@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083500544761741312"
+      ],
+      "media_source_tweet_id": [
+        "2083500554094043161"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083501885894664640",
+    "created_at": "2026-08-01T10:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083501885894664640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1817361351494467584",
+          "start": 3,
+          "username": "resa87125"
+        },
+        {
+          "end": 35,
+          "id": "1132729630245265408",
+          "start": 27,
+          "username": "pr80net"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k9tYSaO1i2",
+          "end": 59,
+          "expanded_url": "https://x.com/resa87125/status/2083500554094043161/photo/1",
+          "media_key": "3_2083500544761741312",
+          "start": 36,
+          "url": "https://t.co/k9tYSaO1i2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083501885894664640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083500554094043161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @resa87125: 你是天使，不该被如此对待@pr80net https://t.co/k9tYSaO1i2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083500544761741312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoUtOPbQAAnxkp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083500544761741312"
+          ]
+        },
+        "author_id": "1817361351494467584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083500554094043161",
+        "created_at": "2026-08-01T10:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083500554094043161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1132729630245265408",
+              "start": 12,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k9tYSaO1i2",
+              "end": 44,
+              "expanded_url": "https://x.com/resa87125/status/2083500554094043161/photo/1",
+              "media_key": "3_2083500544761741312",
+              "start": 21,
+              "url": "https://t.co/k9tYSaO1i2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083500554094043161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你是天使，不该被如此对待@pr80net https://t.co/k9tYSaO1i2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083500544761741312"
+          ],
+          "media_source_tweet_id": [
+            "2083500554094043161"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083501885894664640",
+        "created_at": "2026-08-01T10:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083501885894664640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1817361351494467584",
+              "start": 3,
+              "username": "resa87125"
+            },
+            {
+              "end": 35,
+              "id": "1132729630245265408",
+              "start": 27,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k9tYSaO1i2",
+              "end": 59,
+              "expanded_url": "https://x.com/resa87125/status/2083500554094043161/photo/1",
+              "media_key": "3_2083500544761741312",
+              "start": 36,
+              "url": "https://t.co/k9tYSaO1i2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083501885894664640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083500554094043161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @resa87125: 你是天使，不该被如此对待@pr80net https://t.co/k9tYSaO1i2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 418,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-28T00:49:29.000Z",
+        "description": "可以直接称呼id/或者称呼S/无性恋/生理性别女/心理无性别/随时可以找我唠除了顺性别相关的一切话题/可提供有困难的人资金援助//顺男别来恶心我/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/void87214",
+                "end": 23,
+                "expanded_url": "http://ngl.link/void87214",
+                "start": 0,
+                "url": "https://t.co/tEfgMsM9pd"
+              }
+            ]
+          }
+        },
+        "id": "1817361351494467584",
+        "location": "HELL",
+        "name": "Sare🖤🩶🤍💜",
+        "pinned_tweet_id": "2077225086109770044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055743557710004224/K-DCgKBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 102,
+          "like_count": 1390,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 474
+        },
+        "url": "https://t.co/tEfgMsM9pd",
+        "username": "resa87125",
+        "verified": false
+      }
+    ]
+  }
+}

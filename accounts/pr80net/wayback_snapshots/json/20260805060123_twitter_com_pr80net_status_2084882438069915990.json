@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2084882438069915990",
+    "created_at": "2026-08-05T06:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T07:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084882438069915990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/isac8964/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/isac8964/status/2084880931374936138",
+          "start": 4,
+          "url": "https://t.co/TzNYSGFgFO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084882438069915990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084880931374936138",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请享用 https://t.co/TzNYSGFgFO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1571,
+        "media_key": "3_2084880913318531073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO78JP1X0AE1F01.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2084882438069915990",
+        "created_at": "2026-08-05T06:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084882438069915990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/isac8964/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/isac8964/status/2084880931374936138",
+              "start": 4,
+              "url": "https://t.co/TzNYSGFgFO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084882438069915990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084880931374936138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请享用 https://t.co/TzNYSGFgFO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084880913318531073"
+          ]
+        },
+        "author_id": "1868121512710201344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084880931374936138",
+        "created_at": "2026-08-05T05:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084880931374936138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1132729630245265408",
+              "start": 5,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iKRklmcZVv",
+              "end": 37,
+              "expanded_url": "https://x.com/isac8964/status/2084880931374936138/photo/1",
+              "media_key": "3_2084880913318531073",
+              "start": 14,
+              "url": "https://t.co/iKRklmcZVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084880931374936138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "剧烈感谢\n@pr80net https://t.co/iKRklmcZVv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2084640778538946628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 512,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "description": "🇹🇼 🇺🇸CNsp&td/EN/ES xtx\nManchurian based BOS(sometimes)/CT\nungifted artist \nI neither possess nor sell any substance I mentioned.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/isac0219pek",
+                "end": 23,
+                "expanded_url": "https://ngl.link/isac0219pek",
+                "start": 0,
+                "url": "https://t.co/lkH48c7mxT"
+              }
+            ]
+          }
+        },
+        "id": "1868121512710201344",
+        "location": "Boston, MA",
+        "name": "isac",
+        "pinned_tweet_id": "2083889708598444406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 201,
+          "like_count": 6931,
+          "listed_count": 1,
+          "media_count": 371,
+          "tweet_count": 2602
+        },
+        "url": "https://t.co/lkH48c7mxT",
+        "username": "isac8964",
+        "verified": true
+      }
+    ]
+  }
+}

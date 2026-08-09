@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085394938737598465"
+      ],
+      "media_source_tweet_id": [
+        "2085395273732550856"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085404410201747627",
+    "created_at": "2026-08-06T16:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T17:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085404410201747627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951668659052773376",
+          "start": 3,
+          "username": "tellM3Yy"
+        },
+        {
+          "end": 25,
+          "id": "1132729630245265408",
+          "start": 17,
+          "username": "pr80net"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kqgJ9yjVr9",
+          "end": 49,
+          "expanded_url": "https://x.com/tellM3Yy/status/2085395273732550856/photo/1",
+          "media_key": "3_2085394938737598465",
+          "start": 26,
+          "url": "https://t.co/kqgJ9yjVr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085404410201747627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085395273732550856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tellM3Yy: 爱来自@pr80net https://t.co/kqgJ9yjVr9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2085394938737598465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDPpdvaIAEyzO0.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085394938737598465"
+          ]
+        },
+        "author_id": "1951668659052773376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085395273732550856",
+        "created_at": "2026-08-06T15:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085395273732550856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1132729630245265408",
+              "start": 3,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kqgJ9yjVr9",
+              "end": 35,
+              "expanded_url": "https://x.com/tellM3Yy/status/2085395273732550856/photo/1",
+              "media_key": "3_2085394938737598465",
+              "start": 12,
+              "url": "https://t.co/kqgJ9yjVr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085395273732550856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "爱来自@pr80net https://t.co/kqgJ9yjVr9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085394938737598465"
+          ],
+          "media_source_tweet_id": [
+            "2085395273732550856"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085404410201747627",
+        "created_at": "2026-08-06T16:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085404410201747627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951668659052773376",
+              "start": 3,
+              "username": "tellM3Yy"
+            },
+            {
+              "end": 25,
+              "id": "1132729630245265408",
+              "start": 17,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kqgJ9yjVr9",
+              "end": 49,
+              "expanded_url": "https://x.com/tellM3Yy/status/2085395273732550856/photo/1",
+              "media_key": "3_2085394938737598465",
+              "start": 26,
+              "url": "https://t.co/kqgJ9yjVr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085404410201747627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085395273732550856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tellM3Yy: 爱来自@pr80net https://t.co/kqgJ9yjVr9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2084995885113745709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 522,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-02T15:37:35.000Z",
+        "description": "ฅ(៸៸᳐⁃⩊⁃៸៸᳐)ฅ有🚪不线下（互fo free)｜只和同类互fo",
+        "id": "1951668659052773376",
+        "name": "伤心苹果",
+        "pinned_tweet_id": "2077561884065366523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951668905598185472/jyyrcEYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 241,
+          "like_count": 704,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 391
+        },
+        "url": "",
+        "username": "tellM3Yy",
+        "verified": false
+      }
+    ]
+  }
+}

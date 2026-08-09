@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081458934951669760"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2081445889428893928",
+    "created_at": "2026-07-26T19:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T20:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081458954446819604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077346715313811457",
+          "start": 0,
+          "username": "Huishui666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/66xuG5vjnN",
+          "end": 41,
+          "expanded_url": "https://x.com/pr80net/status/2081458954446819604/photo/1",
+          "media_key": "3_2081458934951669760",
+          "start": 18,
+          "url": "https://t.co/66xuG5vjnN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081458954446819604",
+    "in_reply_to_user_id": "2077346715313811457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081445889428893928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huishui666 回顾经典之 https://t.co/66xuG5vjnN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2081458934951669760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLT35BbcAAreHZ.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081458934951669760"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2081445889428893928",
+        "created_at": "2026-07-26T19:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T20:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081458954446819604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077346715313811457",
+              "start": 0,
+              "username": "Huishui666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/66xuG5vjnN",
+              "end": 41,
+              "expanded_url": "https://x.com/pr80net/status/2081458954446819604/photo/1",
+              "media_key": "3_2081458934951669760",
+              "start": 18,
+              "url": "https://t.co/66xuG5vjnN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081458954446819604",
+        "in_reply_to_user_id": "2077346715313811457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081445889428893928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huishui666 回顾经典之 https://t.co/66xuG5vjnN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077346715313811457",
+        "conversation_id": "2081445889428893928",
+        "created_at": "2026-07-26T18:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081445889428893928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081445889428893928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抖人是不是吃止痛片（对乙酰氨基酚）都会爽啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5UAb8\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5UAb8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1RGI"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 214,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/Un7kre1RGI",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-15T10:57:49.000Z",
+        "description": "药物的奴隶",
+        "id": "2077346715313811457",
+        "location": "沈",
+        "name": "Huishui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077347394929516544/Co1yaLwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "Huishui666",
+        "verified": false
+      }
+    ]
+  }
+}

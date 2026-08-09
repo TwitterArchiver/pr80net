@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2084293044342538250",
+    "created_at": "2026-08-04T09:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084571841914655122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677250155886829568",
+          "start": 0,
+          "username": "zifenthree"
+        },
+        {
+          "end": 22,
+          "id": "38217523",
+          "start": 12,
+          "username": "ZakkysLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084571841914655122",
+    "in_reply_to_user_id": "1677250155886829568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084312185191412148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zifenthree @ZakkysLab 道不同不相为谋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2084293044342538250",
+        "created_at": "2026-08-04T09:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084571841914655122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677250155886829568",
+              "start": 0,
+              "username": "zifenthree"
+            },
+            {
+              "end": 22,
+              "id": "38217523",
+              "start": 12,
+              "username": "ZakkysLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084571841914655122",
+        "in_reply_to_user_id": "1677250155886829568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084312185191412148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zifenthree @ZakkysLab 道不同不相为谋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677250155886829568",
+        "conversation_id": "2084293044342538250",
+        "created_at": "2026-08-03T16:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084312185191412148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 19,
+              "id": "38217523",
+              "start": 9,
+              "username": "ZakkysLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084312185191412148",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我的文笔很差凑合看吧🤔\n最近超级倒霉，跟对象冷战了四五天大概率是要分手了。起因只是他想去纹身，我说他喜欢的图案很丑不让他去。实际上他应该也没有钱纹，不过我也真的做不到和一个没品的人在一起！\n我养的鸟前天差点死掉，粘在粘蝇球上扯都扯不下来，我拿剪刀给飞羽尾羽剪掉才救下来，它还顺手给我种的weed打翻了两株。我买来戒烟用的伐尼克兰就吃了两粒，被我妈当空药盒扔掉了。\n不过最近心情倒是还可以，我似乎开朗了很多，在现实能做到主动和人开口说话了。就是每次出门都会因为天气太热很烦躁，出门难免要跟人交流。每次有人问我一些常识性问题我都有一种想打人的冲动，不过还是忍着没有发作。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084293044342538250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @ZakkysLab 我的文笔很差凑合看吧🤔\n最近超级倒霉，跟对象冷战了四五天大概率是要分手了。起因只是他想去纹身，我说他喜欢的图案很丑不让他去。实际上他应该也没有钱纹，不过我也真的做不到和一个没品的人在一起！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2084293044342538250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 485,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-07T09:36:22.000Z",
+        "description": "09 心理男生理男 oder 瘾君子 大毒枭 健全逼没有任何心理疾病 纯爱磕",
+        "id": "1677250155886829568",
+        "name": "自分 2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083544615509225472/G7R9orI-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 47,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "zifenthree",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-06T16:33:52.000Z",
+        "description": "welcome to los pollos hermanos.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/I2Is12SUjx"
+              }
+            ]
+          }
+        },
+        "id": "38217523",
+        "name": "Zakky's LAB 养号中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083182116012224512/rSNbGMS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 56,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/I2Is12SUjx",
+        "username": "ZakkysLab",
+        "verified": true
+      }
+    ]
+  }
+}

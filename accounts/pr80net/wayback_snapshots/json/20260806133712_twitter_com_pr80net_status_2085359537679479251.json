@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2085359537679479251",
+    "created_at": "2026-08-06T13:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085359537679479251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1418060274100174849",
+          "start": 3,
+          "username": "kQDk96jFmD5uJf8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085359537679479251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085354348230631549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kQDk96jFmD5uJf8: 记录一下在推特上中的疯狂星期四，老哥人很好，我最开始点的还是三十多，老哥说吃饱吃好为主直接让我点满，最后还超了一点，老哥也没有说什么，大家真的可以关注一下，不关注我都替你们心疼，有这么真实的一位博主！不关注都没有道理。… https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085354323886911488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCqtXoasAA7V2i.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085354323865903104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCqtXjaIAAyqKI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2085359537679479251",
+        "created_at": "2026-08-06T13:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085359537679479251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1418060274100174849",
+              "start": 3,
+              "username": "kQDk96jFmD5uJf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085359537679479251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085354348230631549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kQDk96jFmD5uJf8: 记录一下在推特上中的疯狂星期四，老哥人很好，我最开始点的还是三十多，老哥说吃饱吃好为主直接让我点满，最后还超了一点，老哥也没有说什么，大家真的可以关注一下，不关注我都替你们心疼，有这么真实的一位博主！不关注都没有道理。… https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085354323886911488",
+            "3_2085354323865903104"
+          ]
+        },
+        "author_id": "1418060274100174849",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085354348230631549",
+        "created_at": "2026-08-06T13:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085354348230631549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sT5MiJcxm2",
+              "end": 133,
+              "expanded_url": "https://x.com/kQDk96jFmD5uJf8/status/2085354348230631549/photo/1",
+              "media_key": "3_2085354323886911488",
+              "start": 110,
+              "url": "https://t.co/sT5MiJcxm2"
+            },
+            {
+              "display_url": "pic.x.com/sT5MiJcxm2",
+              "end": 133,
+              "expanded_url": "https://x.com/kQDk96jFmD5uJf8/status/2085354348230631549/photo/1",
+              "media_key": "3_2085354323865903104",
+              "start": 110,
+              "url": "https://t.co/sT5MiJcxm2"
+            },
+            {
+              "display_url": "x.com/pr80net/status…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/pr80net/status/2085331968477261831",
+              "start": 134,
+              "url": "https://t.co/UGC6XHjXRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085354348230631549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 236,
+                "id": "1132729630245265408",
+                "start": 228,
+                "username": "pr80net"
+              }
+            ]
+          },
+          "text": "记录一下在推特上中的疯狂星期四，老哥人很好，我最开始点的还是三十多，老哥说吃饱吃好为主直接让我点满，最后还超了一点，老哥也没有说什么，大家真的可以关注一下，不关注我都替你们心疼，有这么真实的一位博主！不关注都没有道理。\n还有我替老哥澄清一下，你们可以去看一下之前的推文，每一个中奖的都有公布，并且不收取任何快递费用，只需要你们提供一个地址，直接送到你家门口，这么好的博主你们还不心动吗！我把艾特在下面\n你们关注➕下，最后在感谢老哥的疯狂星期四，十足美味😋\n@pr80net"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085331968477261831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "记录一下在推特上中的疯狂星期四，老哥人很好，我最开始点的还是三十多，老哥说吃饱吃好为主直接让我点满，最后还超了一点，老哥也没有说什么，大家真的可以关注一下，不关注我都替你们心疼，有这么真实的一位博主！不关注都没有道理。 https://t.co/sT5MiJcxm2 https://t.co/UGC6XHjXRg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2084995885113745709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 516,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-22T04:08:19.000Z",
+        "description": "薪火｜属于原创者的协作平台\n拒绝虚假数据，你的真实表达值得对等回报\n预算托管兜底，API验真守护公平收益\n接单锁奖励，靠创作积累XP瓜分奖励池\n每一束微小创作微光，终将汇聚成燎原星火 ：https://t.co/1JS17aOGsL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xinhuo123.com/auth?ref=7A90E…",
+                "end": 116,
+                "expanded_url": "https://xinhuo123.com/auth?ref=7A90E53B5D",
+                "start": 93,
+                "url": "https://t.co/1JS17aOGsL"
+              }
+            ]
+          }
+        },
+        "id": "1418060274100174849",
+        "name": "缀|Ultiverse⚡️🐑",
+        "pinned_tweet_id": "2080571952910221312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1442885862631489540/jTG_WilC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 2493,
+          "like_count": 6692,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 5139
+        },
+        "url": "",
+        "username": "kQDk96jFmD5uJf8",
+        "verified": true
+      }
+    ]
+  }
+}

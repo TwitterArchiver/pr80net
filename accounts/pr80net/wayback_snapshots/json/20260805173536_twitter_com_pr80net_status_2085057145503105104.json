@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2084995885113745709",
+    "created_at": "2026-08-05T17:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085057145503105104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1257327365115412480",
+          "start": 0,
+          "username": "TomatoKami1"
+        },
+        {
+          "end": 23,
+          "id": "38217523",
+          "start": 13,
+          "username": "ZakkysLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085057145503105104",
+    "in_reply_to_user_id": "1257327365115412480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085056009165500514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TomatoKami1 @ZakkysLab 星露谷是神，谁赞成，谁反对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2084995885113745709",
+        "created_at": "2026-08-05T17:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085057145503105104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1257327365115412480",
+              "start": 0,
+              "username": "TomatoKami1"
+            },
+            {
+              "end": 23,
+              "id": "38217523",
+              "start": 13,
+              "username": "ZakkysLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085057145503105104",
+        "in_reply_to_user_id": "1257327365115412480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085056009165500514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TomatoKami1 @ZakkysLab 星露谷是神，谁赞成，谁反对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257327365115412480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2084995885113745709",
+        "created_at": "2026-08-05T17:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085056009165500514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 19,
+              "id": "38217523",
+              "start": 9,
+              "username": "ZakkysLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085056009165500514",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084995885113745709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @ZakkysLab 喜欢玩星露谷的休闲老农民来了...爱玩不太费脑子且高自由的游戏。2077那样可以在雨里听电台的氛围感（？）游戏也很喜欢。家里蹲不是在赛博打工就是在看电影..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2084995885113745709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 515,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-04T15:13:07.000Z",
+        "description": "异世勇者大人的呕吐箱^^☆精神不安定祈祷中......欢迎找我玩。互fo大欢迎",
+        "id": "1257327365115412480",
+        "location": "你面前",
+        "name": "坦度螺酮盖饭",
+        "pinned_tweet_id": "2041147076042699151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052995841544327168/UXlTdvcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 19,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "TomatoKami1",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-06T16:33:52.000Z",
+        "description": "welcome to los pollos hermanos.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/I2Is12SUjx"
+              }
+            ]
+          }
+        },
+        "id": "38217523",
+        "name": "Zakky's LAB 养号中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083182116012224512/rSNbGMS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 57,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/I2Is12SUjx",
+        "username": "ZakkysLab",
+        "verified": true
+      }
+    ]
+  }
+}

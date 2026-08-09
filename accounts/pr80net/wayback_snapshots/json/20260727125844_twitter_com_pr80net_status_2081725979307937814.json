@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2081691567375683868",
+    "created_at": "2026-07-27T12:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081725979307937814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1632464293835730947",
+          "start": 0,
+          "username": "William018018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081725979307937814",
+    "in_reply_to_user_id": "1632464293835730947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081720156636516388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@William018018 能见到想见的人这一块，布洛芬能不能o这一块，打电话一起o这一块，o感康能减肥这一块，吃完恍惚间你好像就在我身边从未离开这一块，o感康还打上#拒绝药物滥用 这一块，唯一能见到他的方式这一块，兜不住屎这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2081691567375683868",
+        "created_at": "2026-07-27T12:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081725979307937814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1632464293835730947",
+              "start": 0,
+              "username": "William018018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081725979307937814",
+        "in_reply_to_user_id": "1632464293835730947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081720156636516388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@William018018 能见到想见的人这一块，布洛芬能不能o这一块，打电话一起o这一块，o感康能减肥这一块，吃完恍惚间你好像就在我身边从未离开这一块，o感康还打上#拒绝药物滥用 这一块，唯一能见到他的方式这一块，兜不住屎这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632464293835730947",
+        "conversation_id": "2081691567375683868",
+        "created_at": "2026-07-27T12:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081720156636516388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081720156636516388",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081691567375683868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net 能见到想见的人这一块，布洛芬能不能o这一块，打电话一起o这一块，o感康能减肥这一块，吃完恍惚间你好像就在我身边从未离开这一块，o感康还打上#拒绝药物滥用 这一块，唯一能见到他的方式这一块，兜不住屎这一块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5UAb8\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's pr80原粉 @ZakkyV10\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "ZakkyV10"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5UAb8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1RGI"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 371,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/Un7kre1RGI",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-05T19:33:21.000Z",
+        "description": "",
+        "id": "1632464293835730947",
+        "name": "William",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632464862742716418/YgDPdZqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 21,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "William018018",
+        "verified": false
+      }
+    ]
+  }
+}

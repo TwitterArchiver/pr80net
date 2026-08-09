@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084597800592183296",
+        "3_2084597800583712768"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2084595676726591628",
+    "created_at": "2026-08-04T11:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084597810851385344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1978428582100938752",
+          "start": 0,
+          "username": "q1anzhuo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eccOya715N",
+          "end": 33,
+          "expanded_url": "https://x.com/pr80net/status/2084597810851385344/photo/1",
+          "media_key": "3_2084597800592183296",
+          "start": 10,
+          "url": "https://t.co/eccOya715N"
+        },
+        {
+          "display_url": "pic.x.com/eccOya715N",
+          "end": 33,
+          "expanded_url": "https://x.com/pr80net/status/2084597810851385344/photo/1",
+          "media_key": "3_2084597800583712768",
+          "start": 10,
+          "url": "https://t.co/eccOya715N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084597810851385344",
+    "in_reply_to_user_id": "1978428582100938752",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084595676726591628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q1anzhuo https://t.co/eccOya715N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2084597800592183296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO36p6vbkAAPQ2u.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2084597800583712768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO36p6taUAAtR0f.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084597800592183296",
+            "3_2084597800583712768"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2084595676726591628",
+        "created_at": "2026-08-04T11:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084597810851385344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1978428582100938752",
+              "start": 0,
+              "username": "q1anzhuo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eccOya715N",
+              "end": 33,
+              "expanded_url": "https://x.com/pr80net/status/2084597810851385344/photo/1",
+              "media_key": "3_2084597800592183296",
+              "start": 10,
+              "url": "https://t.co/eccOya715N"
+            },
+            {
+              "display_url": "pic.x.com/eccOya715N",
+              "end": 33,
+              "expanded_url": "https://x.com/pr80net/status/2084597810851385344/photo/1",
+              "media_key": "3_2084597800583712768",
+              "start": 10,
+              "url": "https://t.co/eccOya715N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084597810851385344",
+        "in_reply_to_user_id": "1978428582100938752",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084595676726591628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q1anzhuo https://t.co/eccOya715N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978428582100938752",
+        "conversation_id": "2084595676726591628",
+        "created_at": "2026-08-04T11:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084595676726591628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084595676726591628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么比较容易获取的致幻剂推荐，法律风险不高的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2084293044342538250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 493,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 105
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-15T11:52:30.000Z",
+        "description": "叫我小浅就好，这里什么都没有，只有一个精神病，一个呆傻的孩子",
+        "id": "1978428582100938752",
+        "location": "此岸与彼岸的交界",
+        "name": "翻越比利牛斯山",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081159168669745152/4Iw5I1TY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 247,
+          "like_count": 2686,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "q1anzhuo",
+        "verified": false
+      }
+    ]
+  }
+}

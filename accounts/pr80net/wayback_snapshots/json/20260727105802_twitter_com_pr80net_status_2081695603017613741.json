@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081694295455883264"
+      ],
+      "media_source_tweet_id": [
+        "2081694319883546733"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2081695603017613741",
+    "created_at": "2026-07-27T10:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081695603017613741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1278105503391002624",
+          "start": 3,
+          "username": "ZakkyV10"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hQa5SGdBRF",
+          "end": 79,
+          "expanded_url": "https://x.com/ZakkyV10/status/2081694319883546733/photo/1",
+          "media_key": "3_2081694295455883264",
+          "start": 56,
+          "url": "https://t.co/hQa5SGdBRF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081695603017613741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081694319883546733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZakkyV10: 图片由豆包AI生成\n20:11 剧烈摄入普瑞巴林原粉\nZakky's 热爱与艺术。 https://t.co/hQa5SGdBRF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2081694295455883264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOp7rOa4AAoU21.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081694295455883264"
+          ]
+        },
+        "author_id": "1278105503391002624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081694319883546733",
+        "created_at": "2026-07-27T10:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081694319883546733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQa5SGdBRF",
+              "end": 65,
+              "expanded_url": "https://x.com/ZakkyV10/status/2081694319883546733/photo/1",
+              "media_key": "3_2081694295455883264",
+              "start": 42,
+              "url": "https://t.co/hQa5SGdBRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081694319883546733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "图片由豆包AI生成\n20:11 剧烈摄入普瑞巴林原粉\nZakky's 热爱与艺术。 https://t.co/hQa5SGdBRF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081694295455883264"
+          ],
+          "media_source_tweet_id": [
+            "2081694319883546733"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081695603017613741",
+        "created_at": "2026-07-27T10:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081695603017613741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1278105503391002624",
+              "start": 3,
+              "username": "ZakkyV10"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQa5SGdBRF",
+              "end": 79,
+              "expanded_url": "https://x.com/ZakkyV10/status/2081694319883546733/photo/1",
+              "media_key": "3_2081694295455883264",
+              "start": 56,
+              "url": "https://t.co/hQa5SGdBRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081695603017613741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081694319883546733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZakkyV10: 图片由豆包AI生成\n20:11 剧烈摄入普瑞巴林原粉\nZakky's 热爱与艺术。 https://t.co/hQa5SGdBRF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5UAb8\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's pr80原粉 @ZakkyV10\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "ZakkyV10"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5UAb8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1RGI"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 338,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 50
+        },
+        "url": "https://t.co/Un7kre1RGI",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-30T23:18:16.000Z",
+        "description": "Renegade 危险将我包围\nRenegade 浓雾刺我脊椎\nZakky's pr80原粉 市面最高纯度99.7%\n只用心做pr80一件产品，因此细节是无死角拉满的。\n永夜安港赞助商\nhttps://t.co/Gf73fISC5F",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ZakkyPR80",
+                "end": 116,
+                "expanded_url": "https://t.me/ZakkyPR80",
+                "start": 93,
+                "url": "https://t.co/Gf73fISC5F"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/ZW8e3JmfB0"
+              }
+            ]
+          }
+        },
+        "id": "1278105503391002624",
+        "name": "Zakky普瑞 V10",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079957635839950848/JY7BYGYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 84,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 10
+        },
+        "url": "https://t.co/ZW8e3JmfB0",
+        "username": "ZakkyV10",
+        "verified": false
+      }
+    ]
+  }
+}

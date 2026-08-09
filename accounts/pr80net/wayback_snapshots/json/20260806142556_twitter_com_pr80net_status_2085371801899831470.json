@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085371542595399680"
+      ],
+      "media_source_tweet_id": [
+        "2085371555421581433"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2085371801899831470",
+    "created_at": "2026-08-06T14:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085371801899831470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1520079308005711872",
+          "start": 3,
+          "username": "Izay01Sakuya"
+        },
+        {
+          "end": 28,
+          "id": "1132729630245265408",
+          "start": 20,
+          "username": "pr80net"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wf9hxTlMmj",
+          "end": 60,
+          "expanded_url": "https://x.com/Izay01Sakuya/status/2085371555421581433/photo/1",
+          "media_key": "3_2085371542595399680",
+          "start": 37,
+          "url": "https://t.co/Wf9hxTlMmj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085371801899831470",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085371555421581433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Izay01Sakuya: 感谢@pr80net的投喂，喝爽了😋 https://t.co/Wf9hxTlMmj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2085371542595399680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPC6XoUbcAAPLij.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085371542595399680"
+          ]
+        },
+        "author_id": "1520079308005711872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085371555421581433",
+        "created_at": "2026-08-06T14:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085371555421581433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1132729630245265408",
+              "start": 2,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wf9hxTlMmj",
+              "end": 42,
+              "expanded_url": "https://x.com/Izay01Sakuya/status/2085371555421581433/photo/1",
+              "media_key": "3_2085371542595399680",
+              "start": 19,
+              "url": "https://t.co/Wf9hxTlMmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085371555421581433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@pr80net的投喂，喝爽了😋 https://t.co/Wf9hxTlMmj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085371542595399680"
+          ],
+          "media_source_tweet_id": [
+            "2085371555421581433"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085371801899831470",
+        "created_at": "2026-08-06T14:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085371801899831470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1520079308005711872",
+              "start": 3,
+              "username": "Izay01Sakuya"
+            },
+            {
+              "end": 28,
+              "id": "1132729630245265408",
+              "start": 20,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wf9hxTlMmj",
+              "end": 60,
+              "expanded_url": "https://x.com/Izay01Sakuya/status/2085371555421581433/photo/1",
+              "media_key": "3_2085371542595399680",
+              "start": 37,
+              "url": "https://t.co/Wf9hxTlMmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085371801899831470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085371555421581433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Izay01Sakuya: 感谢@pr80net的投喂，喝爽了😋 https://t.co/Wf9hxTlMmj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2084995885113745709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 516,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-29T16:35:32.000Z",
+        "description": "😨",
+        "id": "1520079308005711872",
+        "name": "战斗女仆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084483245371166720/lrzoAWpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 10,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "Izay01Sakuya",
+        "verified": false
+      }
+    ]
+  }
+}
