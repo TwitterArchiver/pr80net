@@ -1,0 +1,652 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086669335482019840",
+        "3_2086669335532277760",
+        "3_2086669335528148992",
+        "3_2086669335490367488"
+      ],
+      "media_source_tweet_id": [
+        "2086669342868217899",
+        "2086669342868217899",
+        "2086669342868217899",
+        "2086669342868217899"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2086671306712559681",
+    "created_at": "2026-08-10T04:29:42.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T05:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086671306712559681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2059212406451240960",
+          "start": 3,
+          "username": "Cxq6666"
+        },
+        {
+          "end": 24,
+          "id": "357176113",
+          "start": 13,
+          "username": "soobin4869"
+        },
+        {
+          "end": 35,
+          "id": "38217523",
+          "start": 25,
+          "username": "ZakkysLab"
+        },
+        {
+          "end": 44,
+          "id": "1132729630245265408",
+          "start": 36,
+          "username": "pr80net"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9It8P5I6zr",
+          "end": 83,
+          "expanded_url": "https://x.com/Cxq6666/status/2086669342868217899/photo/1",
+          "media_key": "3_2086669335482019840",
+          "start": 60,
+          "url": "https://t.co/9It8P5I6zr"
+        },
+        {
+          "display_url": "pic.x.com/9It8P5I6zr",
+          "end": 83,
+          "expanded_url": "https://x.com/Cxq6666/status/2086669342868217899/photo/1",
+          "media_key": "3_2086669335532277760",
+          "start": 60,
+          "url": "https://t.co/9It8P5I6zr"
+        },
+        {
+          "display_url": "pic.x.com/9It8P5I6zr",
+          "end": 83,
+          "expanded_url": "https://x.com/Cxq6666/status/2086669342868217899/photo/1",
+          "media_key": "3_2086669335528148992",
+          "start": 60,
+          "url": "https://t.co/9It8P5I6zr"
+        },
+        {
+          "display_url": "pic.x.com/9It8P5I6zr",
+          "end": 83,
+          "expanded_url": "https://x.com/Cxq6666/status/2086669342868217899/photo/1",
+          "media_key": "3_2086669335490367488",
+          "start": 60,
+          "url": "https://t.co/9It8P5I6zr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086671306712559681",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086669335482019840"
+      },
+      {
+        "media_key": "3_2086669335532277760"
+      },
+      {
+        "media_key": "3_2086669335528148992"
+      },
+      {
+        "media_key": "3_2086669335490367488"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086669342868217899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cxq6666: @soobin4869 @ZakkysLab @pr80net 有这么貌美的普瑞巴林进入中国 https://t.co/9It8P5I6zr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2086669335482019840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVWtHkbMAA1gl4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2086669335532277760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVWtHwaEAA5kU8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2086669335528148992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVWtHvbEAAW7IJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2086669335490367488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVWtHmakAAcxix.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086669335482019840",
+            "3_2086669335532277760",
+            "3_2086669335528148992",
+            "3_2086669335490367488"
+          ]
+        },
+        "author_id": "2059212406451240960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2086669342868217899",
+        "created_at": "2026-08-10T04:21:54.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086669342868217899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "357176113",
+              "start": 0,
+              "username": "soobin4869"
+            },
+            {
+              "end": 22,
+              "id": "38217523",
+              "start": 12,
+              "username": "ZakkysLab"
+            },
+            {
+              "end": 31,
+              "id": "1132729630245265408",
+              "start": 23,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9It8P5I6zr",
+              "end": 70,
+              "expanded_url": "https://x.com/Cxq6666/status/2086669342868217899/photo/1",
+              "media_key": "3_2086669335482019840",
+              "start": 47,
+              "url": "https://t.co/9It8P5I6zr"
+            },
+            {
+              "display_url": "pic.x.com/9It8P5I6zr",
+              "end": 70,
+              "expanded_url": "https://x.com/Cxq6666/status/2086669342868217899/photo/1",
+              "media_key": "3_2086669335532277760",
+              "start": 47,
+              "url": "https://t.co/9It8P5I6zr"
+            },
+            {
+              "display_url": "pic.x.com/9It8P5I6zr",
+              "end": 70,
+              "expanded_url": "https://x.com/Cxq6666/status/2086669342868217899/photo/1",
+              "media_key": "3_2086669335528148992",
+              "start": 47,
+              "url": "https://t.co/9It8P5I6zr"
+            },
+            {
+              "display_url": "pic.x.com/9It8P5I6zr",
+              "end": 70,
+              "expanded_url": "https://x.com/Cxq6666/status/2086669342868217899/photo/1",
+              "media_key": "3_2086669335490367488",
+              "start": 47,
+              "url": "https://t.co/9It8P5I6zr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086669342868217899",
+        "in_reply_to_user_id": "357176113",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086669335482019840"
+          },
+          {
+            "media_key": "3_2086669335532277760"
+          },
+          {
+            "media_key": "3_2086669335528148992"
+          },
+          {
+            "media_key": "3_2086669335490367488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@soobin4869 @ZakkysLab @pr80net 有这么貌美的普瑞巴林进入中国 https://t.co/9It8P5I6zr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086669335482019840",
+            "3_2086669335532277760",
+            "3_2086669335528148992",
+            "3_2086669335490367488"
+          ],
+          "media_source_tweet_id": [
+            "2086669342868217899",
+            "2086669342868217899",
+            "2086669342868217899",
+            "2086669342868217899"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2086671306712559681",
+        "created_at": "2026-08-10T04:29:42.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086671306712559681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2059212406451240960",
+              "start": 3,
+              "username": "Cxq6666"
+            },
+            {
+              "end": 24,
+              "id": "357176113",
+              "start": 13,
+              "username": "soobin4869"
+            },
+            {
+              "end": 35,
+              "id": "38217523",
+              "start": 25,
+              "username": "ZakkysLab"
+            },
+            {
+              "end": 44,
+              "id": "1132729630245265408",
+              "start": 36,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9It8P5I6zr",
+              "end": 83,
+              "expanded_url": "https://x.com/Cxq6666/status/2086669342868217899/photo/1",
+              "media_key": "3_2086669335482019840",
+              "start": 60,
+              "url": "https://t.co/9It8P5I6zr"
+            },
+            {
+              "display_url": "pic.x.com/9It8P5I6zr",
+              "end": 83,
+              "expanded_url": "https://x.com/Cxq6666/status/2086669342868217899/photo/1",
+              "media_key": "3_2086669335532277760",
+              "start": 60,
+              "url": "https://t.co/9It8P5I6zr"
+            },
+            {
+              "display_url": "pic.x.com/9It8P5I6zr",
+              "end": 83,
+              "expanded_url": "https://x.com/Cxq6666/status/2086669342868217899/photo/1",
+              "media_key": "3_2086669335528148992",
+              "start": 60,
+              "url": "https://t.co/9It8P5I6zr"
+            },
+            {
+              "display_url": "pic.x.com/9It8P5I6zr",
+              "end": 83,
+              "expanded_url": "https://x.com/Cxq6666/status/2086669342868217899/photo/1",
+              "media_key": "3_2086669335490367488",
+              "start": 60,
+              "url": "https://t.co/9It8P5I6zr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086671306712559681",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086669335482019840"
+          },
+          {
+            "media_key": "3_2086669335532277760"
+          },
+          {
+            "media_key": "3_2086669335528148992"
+          },
+          {
+            "media_key": "3_2086669335490367488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086669342868217899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cxq6666: @soobin4869 @ZakkysLab @pr80net 有这么貌美的普瑞巴林进入中国 https://t.co/9It8P5I6zr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2086671306712559681",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2085697514506993872",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 536,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2086669342868217899",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 199,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 815
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-17T23:44:14.000Z",
+        "description": "https://t.co/bUgrQZuqss\n@ZakkysLab\nPR原粉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          }
+        },
+        "id": "357176113",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2086379752496214513",
+        "name": "ZakkysLab卖货号",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357176113/1785944029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085026434775724032/r4EQZgw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 9
+        },
+        "url": "https://t.co/bUgrQZuqss",
+        "username": "soobin4869",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-05-06T16:33:52.000Z",
+        "description": "welcome to los pollos hermanos.\n正宗炸鸡兄弟美食，99.7% pr80，扎鸡叔很高兴为您服务",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/I2Is12SUjx"
+              }
+            ]
+          }
+        },
+        "id": "38217523",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086460365756621255",
+        "name": "Zakky's LAB 养号中",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38217523/1785504296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083182116012224512/rSNbGMS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 61,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/I2Is12SUjx",
+        "username": "ZakkysLab",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

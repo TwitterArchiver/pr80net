@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2086385982858010757",
+    "created_at": "2026-08-09T11:07:18.000Z",
+    "display_text_range": [
+      25,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T12:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086408978763043178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1583489949348679681",
+          "start": 0,
+          "username": "mmminika"
+        },
+        {
+          "end": 24,
+          "id": "1990083055231631361",
+          "start": 10,
+          "username": "Psilocybe8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086408978763043178",
+    "in_reply_to_user_id": "1583489949348679681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086404101097889892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmminika @Psilocybe8964 这位更是老吃家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2086385982858010757",
+        "created_at": "2026-08-09T11:07:18.000Z",
+        "display_text_range": [
+          25,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086408978763043178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1583489949348679681",
+              "start": 0,
+              "username": "mmminika"
+            },
+            {
+              "end": 24,
+              "id": "1990083055231631361",
+              "start": 10,
+              "username": "Psilocybe8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086408978763043178",
+        "in_reply_to_user_id": "1583489949348679681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086404101097889892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmminika @Psilocybe8964 这位更是老吃家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583489949348679681",
+        "conversation_id": "2086385982858010757",
+        "created_at": "2026-08-09T10:47:55.000Z",
+        "display_text_range": [
+          24,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086404101097889892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 23,
+              "id": "1990083055231631361",
+              "start": 9,
+              "username": "Psilocybe8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086404101097889892",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086385982858010757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @Psilocybe8964 我更喜欢O二氧化碳和他的复方制剂，加点C12H22O11调味"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2086408978763043178",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2085697514506993872",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 538,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-21T16:06:53.000Z",
+        "description": "🇨🇳Chinesisch🇩🇪 Deutsch 🇬🇧ein bisschen Englisch ／你可以称呼我为Maximilian／画水彩/莫妮卡的狂热侍从/mtf 2024 .7/06年 ／白头菲尔德1 ／植物大战僵尸2／火影忍者／喜欢写诗、看书和听音乐！/欧陆哲学学习者，齐拉黑学派／追寻回溯性的法力（雾",
+        "id": "1583489949348679681",
+        "is_identity_verified": false,
+        "location": "法兰西第一共和国 旺代 ",
+        "most_recent_tweet_id": "2086404101097889892",
+        "name": "超级机枪豌豆🫧💊#追四",
+        "pinned_tweet_id": "1966925353714340221",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1583489949348679681/1776596743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061089299572142080/anOkARng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 535,
+          "like_count": 2726,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 491
+        },
+        "url": "",
+        "username": "mmminika",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-16T15:45:32.000Z",
+        "description": "在你的個人資料上加入自我介紹",
+        "id": "1990083055231631361",
+        "is_identity_verified": false,
+        "location": "多米力高威威维利星",
+        "most_recent_tweet_id": "2086400668840104398",
+        "name": "^ ^",
+        "pinned_tweet_id": "2062942397936570706",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990083055231631361/1781402845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081024310521802752/3mlLsNXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 40,
+          "like_count": 7128,
+          "listed_count": 1,
+          "media_count": 458,
+          "tweet_count": 4454
+        },
+        "url": "",
+        "username": "Psilocybe8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

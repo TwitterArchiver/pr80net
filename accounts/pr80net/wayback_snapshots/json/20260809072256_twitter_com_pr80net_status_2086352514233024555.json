@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086344730624065536"
+      ],
+      "media_source_tweet_id": [
+        "2086344738219987364"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2086352514233024555",
+    "created_at": "2026-08-09T07:22:56.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T08:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086352514233024555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1745165412441206784",
+          "start": 3,
+          "username": "KIKOBABY90s"
+        },
+        {
+          "end": 28,
+          "id": "1132729630245265408",
+          "start": 20,
+          "username": "pr80net"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NHTlG8Q0bo",
+          "end": 52,
+          "expanded_url": "https://x.com/KIKOBABY90s/status/2086344738219987364/photo/1",
+          "media_key": "3_2086344730624065536",
+          "start": 29,
+          "url": "https://t.co/NHTlG8Q0bo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086352514233024555",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086344730624065536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086344738219987364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KIKOBABY90s: 爱来自@pr80net https://t.co/NHTlG8Q0bo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086344730624065536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQveoPbAAAEeU0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086344730624065536"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2086344738219987364",
+        "created_at": "2026-08-09T06:52:02.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086344738219987364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1132729630245265408",
+              "start": 3,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NHTlG8Q0bo",
+              "end": 35,
+              "expanded_url": "https://x.com/KIKOBABY90s/status/2086344738219987364/photo/1",
+              "media_key": "3_2086344730624065536",
+              "start": 12,
+              "url": "https://t.co/NHTlG8Q0bo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086344738219987364",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086344730624065536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "爱来自@pr80net https://t.co/NHTlG8Q0bo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086344730624065536"
+          ],
+          "media_source_tweet_id": [
+            "2086344738219987364"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2086352514233024555",
+        "created_at": "2026-08-09T07:22:56.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T08:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086352514233024555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1745165412441206784",
+              "start": 3,
+              "username": "KIKOBABY90s"
+            },
+            {
+              "end": 28,
+              "id": "1132729630245265408",
+              "start": 20,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NHTlG8Q0bo",
+              "end": 52,
+              "expanded_url": "https://x.com/KIKOBABY90s/status/2086344738219987364/photo/1",
+              "media_key": "3_2086344730624065536",
+              "start": 29,
+              "url": "https://t.co/NHTlG8Q0bo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086352514233024555",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086344730624065536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086344738219987364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KIKOBABY90s: 爱来自@pr80net https://t.co/NHTlG8Q0bo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2086352514233024555",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2085697514506993872",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 537,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2086344738219987364",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 96,
+          "like_count": 859,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

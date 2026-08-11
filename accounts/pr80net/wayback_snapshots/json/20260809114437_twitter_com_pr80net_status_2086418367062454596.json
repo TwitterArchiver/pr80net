@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2086385982858010757",
+    "created_at": "2026-08-09T11:44:37.000Z",
+    "display_text_range": [
+      11,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T12:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086418367062454596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489034449199190017",
+          "start": 0,
+          "username": "Pigeon_Yi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086418367062454596",
+    "in_reply_to_user_id": "1489034449199190017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086417676013076985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pigeon_Yi 我也是我也是，我O了330毫升的复方一氧化二氢，他们管这个复方RC叫“可口可乐”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2086385982858010757",
+        "created_at": "2026-08-09T11:44:37.000Z",
+        "display_text_range": [
+          11,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086418367062454596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489034449199190017",
+              "start": 0,
+              "username": "Pigeon_Yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086418367062454596",
+        "in_reply_to_user_id": "1489034449199190017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086417676013076985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pigeon_Yi 我也是我也是，我O了330毫升的复方一氧化二氢，他们管这个复方RC叫“可口可乐”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489034449199190017",
+        "conversation_id": "2086385982858010757",
+        "created_at": "2026-08-09T11:41:52.000Z",
+        "display_text_range": [
+          9,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086417676013076985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086417676013076985",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086385982858010757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net 刚刚O了500毫升，戒断反应瞬间好了很多"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2086418367062454596",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2085697514506993872",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 538,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-03T00:34:26.000Z",
+        "description": "摄影/绳子/数码P/架子鼓/HAM\n成分复杂，欢迎私信约绳/拍/扩列\n暂时是@jlxc2001的秘书（嗯）\n家养基米：@maoxianACT\n有很多奇怪的技能，全国可飞，偏好长三角\nEN/CN：OK\n日本语学习中（）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "jlxc2001"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "maoxianACT"
+              }
+            ]
+          }
+        },
+        "id": "1489034449199190017",
+        "is_identity_verified": false,
+        "location": "香港/深圳/上海/你心里",
+        "most_recent_tweet_id": "2086417676013076985",
+        "name": "青空夏",
+        "pinned_tweet_id": "2055091696372003241",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489034449199190017/1783919924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624302496905830400/dSYbbHpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2530,
+          "following_count": 976,
+          "like_count": 12619,
+          "listed_count": 7,
+          "media_count": 906,
+          "tweet_count": 5355
+        },
+        "url": "",
+        "username": "Pigeon_Yi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
