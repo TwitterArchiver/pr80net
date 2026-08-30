@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2090033541812006912"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2090033562737340652",
+    "created_at": "2026-08-19T11:10:06.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090033562737340652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bP9fPTpVa2",
+          "end": 23,
+          "expanded_url": "https://x.com/pr80net/status/2090033562737340652/photo/1",
+          "media_key": "16_2090033541812006912",
+          "start": 0,
+          "url": "https://t.co/bP9fPTpVa2"
+        },
+        {
+          "display_url": "x.com/soobin4869/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/soobin4869/status/2090028046745235517",
+          "start": 24,
+          "url": "https://t.co/4qi1iqEB0q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090033562737340652",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "16_2090033541812006912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090028046745235517",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/bP9fPTpVa2 https://t.co/4qi1iqEB0q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_2090033541812006912",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQFKbsxbMAAtyZh.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQFKbsxbMAAtyZh.mp4"
+          }
+        ],
+        "width": 288
+      },
+      {
+        "height": 1016,
+        "media_key": "3_2090026793826951169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFES6kaoAEWAXY.jpg",
+        "width": 1155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2090033541812006912"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2090033562737340652",
+        "created_at": "2026-08-19T11:10:06.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090033562737340652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bP9fPTpVa2",
+              "end": 23,
+              "expanded_url": "https://x.com/pr80net/status/2090033562737340652/photo/1",
+              "media_key": "16_2090033541812006912",
+              "start": 0,
+              "url": "https://t.co/bP9fPTpVa2"
+            },
+            {
+              "display_url": "x.com/soobin4869/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/soobin4869/status/2090028046745235517",
+              "start": 24,
+              "url": "https://t.co/4qi1iqEB0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090033562737340652",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2090033541812006912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090028046745235517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/bP9fPTpVa2 https://t.co/4qi1iqEB0q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090026793826951169"
+          ]
+        },
+        "author_id": "357176113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090028046745235517",
+        "created_at": "2026-08-19T10:48:11.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090028046745235517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yAVqDkkZ3g",
+              "end": 88,
+              "expanded_url": "https://x.com/soobin4869/status/2090028046745235517/photo/1",
+              "media_key": "3_2090026793826951169",
+              "start": 65,
+              "url": "https://t.co/yAVqDkkZ3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090028046745235517",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090026793826951169"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扎鸡兄弟 99.7%正宗pr⑧⓪源粉 包装升级3.0封面预告\nWelcome to Los Pollos Hermanos :D https://t.co/yAVqDkkZ3g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @soobin4869\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "soobin4869"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2090033562737340652",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2089694815806271598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 568,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 279
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-17T23:44:14.000Z",
+        "description": "https://t.co/bUgrQZuqss\n扎鸡兄弟旗舰店，99.7%精品pr原粉",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          }
+        },
+        "id": "357176113",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2090032373723541841",
+        "name": "ZakkysLab卖货号",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357176113/1785944029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085026434775724032/r4EQZgw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 25,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/bUgrQZuqss",
+        "username": "soobin4869",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092231693084364800"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2092231968201302405",
+    "created_at": "2026-08-25T12:45:47.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092231968201302405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 56,
+          "id": "1574444559156789249",
+          "start": 43,
+          "username": "AndresgKevin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/puAKn7pUVR",
+          "end": 80,
+          "expanded_url": "https://x.com/pr80net/status/2092231968201302405/photo/1",
+          "media_key": "3_2092231693084364800",
+          "start": 57,
+          "url": "https://t.co/puAKn7pUVR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092231968201302405",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092231693084364800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "噩耗区传来扎鸡，你扎最不缺的就是号，来不及为死去的15世悲伤了，接下来上场的是扎16！@AndresgKevin https://t.co/puAKn7pUVR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 179,
+        "media_key": "3_2092231693084364800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkZo8YbkAAIWjK.png",
+        "width": 298
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092231693084364800"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2092231968201302405",
+        "created_at": "2026-08-25T12:45:47.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092231968201302405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 56,
+              "id": "1574444559156789249",
+              "start": 43,
+              "username": "AndresgKevin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/puAKn7pUVR",
+              "end": 80,
+              "expanded_url": "https://x.com/pr80net/status/2092231968201302405/photo/1",
+              "media_key": "3_2092231693084364800",
+              "start": 57,
+              "url": "https://t.co/puAKn7pUVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092231968201302405",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092231693084364800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "噩耗区传来扎鸡，你扎最不缺的就是号，来不及为死去的15世悲伤了，接下来上场的是扎16！@AndresgKevin https://t.co/puAKn7pUVR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab14\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "ZakkysLab14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2092231968201302405",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2091884407061922029",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 606,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-26T17:03:47.000Z",
+        "description": "扎鸡兄弟 Los Pollos Hermanos ，99.7%精品Ｐｒ原粉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/1BvWK5GDfC"
+              }
+            ]
+          }
+        },
+        "id": "1574444559156789249",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基，新墨西哥州",
+        "most_recent_tweet_id": "2092231126614159479",
+        "name": "扎 16世",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1574444559156789249/1787661577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092230354811981824/VBeiUbNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 25,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/1BvWK5GDfC",
+        "username": "AndresgKevin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

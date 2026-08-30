@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087759365231321088",
+        "3_2087759382901841920"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2087554225031336249",
+    "created_at": "2026-08-13T04:33:23.000Z",
+    "display_text_range": [
+      31,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T05:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087759394692067552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374681196412559360",
+          "start": 0,
+          "username": "KoiShi79538682"
+        },
+        {
+          "end": 31,
+          "id": "1675444856288870401",
+          "start": 16,
+          "username": "Maedarikuonly1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bW4XB9TkbL",
+          "end": 55,
+          "expanded_url": "https://x.com/pr80net/status/2087759394692067552/photo/1",
+          "media_key": "3_2087759365231321088",
+          "start": 32,
+          "url": "https://t.co/bW4XB9TkbL"
+        },
+        {
+          "display_url": "pic.x.com/bW4XB9TkbL",
+          "end": 55,
+          "expanded_url": "https://x.com/pr80net/status/2087759394692067552/photo/1",
+          "media_key": "3_2087759382901841920",
+          "start": 32,
+          "url": "https://t.co/bW4XB9TkbL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087759394692067552",
+    "in_reply_to_user_id": "1374681196412559360",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2087759365231321088"
+      },
+      {
+        "media_key": "3_2087759382901841920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087752133550768332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoiShi79538682 @Maedarikuonly1 https://t.co/bW4XB9TkbL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2087759365231321088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPk2FM0boAALRw3.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2087759382901841920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPk2GOpaYAAjOpq.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087752115724931072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPkvfOTa0AA_if-.jpg",
+        "width": 922
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2087752125321449472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPkvfyDaEAAsyF6.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087759365231321088",
+            "3_2087759382901841920"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2087554225031336249",
+        "created_at": "2026-08-13T04:33:23.000Z",
+        "display_text_range": [
+          31,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T05:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087759394692067552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374681196412559360",
+              "start": 0,
+              "username": "KoiShi79538682"
+            },
+            {
+              "end": 31,
+              "id": "1675444856288870401",
+              "start": 16,
+              "username": "Maedarikuonly1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bW4XB9TkbL",
+              "end": 55,
+              "expanded_url": "https://x.com/pr80net/status/2087759394692067552/photo/1",
+              "media_key": "3_2087759365231321088",
+              "start": 32,
+              "url": "https://t.co/bW4XB9TkbL"
+            },
+            {
+              "display_url": "pic.x.com/bW4XB9TkbL",
+              "end": 55,
+              "expanded_url": "https://x.com/pr80net/status/2087759394692067552/photo/1",
+              "media_key": "3_2087759382901841920",
+              "start": 32,
+              "url": "https://t.co/bW4XB9TkbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087759394692067552",
+        "in_reply_to_user_id": "1374681196412559360",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2087759365231321088"
+          },
+          {
+            "media_key": "3_2087759382901841920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087752133550768332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoiShi79538682 @Maedarikuonly1 https://t.co/bW4XB9TkbL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087752115724931072",
+            "3_2087752125321449472"
+          ]
+        },
+        "author_id": "1374681196412559360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087554225031336249",
+        "created_at": "2026-08-13T04:04:31.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T05:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087752133550768332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675444856288870401",
+              "start": 0,
+              "username": "Maedarikuonly1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/72tsHuf0rj",
+              "end": 42,
+              "expanded_url": "https://x.com/KoiShi79538682/status/2087752133550768332/photo/1",
+              "media_key": "3_2087752115724931072",
+              "start": 19,
+              "url": "https://t.co/72tsHuf0rj"
+            },
+            {
+              "display_url": "pic.x.com/72tsHuf0rj",
+              "end": 42,
+              "expanded_url": "https://x.com/KoiShi79538682/status/2087752133550768332/photo/1",
+              "media_key": "3_2087752125321449472",
+              "start": 19,
+              "url": "https://t.co/72tsHuf0rj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087752133550768332",
+        "in_reply_to_user_id": "1675444856288870401",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087752115724931072"
+          },
+          {
+            "media_key": "3_2087752125321449472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087554225031336249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maedarikuonly1 耍起 https://t.co/72tsHuf0rj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2087759394692067552",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2085697514506993872",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 543,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 218
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-24T11:15:20.000Z",
+        "description": "不OD 普通人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/6bLyhH",
+                "end": 23,
+                "expanded_url": "https://b23.tv/6bLyhH",
+                "start": 0,
+                "url": "https://t.co/A1shlGqsSc"
+              }
+            ]
+          }
+        },
+        "id": "1374681196412559360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087753154859340158",
+        "name": "超级沙包",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762433524450373632/ej3YeGuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 928,
+          "like_count": 2471,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 3150
+        },
+        "url": "https://t.co/A1shlGqsSc",
+        "username": "KoiShi79538682",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "is_identity_verified": false,
+        "location": "Украина",
+        "most_recent_tweet_id": "2087757292326572052",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1982503111794250042",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675444856288870401/1761213390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 273,
+          "like_count": 4334,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1421
+        },
+        "url": "",
+        "username": "Maedarikuonly1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

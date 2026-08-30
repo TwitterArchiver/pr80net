@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092149308359643136"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2092149990269628881",
+    "created_at": "2026-08-25T07:20:02.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T08:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092149990269628881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "449641629",
+          "start": 9,
+          "username": "licar1949"
+        },
+        {
+          "end": 36,
+          "id": "2073934453454614530",
+          "start": 22,
+          "username": "dreamolly1997"
+        },
+        {
+          "end": 50,
+          "id": "2065198847698337792",
+          "start": 39,
+          "username": "mzmorz8964"
+        },
+        {
+          "end": 70,
+          "id": "2055822314969665536",
+          "start": 54,
+          "username": "GrievousPotato1"
+        },
+        {
+          "end": 84,
+          "id": "1747805105200480256",
+          "start": 73,
+          "username": "Bestvavvst"
+        },
+        {
+          "end": 112,
+          "id": "1753252496217374720",
+          "start": 97,
+          "username": "ZakkysBabypink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pRwhQSKQ3K",
+          "end": 162,
+          "expanded_url": "https://x.com/pr80net/status/2092149990269628881/photo/1",
+          "media_key": "3_2092149308359643136",
+          "start": 139,
+          "url": "https://t.co/pRwhQSKQ3K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092149990269628881",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092149308359643136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天的空投砸中了：@licar1949 | @dreamolly1997 | @mzmorz8964  | @GrievousPotato1 | @Bestvavvst ，恭喜他们！今晚扎鸡叔 @ZakkysBabypink  依旧赞助我们的空投活动，主题正在策划，敬请期待！ https://t.co/pRwhQSKQ3K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2092149308359643136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjOthXbEAAudqo.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092149308359643136"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2092149990269628881",
+        "created_at": "2026-08-25T07:20:02.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T08:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092149990269628881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "449641629",
+              "start": 9,
+              "username": "licar1949"
+            },
+            {
+              "end": 36,
+              "id": "2073934453454614530",
+              "start": 22,
+              "username": "dreamolly1997"
+            },
+            {
+              "end": 50,
+              "id": "2065198847698337792",
+              "start": 39,
+              "username": "mzmorz8964"
+            },
+            {
+              "end": 70,
+              "id": "2055822314969665536",
+              "start": 54,
+              "username": "GrievousPotato1"
+            },
+            {
+              "end": 84,
+              "id": "1747805105200480256",
+              "start": 73,
+              "username": "Bestvavvst"
+            },
+            {
+              "end": 112,
+              "id": "1753252496217374720",
+              "start": 97,
+              "username": "ZakkysBabypink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRwhQSKQ3K",
+              "end": 162,
+              "expanded_url": "https://x.com/pr80net/status/2092149990269628881/photo/1",
+              "media_key": "3_2092149308359643136",
+              "start": 139,
+              "url": "https://t.co/pRwhQSKQ3K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092149990269628881",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092149308359643136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天的空投砸中了：@licar1949 | @dreamolly1997 | @mzmorz8964  | @GrievousPotato1 | @Bestvavvst ，恭喜他们！今晚扎鸡叔 @ZakkysBabypink  依旧赞助我们的空投活动，主题正在策划，敬请期待！ https://t.co/pRwhQSKQ3K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab14\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "ZakkysLab14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2092149990269628881",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2091884407061922029",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 600,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-12-29T09:58:30.000Z",
+        "description": "我是菜菜，大号@bisco91395061 被害，寻回互关中🥹！｜od自伤｜傻福精神病复学中｜LGBTQ🏳️‍🌈友好｜一般路过同人女｜直fo是喜欢泥💖🥰\n\n请跟我交朋友吧！ᕙ(  •̀ ᗜ •́  )ᕗ回fo会查同类！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "bisco91395061"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/himenonana",
+                "end": 23,
+                "expanded_url": "http://t.me/himenonana",
+                "start": 0,
+                "url": "https://t.co/PeMWnKgOVZ"
+              }
+            ]
+          }
+        },
+        "id": "449641629",
+        "is_identity_verified": false,
+        "location": "🚪52/188",
+        "most_recent_tweet_id": "2092146658389975389",
+        "name": "菜菜警官2.0（寻回互关）",
+        "pinned_tweet_id": "2089926828727439613",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/449641629/1786337077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086675062690807808/4roY9VYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 295,
+          "like_count": 1684,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/PeMWnKgOVZ",
+        "username": "licar1949",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "is_identity_verified": false,
+        "location": "molise 的心里！",
+        "most_recent_tweet_id": "2092106497329369431",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073934453454614530/1783770009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 416,
+          "like_count": 1936,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 2772
+        },
+        "url": "",
+        "username": "dreamolly1997",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T22:27:35.000Z",
+        "description": "“因恐惧而瑟瑟发抖人们啊，听我说……”\n这里是教主sama，间宫卓司人间体\n尼古丁重度依赖🤤🤤🤤\n最虔诚的信徒（逃生舱）@fmf5y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 60,
+                "username": "fmf5y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mzm_ssiah1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mzm_ssiah1",
+                "start": 0,
+                "url": "https://t.co/hu72BnifsZ"
+              }
+            ]
+          }
+        },
+        "id": "2065198847698337792",
+        "is_identity_verified": false,
+        "location": "終ノ空",
+        "most_recent_tweet_id": "2092051008734257542",
+        "name": "翻过护栏即可通往天堂",
+        "pinned_tweet_id": "2082912570957324352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065198847698337792/1787060244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072879285581545472/OSEMd5Da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 210,
+          "like_count": 1864,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 965
+        },
+        "url": "https://t.co/hu72BnifsZ",
+        "username": "mzmorz8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092145752797544760",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 439,
+          "like_count": 19881,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1497
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-18T02:16:32.000Z",
+        "description": "Entp♈未成年不要关注 \n依托米酯笑气氯胺酮已戒断/双相7年患者目前停了大部分药/努力想做正常人但是总是想o/怀念在🇰🇭的日子/向往的城市是自由的泰兰德和马来西亚/蹲过3天戒毒所😅至今不能考驾照之人",
+        "id": "1747805105200480256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092114276437897496",
+        "name": "Vavvst「未成年不要fo」",
+        "pinned_tweet_id": "2090339322612645940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747805105200480256/1787073574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089764101484638208/EKEtH1Ns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 79,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "Bestvavvst",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T03:02:34.000Z",
+        "description": "扎鸡兄弟 Los Pollos Hermanos ，99.7%精品Ｐｒ原粉 ↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/vNCEKjdqh2"
+              }
+            ]
+          }
+        },
+        "id": "1753252496217374720",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基，新墨西哥州",
+        "name": "扎鸡叔 第15世",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753252496217374720/1787642059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092148489149161473/pAITmmYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 24,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "https://t.co/vNCEKjdqh2",
+        "username": "ZakkysBabypink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

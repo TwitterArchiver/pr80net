@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2092563069553832354",
+    "created_at": "2026-08-26T10:41:28.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092563069553832354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 29,
+          "id": "2048050339824455681",
+          "start": 13,
+          "username": "hateubutloveu77"
+        },
+        {
+          "end": 44,
+          "id": "1820207828931424256",
+          "start": 32,
+          "username": "neko0202002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092563069553832354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天日常空投的幸运观众是 @hateubutloveu77 和 @neko0202002 ! 让我们敬请期待今天的空投环节！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2092563069553832354",
+        "created_at": "2026-08-26T10:41:28.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092563069553832354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "2048050339824455681",
+              "start": 13,
+              "username": "hateubutloveu77"
+            },
+            {
+              "end": 44,
+              "id": "1820207828931424256",
+              "start": 32,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092563069553832354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天日常空投的幸运观众是 @hateubutloveu77 和 @neko0202002 ! 让我们敬请期待今天的空投环节！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @AndresgKevin\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "AndresgKevin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2092563069553832354",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2092229232063877171",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 618,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T14:44:34.000Z",
+        "description": "低浮上/对你感兴趣会互fo/🚪52回复信息",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miaomiao80756",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miaomiao80756",
+                "start": 0,
+                "url": "https://t.co/MftmCkF1JA"
+              }
+            ]
+          }
+        },
+        "id": "2048050339824455681",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2092486921461371283",
+        "name": "如今一個人聽歌還是會覺得失落",
+        "pinned_tweet_id": "2069080622631731670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048050339824455681/1780330576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082150383753830400/IBJE_Qd-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 136,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 407
+        },
+        "url": "https://t.co/MftmCkF1JA",
+        "username": "hateubutloveu77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2092536236108021810",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 629,
+          "like_count": 2651,
+          "listed_count": 3,
+          "media_count": 2564,
+          "tweet_count": 7100
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

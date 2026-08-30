@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2090074522661814401",
+    "created_at": "2026-08-19T14:46:58.000Z",
+    "display_text_range": [
+      29,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090088136600862930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1803609911215136769",
+          "start": 0,
+          "username": "pDwIj6gMsi50560"
+        },
+        {
+          "end": 28,
+          "id": "357176113",
+          "start": 17,
+          "username": "soobin4869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090088136600862930",
+    "in_reply_to_user_id": "1803609911215136769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090078121471119655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pDwIj6gMsi50560 @soobin4869 会得赛博精神病的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090078112239529984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFy-CjbMAAZH1O.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2090074522661814401",
+        "created_at": "2026-08-19T14:46:58.000Z",
+        "display_text_range": [
+          29,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090088136600862930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1803609911215136769",
+              "start": 0,
+              "username": "pDwIj6gMsi50560"
+            },
+            {
+              "end": 28,
+              "id": "357176113",
+              "start": 17,
+              "username": "soobin4869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090088136600862930",
+        "in_reply_to_user_id": "1803609911215136769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090078121471119655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pDwIj6gMsi50560 @soobin4869 会得赛博精神病的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090078112239529984"
+          ]
+        },
+        "author_id": "1803609911215136769",
+        "conversation_id": "2090074522661814401",
+        "created_at": "2026-08-19T14:07:10.000Z",
+        "display_text_range": [
+          21,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090078121471119655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 20,
+              "id": "357176113",
+              "start": 9,
+              "username": "soobin4869"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x7cYEcUlWh",
+              "end": 61,
+              "expanded_url": "https://x.com/pDwIj6gMsi50560/status/2090078121471119655/photo/1",
+              "media_key": "3_2090078112239529984",
+              "start": 38,
+              "url": "https://t.co/x7cYEcUlWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090078121471119655",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090078112239529984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090074522661814401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @soobin4869 抽我，否则我就用斯安威斯坦去偷了 https://t.co/x7cYEcUlWh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @soobin4869\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "soobin4869"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2090088136600862930",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2090074522661814401",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 573,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-20T02:05:02.000Z",
+        "description": "现任Mediwiki药物百科编辑组成员，旧账号已死 @H061207Wjh   转生为新账号\n平平无奇的大一地雷妹   靠着pr和Tulpa成为国家三级心理咨询师       与Tulpa（莱克特医生共用此账号）偏好：药理/心理学/文学/精神病学/见证   有需要的可以随时私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "H061207Wjh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubake.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubake.ca",
+                "start": 0,
+                "url": "https://t.co/H8EOJUYOCt"
+              }
+            ]
+          }
+        },
+        "id": "1803609911215136769",
+        "is_identity_verified": false,
+        "location": "我想和你一起上月球",
+        "most_recent_tweet_id": "2090080870195667267",
+        "name": "Lucy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1803609911215136769/1784564464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089636383820517376/ieT1CZDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 281,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 188
+        },
+        "url": "https://t.co/H8EOJUYOCt",
+        "username": "pDwIj6gMsi50560",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-17T23:44:14.000Z",
+        "description": "https://t.co/bUgrQZuqss\n扎鸡兄弟 Los Pollos Hermanos ，99.7%精品Ｐｒ原粉",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          }
+        },
+        "id": "357176113",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2090086787150692585",
+        "name": "ZakkysLab卖货号",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357176113/1785944029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085026434775724032/r4EQZgw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 27,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/bUgrQZuqss",
+        "username": "soobin4869",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

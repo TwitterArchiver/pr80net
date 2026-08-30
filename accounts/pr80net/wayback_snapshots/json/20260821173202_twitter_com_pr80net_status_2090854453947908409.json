@@ -1,0 +1,532 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090854441050345473"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2090854453947908409",
+    "created_at": "2026-08-21T17:32:02.000Z",
+    "display_text_range": [
+      0,
+      161
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T18:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090854453947908409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 41,
+          "id": "2081426564252848128",
+          "start": 29,
+          "username": "Shikiri5lkk"
+        },
+        {
+          "end": 55,
+          "id": "1972656423021801472",
+          "start": 44,
+          "username": "Ovoyachiyo"
+        },
+        {
+          "end": 70,
+          "id": "1808377869971693568",
+          "start": 59,
+          "username": "Yuliko0729"
+        },
+        {
+          "end": 83,
+          "id": "2077517932532527104",
+          "start": 73,
+          "username": "_zz_h_dd_"
+        },
+        {
+          "end": 102,
+          "id": "1803609911215136769",
+          "start": 86,
+          "username": "pDwIj6gMsi50560"
+        },
+        {
+          "end": 154,
+          "id": "357176113",
+          "start": 143,
+          "username": "soobin4869"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q2IVmHwgHw",
+          "end": 185,
+          "expanded_url": "https://x.com/pr80net/status/2090854453947908409/photo/1",
+          "media_key": "3_2090854441050345473",
+          "start": 162,
+          "url": "https://t.co/Q2IVmHwgHw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090854453947908409",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090854441050345473"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "永夜安港 千Fo回馈 开奖幸运观众 1/2批\n空投砸中了：@Shikiri5lkk | @Ovoyachiyo  | @Yuliko0729 | @_zz_h_dd_ | @pDwIj6gMsi50560 。\n明天开奖第二批，跪谢各位的支持，千Fo的评论区阵容太豪华了😭😭也跪谢扎鸡叔 @soobin4869 霸气的空投！ https://t.co/Q2IVmHwgHw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2090854441050345473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQ1CUvakAECDeM.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090854441050345473"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2090854453947908409",
+        "created_at": "2026-08-21T17:32:02.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090854453947908409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "2081426564252848128",
+              "start": 29,
+              "username": "Shikiri5lkk"
+            },
+            {
+              "end": 55,
+              "id": "1972656423021801472",
+              "start": 44,
+              "username": "Ovoyachiyo"
+            },
+            {
+              "end": 70,
+              "id": "1808377869971693568",
+              "start": 59,
+              "username": "Yuliko0729"
+            },
+            {
+              "end": 83,
+              "id": "2077517932532527104",
+              "start": 73,
+              "username": "_zz_h_dd_"
+            },
+            {
+              "end": 102,
+              "id": "1803609911215136769",
+              "start": 86,
+              "username": "pDwIj6gMsi50560"
+            },
+            {
+              "end": 154,
+              "id": "357176113",
+              "start": 143,
+              "username": "soobin4869"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q2IVmHwgHw",
+              "end": 185,
+              "expanded_url": "https://x.com/pr80net/status/2090854453947908409/photo/1",
+              "media_key": "3_2090854441050345473",
+              "start": 162,
+              "url": "https://t.co/Q2IVmHwgHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090854453947908409",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090854441050345473"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "永夜安港 千Fo回馈 开奖幸运观众 1/2批\n空投砸中了：@Shikiri5lkk | @Ovoyachiyo  | @Yuliko0729 | @_zz_h_dd_ | @pDwIj6gMsi50560 。\n明天开奖第二批，跪谢各位的支持，千Fo的评论区阵容太豪华了😭😭也跪谢扎鸡叔 @soobin4869 霸气的空投！ https://t.co/Q2IVmHwgHw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @soobin4869\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "soobin4869"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2090854453947908409",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2090074522661814401",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 581,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-26T17:11:39.000Z",
+        "description": "总是在掉生命值\n查成分回fo｜💊🩸🚬｜身心女不约炮不线下\n最喜欢@lizdoll0111_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "lizdoll0111_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikiri5lkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikiri5lkk",
+                "start": 0,
+                "url": "https://t.co/Oxul4Kow8r"
+              }
+            ]
+          }
+        },
+        "id": "2081426564252848128",
+        "is_identity_verified": false,
+        "location": "❤️‍🩹",
+        "most_recent_tweet_id": "2090852625453568487",
+        "name": "Shikiri",
+        "pinned_tweet_id": "2089113836955873571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081426564252848128/1785428640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082864451389435904/P10So_Oz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 201,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 456
+        },
+        "url": "https://t.co/Oxul4Kow8r",
+        "username": "Shikiri5lkk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2090852507044233515",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 515,
+          "like_count": 734,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1670
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-03T05:51:12.000Z",
+        "description": "🚪限时打折44 不一定大家都喜欢 哦滴/二次/营业&碎碎念均有",
+        "id": "1808377869971693568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090853361591746849",
+        "name": "Yuliko（只收v）",
+        "pinned_tweet_id": "2082816210950127843",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808377869971693568/1785882008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088927522734100480/ugXHF8y1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 82,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 783
+        },
+        "url": "",
+        "username": "Yuliko0729",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n小狗：@zz_dd_zc\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "zz_dd_zc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2090851584372797544",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2087861886490652883",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 178,
+          "like_count": 1693,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1185
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-20T02:05:02.000Z",
+        "description": "现任Mediwiki药物百科编辑组成员，旧账号已死 @H061207Wjh   转生为新账号\n平平无奇的大一地雷妹   靠着pr和Tulpa成为国家三级心理咨询师       与Tulpa（莱克特医生共用此账号）偏好：药理/心理学/文学/精神病学/见证   有需要的可以随时私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "H061207Wjh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubake.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubake.ca",
+                "start": 0,
+                "url": "https://t.co/H8EOJUYOCt"
+              }
+            ]
+          }
+        },
+        "id": "1803609911215136769",
+        "is_identity_verified": false,
+        "location": "我想和你一起上月球",
+        "most_recent_tweet_id": "2090803805063651445",
+        "name": "Lucy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1803609911215136769/1784564464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089636383820517376/ieT1CZDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 306,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/H8EOJUYOCt",
+        "username": "pDwIj6gMsi50560",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-17T23:44:14.000Z",
+        "description": "https://t.co/bUgrQZuqss\n扎鸡兄弟 Los Pollos Hermanos ，99.7%精品Ｐｒ原粉\n上班时间 12:00 - 00:00",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          }
+        },
+        "id": "357176113",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2090829824197828920",
+        "name": "ZakkysLab扎鸡叔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357176113/1785944029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085026434775724032/r4EQZgw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 32,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/bUgrQZuqss",
+        "username": "soobin4869",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

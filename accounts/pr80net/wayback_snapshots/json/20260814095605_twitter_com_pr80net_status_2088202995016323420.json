@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2088202995016323420",
+    "created_at": "2026-08-14T09:56:05.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T10:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088202995016323420"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "OD"
+        },
+        {
+          "end": 76,
+          "start": 71,
+          "tag": "普瑞巴林"
+        },
+        {
+          "end": 82,
+          "start": 77,
+          "tag": "pr80"
+        },
+        {
+          "end": 91,
+          "start": 83,
+          "tag": "drugtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "357176113",
+          "start": 3,
+          "username": "soobin4869"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088202995016323420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088202939014008992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @soobin4869: Zakky's 扎鸡叔正宗pr80原粉，99.7%，太太太正，永远有货永远纯正，真挚的扎鸡叔为您服务 #OD #普瑞巴林 #pr80 #drugtwt \n影视剧台词复制，无任何不正当行为，合理范围用药，真实可靠从不忽悠 https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2088202300099899392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrI7ZybsAAs4ah.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2992,
+        "media_key": "3_2088202310312923136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrI7_1aEAAC4nw.jpg",
+        "width": 2992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2088202995016323420",
+        "created_at": "2026-08-14T09:56:05.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088202995016323420"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "OD"
+            },
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 82,
+              "start": 77,
+              "tag": "pr80"
+            },
+            {
+              "end": 91,
+              "start": 83,
+              "tag": "drugtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "357176113",
+              "start": 3,
+              "username": "soobin4869"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088202995016323420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088202939014008992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @soobin4869: Zakky's 扎鸡叔正宗pr80原粉，99.7%，太太太正，永远有货永远纯正，真挚的扎鸡叔为您服务 #OD #普瑞巴林 #pr80 #drugtwt \n影视剧台词复制，无任何不正当行为，合理范围用药，真实可靠从不忽悠 https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088202300099899392",
+            "3_2088202310312923136"
+          ]
+        },
+        "author_id": "357176113",
+        "conversation_id": "2088202939014008992",
+        "created_at": "2026-08-14T09:55:52.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088202939014008992"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "OD"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "pr80"
+            },
+            {
+              "end": 75,
+              "start": 67,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MTVKFiojut",
+              "end": 133,
+              "expanded_url": "https://x.com/soobin4869/status/2088202939014008992/photo/1",
+              "media_key": "3_2088202300099899392",
+              "start": 110,
+              "url": "https://t.co/MTVKFiojut"
+            },
+            {
+              "display_url": "pic.x.com/MTVKFiojut",
+              "end": 133,
+              "expanded_url": "https://x.com/soobin4869/status/2088202939014008992/photo/1",
+              "media_key": "3_2088202310312923136",
+              "start": 110,
+              "url": "https://t.co/MTVKFiojut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088202939014008992",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088202300099899392"
+          },
+          {
+            "media_key": "3_2088202310312923136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Zakky's 扎鸡叔正宗pr80原粉，99.7%，太太太正，永远有货永远纯正，真挚的扎鸡叔为您服务 #OD #普瑞巴林 #pr80 #drugtwt \n影视剧台词复制，无任何不正当行为，合理范围用药，真实可靠从不忽悠 https://t.co/MTVKFiojut"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2088202995016323420",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2085697514506993872",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 552,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-17T23:44:14.000Z",
+        "description": "https://t.co/bUgrQZuqss\n@ZakkysLab\nPR原粉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          }
+        },
+        "id": "357176113",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2088202939014008992",
+        "name": "ZakkysLab卖货号",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357176113/1785944029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085026434775724032/r4EQZgw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/bUgrQZuqss",
+        "username": "soobin4869",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

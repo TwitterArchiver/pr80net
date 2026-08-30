@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2088144300538511477",
+    "created_at": "2026-08-14T06:02:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T07:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088144300538511477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048935238680879104",
+          "start": 3,
+          "username": "zen_lab_club"
+        },
+        {
+          "end": 95,
+          "id": "2048935238680879104",
+          "start": 82,
+          "username": "zen_lab_club"
+        },
+        {
+          "end": 112,
+          "id": "1076746882494263297",
+          "start": 101,
+          "username": "jiejinghua"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Crystallize Community",
+          "display_url": "crystallize.club/wiki/84",
+          "end": 50,
+          "expanded_url": "https://www.crystallize.club/wiki/84",
+          "start": 27,
+          "status": 200,
+          "title": "IC-26 | Crystallize",
+          "unwound_url": "https://www.crystallize.club/wiki/84",
+          "url": "https://t.co/kwlpbQ12I2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088144300538511477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088125077745184851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zen_lab_club: 在评论区抽奖赠送 https://t.co/kwlpbQ12I2 这个神必东西。送10份，不包邮。3份包邮。\n\n参与条件：关注 @zen_lab_club + 关注 @jiejinghua\n+评论+转发+点赞\n开奖条件：30转发\n中奖人数：1…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2088144300538511477",
+        "created_at": "2026-08-14T06:02:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088144300538511477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048935238680879104",
+              "start": 3,
+              "username": "zen_lab_club"
+            },
+            {
+              "end": 95,
+              "id": "2048935238680879104",
+              "start": 82,
+              "username": "zen_lab_club"
+            },
+            {
+              "end": 112,
+              "id": "1076746882494263297",
+              "start": 101,
+              "username": "jiejinghua"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Crystallize Community",
+              "display_url": "crystallize.club/wiki/84",
+              "end": 50,
+              "expanded_url": "https://www.crystallize.club/wiki/84",
+              "start": 27,
+              "status": 200,
+              "title": "IC-26 | Crystallize",
+              "unwound_url": "https://www.crystallize.club/wiki/84",
+              "url": "https://t.co/kwlpbQ12I2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088144300538511477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088125077745184851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zen_lab_club: 在评论区抽奖赠送 https://t.co/kwlpbQ12I2 这个神必东西。送10份，不包邮。3份包邮。\n\n参与条件：关注 @zen_lab_club + 关注 @jiejinghua\n+评论+转发+点赞\n开奖条件：30转发\n中奖人数：1…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048935238680879104",
+        "conversation_id": "2088125077745184851",
+        "created_at": "2026-08-14T04:46:28.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088125077745184851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 77,
+              "id": "2048935238680879104",
+              "start": 64,
+              "username": "zen_lab_club"
+            },
+            {
+              "end": 94,
+              "id": "1076746882494263297",
+              "start": 83,
+              "username": "jiejinghua"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Crystallize Community",
+              "display_url": "crystallize.club/wiki/84",
+              "end": 32,
+              "expanded_url": "https://www.crystallize.club/wiki/84",
+              "start": 9,
+              "status": 200,
+              "title": "IC-26 | Crystallize",
+              "unwound_url": "https://www.crystallize.club/wiki/84",
+              "url": "https://t.co/kwlpbQ12I2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088125077745184851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "在评论区抽奖赠送 https://t.co/kwlpbQ12I2 这个神必东西。送10份，不包邮。3份包邮。\n\n参与条件：关注 @zen_lab_club + 关注 @jiejinghua\n+评论+转发+点赞\n开奖条件：30转发\n中奖人数：13人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2088144300538511477",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2085697514506993872",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 553,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T01:20:30.000Z",
+        "description": "名稱ZEN 實驗室\n官网 https://t.co/XTh60qY8rI\nTG群组 https://t.co/PwxqVnq4T6\nTG通知频道 https://t.co/aFMETpJWK4\n\n广告或合作请私信，我们出价很合理\n#researchchemical",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 115,
+                "tag": "researchchemical"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ZENLAB.ONL",
+                "end": 36,
+                "expanded_url": "https://ZENLAB.ONL",
+                "start": 13,
+                "url": "https://t.co/XTh60qY8rI"
+              },
+              {
+                "display_url": "t.me/zen4499",
+                "end": 65,
+                "expanded_url": "https://t.me/zen4499",
+                "start": 42,
+                "url": "https://t.co/PwxqVnq4T6"
+              },
+              {
+                "display_url": "t.me/zenlab",
+                "end": 96,
+                "expanded_url": "https://t.me/zenlab",
+                "start": 73,
+                "url": "https://t.co/aFMETpJWK4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zenlab.onl",
+                "end": 23,
+                "expanded_url": "http://zenlab.onl",
+                "start": 0,
+                "url": "https://t.co/xsfO6qJblV"
+              }
+            ]
+          }
+        },
+        "id": "2048935238680879104",
+        "is_identity_verified": false,
+        "location": "👉天国👈",
+        "most_recent_tweet_id": "2088125077745184851",
+        "name": "ZEN LAB - zen化学实验室",
+        "pinned_tweet_id": "2068180341991559275",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048935238680879104/1777341588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048944953661997056/N2sohKBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 47,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/xsfO6qJblV",
+        "username": "zen_lab_club",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-23T07:50:36.000Z",
+        "description": "小众亚文化论坛，科普与论坛一体，支持药物旅程可视化工具\n\n长期寻找广告合作有意私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "https://www.crystallize.club",
+                "start": 0,
+                "url": "https://t.co/VMFYr9skMB"
+              }
+            ]
+          }
+        },
+        "id": "1076746882494263297",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088132036783448372",
+        "name": "结晶化",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1076746882494263297/1786344300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087952398765711361/6XBstVGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 64,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/VMFYr9skMB",
+        "username": "jiejinghua",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

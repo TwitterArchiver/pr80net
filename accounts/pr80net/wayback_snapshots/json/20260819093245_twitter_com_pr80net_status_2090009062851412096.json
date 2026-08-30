@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089961895575121920"
+      ],
+      "media_source_tweet_id": [
+        "2089962217508831720"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2090009062851412096",
+    "created_at": "2026-08-19T09:32:45.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090009062851412096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1386670401422434304",
+          "start": 3,
+          "username": "xx1012000456"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZbVTHUYyTR",
+          "end": 85,
+          "expanded_url": "https://x.com/xx1012000456/status/2089962217508831720/photo/1",
+          "media_key": "3_2089961895575121920",
+          "start": 62,
+          "url": "https://t.co/ZbVTHUYyTR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090009062851412096",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089961895575121920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089962217508831720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xx1012000456: 是这样，而且在我捐助30u之后，以这种理由黑钱。不知道是不是疯了。交易哈希可查，不怕锤 https://t.co/ZbVTHUYyTR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 511,
+        "media_key": "3_2089961895575121920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEJRVvbcAAkS30.png",
+        "width": 509
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089961895575121920"
+          ],
+          "media_source_tweet_id": [
+            "2089962217508831720"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2090009062851412096",
+        "created_at": "2026-08-19T09:32:45.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090009062851412096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1386670401422434304",
+              "start": 3,
+              "username": "xx1012000456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZbVTHUYyTR",
+              "end": 85,
+              "expanded_url": "https://x.com/xx1012000456/status/2089962217508831720/photo/1",
+              "media_key": "3_2089961895575121920",
+              "start": 62,
+              "url": "https://t.co/ZbVTHUYyTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090009062851412096",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089961895575121920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089962217508831720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xx1012000456: 是这样，而且在我捐助30u之后，以这种理由黑钱。不知道是不是疯了。交易哈希可查，不怕锤 https://t.co/ZbVTHUYyTR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089961895575121920"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2089962217508831720",
+        "created_at": "2026-08-19T06:26:36.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089962217508831720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZbVTHUYyTR",
+              "end": 67,
+              "expanded_url": "https://x.com/xx1012000456/status/2089962217508831720/photo/1",
+              "media_key": "3_2089961895575121920",
+              "start": 44,
+              "url": "https://t.co/ZbVTHUYyTR"
+            },
+            {
+              "display_url": "x.com/jiejinghua/sta…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/jiejinghua/status/2089948800152428616",
+              "start": 68,
+              "url": "https://t.co/bbBzPDi63W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089962217508831720",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089961895575121920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 955,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089948800152428616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样，而且在我捐助30u之后，以这种理由黑钱。不知道是不是疯了。交易哈希可查，不怕锤 https://t.co/ZbVTHUYyTR https://t.co/bbBzPDi63W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @soobin4869\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "soobin4869"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2090009062851412096",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2089694815806271598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 564,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 277
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2090008805224616189",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 739,
+          "like_count": 123,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 2209
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

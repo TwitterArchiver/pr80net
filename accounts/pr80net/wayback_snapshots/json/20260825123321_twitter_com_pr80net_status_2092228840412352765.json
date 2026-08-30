@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092228163896303616"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2092228840412352765",
+    "created_at": "2026-08-25T12:33:21.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092228840412352765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 35,
+          "id": "1753252496217374720",
+          "start": 20,
+          "username": "ZakkysBabypink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P40J6oT3qu",
+          "end": 147,
+          "expanded_url": "https://x.com/pr80net/status/2092228840412352765/photo/1",
+          "media_key": "3_2092228163896303616",
+          "start": 124,
+          "url": "https://t.co/P40J6oT3qu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092228840412352765",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092228163896303616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 35,
+            "id": "1753252496217374720",
+            "start": 20,
+            "username": "ZakkysBabypink"
+          }
+        ]
+      },
+      "text": "永夜安港 【日常空投】今晚照旧\n依旧是 @ZakkysBabypink 送出的妙妙小礼物【Baby Pink】，抽出两位幸运观众！\n8月快结束了，这个月大伙都做了些什么呢？想看看你们的生活日常，评论区里见，【转发、评论、关注】就有几率被空投砸中！"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "永夜安港 【日常空投】今晚照旧\n依旧是 @ZakkysBabypink 送出的妙妙小礼物【Baby Pink】，抽出两位幸运观众！\n8月快结束了，这个月大伙都做了些什么呢？想看看你们的生活日常，评论区里见，【转发、评论、关注】就有几率被空投砸中！ https://t.co/P40J6oT3qu"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [ZakkysBabypink].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ZakkysBabypink",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "ZakkysBabypink"
+    },
+    {
+      "detail": "User has been suspended: [ZakkysBabypink].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ZakkysBabypink",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "ZakkysBabypink"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2992,
+        "media_key": "3_2092228163896303616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkWbhIbYAAvzi0.jpg",
+        "width": 2992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092228163896303616"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2092228840412352765",
+        "created_at": "2026-08-25T12:33:21.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092228840412352765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1753252496217374720",
+              "start": 20,
+              "username": "ZakkysBabypink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P40J6oT3qu",
+              "end": 147,
+              "expanded_url": "https://x.com/pr80net/status/2092228840412352765/photo/1",
+              "media_key": "3_2092228163896303616",
+              "start": 124,
+              "url": "https://t.co/P40J6oT3qu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092228840412352765",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092228163896303616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 35,
+                "id": "1753252496217374720",
+                "start": 20,
+                "username": "ZakkysBabypink"
+              }
+            ]
+          },
+          "text": "永夜安港 【日常空投】今晚照旧\n依旧是 @ZakkysBabypink 送出的妙妙小礼物【Baby Pink】，抽出两位幸运观众！\n8月快结束了，这个月大伙都做了些什么呢？想看看你们的生活日常，评论区里见，【转发、评论、关注】就有几率被空投砸中！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "永夜安港 【日常空投】今晚照旧\n依旧是 @ZakkysBabypink 送出的妙妙小礼物【Baby Pink】，抽出两位幸运观众！\n8月快结束了，这个月大伙都做了些什么呢？想看看你们的生活日常，评论区里见，【转发、评论、关注】就有几率被空投砸中！ https://t.co/P40J6oT3qu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab14\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "ZakkysLab14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2092228840412352765",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2091884407061922029",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 605,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

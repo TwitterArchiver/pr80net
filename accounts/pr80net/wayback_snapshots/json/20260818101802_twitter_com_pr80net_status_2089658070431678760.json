@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089657834619424768"
+      ],
+      "media_source_tweet_id": [
+        "2089657897731170384"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2089658070431678760",
+    "created_at": "2026-08-18T10:18:02.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089658070431678760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "831435613937102848",
+          "start": 3,
+          "username": "5koPainful"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DJVI01c2LR",
+          "end": 42,
+          "expanded_url": "https://x.com/5koPainful/status/2089657897731170384/video/1",
+          "media_key": "13_2089657834619424768",
+          "start": 19,
+          "url": "https://t.co/DJVI01c2LR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089658070431678760",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2089657834619424768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089657897731170384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5koPainful: 嘻嘻 https://t.co/DJVI01c2LR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19433,
+        "height": 1080,
+        "media_key": "13_2089657834619424768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089657834619424768/img/y43NdTevidGOnqB9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089657834619424768/vid/avc1/1920x1080/NpRZbzmNuEEf0jRk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089657834619424768/vid/avc1/1280x720/Fv_OLncV6nWcYM75.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089657834619424768/vid/avc1/640x360/AcEICEEK-Bl7XSX1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089657834619424768/pl/l6dgMyoQC7Q6f_ko.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089657834619424768/vid/avc1/480x270/DaU_cnqu4Ojrz6bw.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089657834619424768"
+          ],
+          "media_source_tweet_id": [
+            "2089657897731170384"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2089658070431678760",
+        "created_at": "2026-08-18T10:18:02.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089658070431678760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "831435613937102848",
+              "start": 3,
+              "username": "5koPainful"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DJVI01c2LR",
+              "end": 42,
+              "expanded_url": "https://x.com/5koPainful/status/2089657897731170384/video/1",
+              "media_key": "13_2089657834619424768",
+              "start": 19,
+              "url": "https://t.co/DJVI01c2LR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089658070431678760",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2089657834619424768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089657897731170384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5koPainful: 嘻嘻 https://t.co/DJVI01c2LR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089657834619424768"
+          ]
+        },
+        "author_id": "831435613937102848",
+        "conversation_id": "2089657897731170384",
+        "created_at": "2026-08-18T10:17:21.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089657897731170384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DJVI01c2LR",
+              "end": 26,
+              "expanded_url": "https://x.com/5koPainful/status/2089657897731170384/video/1",
+              "media_key": "13_2089657834619424768",
+              "start": 3,
+              "url": "https://t.co/DJVI01c2LR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089657897731170384",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2089657834619424768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嘻嘻 https://t.co/DJVI01c2LR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2089658070431678760",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2085697514506993872",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 546,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 262
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-02-14T09:31:12.000Z",
+        "description": "别烦 我复合了",
+        "id": "831435613937102848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089658020724883672",
+        "name": "穹",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/831435613937102848/1787048170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089657502426382336/IPDQhZ7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 56,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "5koPainful",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2089667143734530049"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2089667169802244257",
+    "created_at": "2026-08-18T10:54:12.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089667169802244257"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xdjLtrLNq7",
+          "end": 37,
+          "expanded_url": "https://x.com/pr80net/status/2089667169802244257/photo/1",
+          "media_key": "16_2089667143734530049",
+          "start": 14,
+          "url": "https://t.co/xdjLtrLNq7"
+        },
+        {
+          "display_url": "x.com/soobin4869/sta…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/soobin4869/status/2089666201647743334",
+          "start": 38,
+          "url": "https://t.co/8hnqrOaZ7n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089667169802244257",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "16_2089667143734530049"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089666201647743334",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太太太YEAH!!!!!! https://t.co/xdjLtrLNq7 https://t.co/8hnqrOaZ7n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 188,
+        "media_key": "16_2089667143734530049",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HP_9MhkaEAEqbsf.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HP_9MhkaEAEqbsf.mp4"
+          }
+        ],
+        "width": 346
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089665363487449088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_7k5obYAA2uLS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2089665377743912960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_7luvbwAA_7Jp.jpg",
+        "width": 1280
+      },
+      {
+        "height": 549,
+        "media_key": "3_2089665409578647552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_7nlVbQAA4yq7.jpg",
+        "width": 549
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089665751158542336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_77d0a0AAn9wO.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2089667143734530049"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2089667169802244257",
+        "created_at": "2026-08-18T10:54:12.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089667169802244257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xdjLtrLNq7",
+              "end": 37,
+              "expanded_url": "https://x.com/pr80net/status/2089667169802244257/photo/1",
+              "media_key": "16_2089667143734530049",
+              "start": 14,
+              "url": "https://t.co/xdjLtrLNq7"
+            },
+            {
+              "display_url": "x.com/soobin4869/sta…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/soobin4869/status/2089666201647743334",
+              "start": 38,
+              "url": "https://t.co/8hnqrOaZ7n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089667169802244257",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "16_2089667143734530049"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089666201647743334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太太太YEAH!!!!!! https://t.co/xdjLtrLNq7 https://t.co/8hnqrOaZ7n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089665363487449088",
+            "3_2089665377743912960",
+            "3_2089665409578647552",
+            "3_2089665751158542336"
+          ]
+        },
+        "author_id": "357176113",
+        "conversation_id": "2089666201647743334",
+        "created_at": "2026-08-18T10:50:21.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089666201647743334"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 52,
+              "tag": "drugtwt"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "pr80"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 80,
+              "start": 73,
+              "tag": "普瑞巴林原粉"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s0No12PtNY",
+              "end": 140,
+              "expanded_url": "https://x.com/soobin4869/status/2089666201647743334/photo/1",
+              "media_key": "3_2089665363487449088",
+              "start": 117,
+              "url": "https://t.co/s0No12PtNY"
+            },
+            {
+              "display_url": "pic.x.com/s0No12PtNY",
+              "end": 140,
+              "expanded_url": "https://x.com/soobin4869/status/2089666201647743334/photo/1",
+              "media_key": "3_2089665377743912960",
+              "start": 117,
+              "url": "https://t.co/s0No12PtNY"
+            },
+            {
+              "display_url": "pic.x.com/s0No12PtNY",
+              "end": 140,
+              "expanded_url": "https://x.com/soobin4869/status/2089666201647743334/photo/1",
+              "media_key": "3_2089665409578647552",
+              "start": 117,
+              "url": "https://t.co/s0No12PtNY"
+            },
+            {
+              "display_url": "pic.x.com/s0No12PtNY",
+              "end": 140,
+              "expanded_url": "https://x.com/soobin4869/status/2089666201647743334/photo/1",
+              "media_key": "3_2089665751158542336",
+              "start": 117,
+              "url": "https://t.co/s0No12PtNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089666201647743334",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089665363487449088"
+          },
+          {
+            "media_key": "3_2089665377743912960"
+          },
+          {
+            "media_key": "3_2089665409578647552"
+          },
+          {
+            "media_key": "3_2089665751158542336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎光临扎鸡叔的pr80店，太太太正的99.7%pr原粉，吃过都说好，扎鸡叔将热心为您服务，您尽管吩咐😎#drugtwt #pr80 #普瑞巴林 #普瑞巴林原粉 #od 合理用药 遵从医嘱 仅为处方用药分享 遵守法律法规 无营销行为 https://t.co/s0No12PtNY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2089667169802244257",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2085697514506993872",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 548,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-17T23:44:14.000Z",
+        "description": "https://t.co/bUgrQZuqss\n@ZakkysLab\nPR原粉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          }
+        },
+        "id": "357176113",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2089666201647743334",
+        "name": "ZakkysLab卖货号",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357176113/1785944029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085026434775724032/r4EQZgw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 11,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 7
+        },
+        "url": "https://t.co/bUgrQZuqss",
+        "username": "soobin4869",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

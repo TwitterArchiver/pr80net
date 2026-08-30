@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2089694815806271598",
+    "created_at": "2026-08-18T13:12:53.000Z",
+    "display_text_range": [
+      25,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T14:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089702070840627520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1874465078642388992",
+          "start": 0,
+          "username": "NevenL25237"
+        },
+        {
+          "end": 24,
+          "id": "357176113",
+          "start": 13,
+          "username": "soobin4869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089702070840627520",
+    "in_reply_to_user_id": "1874465078642388992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089699027038441756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NevenL25237 @soobin4869 你跟下面的歧哥组对cp吧，我赞成，谁反对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2089694815806271598",
+        "created_at": "2026-08-18T13:12:53.000Z",
+        "display_text_range": [
+          25,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T14:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089702070840627520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874465078642388992",
+              "start": 0,
+              "username": "NevenL25237"
+            },
+            {
+              "end": 24,
+              "id": "357176113",
+              "start": 13,
+              "username": "soobin4869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089702070840627520",
+        "in_reply_to_user_id": "1874465078642388992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089699027038441756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NevenL25237 @soobin4869 你跟下面的歧哥组对cp吧，我赞成，谁反对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874465078642388992",
+        "conversation_id": "2089694815806271598",
+        "created_at": "2026-08-18T13:00:47.000Z",
+        "display_text_range": [
+          21,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T14:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089699027038441756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 20,
+              "id": "357176113",
+              "start": 9,
+              "username": "soobin4869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089699027038441756",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089694815806271598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @soobin4869 七夕节跑刀摸红的来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2089702070840627520",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2089694815806271598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 555,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T14:38:53.000Z",
+        "description": "爱情是治疗一切的良药。                                          \n                  想被人提问：https://t.co/BR6MJY2HeZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nevenl25237",
+                "end": 101,
+                "expanded_url": "https://ngl.link/nevenl25237",
+                "start": 78,
+                "url": "https://t.co/BR6MJY2HeZ"
+              }
+            ]
+          }
+        },
+        "id": "1874465078642388992",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2089700038419366184",
+        "name": "静静",
+        "pinned_tweet_id": "2082515164923150594",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874465078642388992/1784858092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076470612927864832/xA874v1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 624,
+          "like_count": 1962,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 721
+        },
+        "url": "",
+        "username": "NevenL25237",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-17T23:44:14.000Z",
+        "description": "https://t.co/bUgrQZuqss\n@ZakkysLab\nPR原粉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          }
+        },
+        "id": "357176113",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2089695252974350391",
+        "name": "ZakkysLab卖货号",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357176113/1785944029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085026434775724032/r4EQZgw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 9
+        },
+        "url": "https://t.co/bUgrQZuqss",
+        "username": "soobin4869",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

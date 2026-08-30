@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2092584498512929115",
+    "created_at": "2026-08-26T13:15:51.000Z",
+    "display_text_range": [
+      39,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092601919974019468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1747805105200480256",
+          "start": 0,
+          "username": "Bestvavvst"
+        },
+        {
+          "end": 24,
+          "id": "1626658024449540097",
+          "start": 12,
+          "username": "h4tewithluv"
+        },
+        {
+          "end": 38,
+          "id": "1789010584731586561",
+          "start": 25,
+          "username": "17_ZakkysLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092601919974019468",
+    "in_reply_to_user_id": "1747805105200480256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092589927548830204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bestvavvst @h4tewithluv @17_ZakkysLab 或许还真有可能喔，随机的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2092589916463202305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpfcSdagAEMAmc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2092584498512929115",
+        "created_at": "2026-08-26T13:15:51.000Z",
+        "display_text_range": [
+          39,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092601919974019468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1747805105200480256",
+              "start": 0,
+              "username": "Bestvavvst"
+            },
+            {
+              "end": 24,
+              "id": "1626658024449540097",
+              "start": 12,
+              "username": "h4tewithluv"
+            },
+            {
+              "end": 38,
+              "id": "1789010584731586561",
+              "start": 25,
+              "username": "17_ZakkysLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092601919974019468",
+        "in_reply_to_user_id": "1747805105200480256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092589927548830204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bestvavvst @h4tewithluv @17_ZakkysLab 或许还真有可能喔，随机的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092589916463202305"
+          ]
+        },
+        "author_id": "1747805105200480256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092584498512929115",
+        "created_at": "2026-08-26T12:28:11.000Z",
+        "display_text_range": [
+          36,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092589927548830204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 21,
+              "id": "1626658024449540097",
+              "start": 9,
+              "username": "h4tewithluv"
+            },
+            {
+              "end": 35,
+              "id": "1789010584731586561",
+              "start": 22,
+              "username": "17_ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v6S3KwQtEW",
+              "end": 84,
+              "expanded_url": "https://x.com/Bestvavvst/status/2092589927548830204/photo/1",
+              "media_key": "3_2092589916463202305",
+              "start": 61,
+              "url": "https://t.co/v6S3KwQtEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092589927548830204",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092589916463202305"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092584498512929115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @h4tewithluv @17_ZakkysLab 放个游戏的截图吧 不知道刚中奖的还能叠加吗哈哈哈 https://t.co/v6S3KwQtEW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @AndresgKevin\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "AndresgKevin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2092601919974019468",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2092584498512929115",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 622,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 336
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-18T02:16:32.000Z",
+        "description": "Entp♈未成年不要关注 \n依托米酯笑气氯胺酮已戒断/双相7年患者目前停了大部分药/努力想做正常人但是总是想o/怀念在🇰🇭的日子/向往的城市是自由的泰兰德和马来西亚/蹲过3天戒毒所😅至今不能考驾照之人",
+        "id": "1747805105200480256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092589927548830204",
+        "name": "Vavvst「未成年不要fo」",
+        "pinned_tweet_id": "2090339322612645940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747805105200480256/1787656538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089764101484638208/EKEtH1Ns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 83,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "Bestvavvst",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-17T19:01:20.000Z",
+        "description": "98年的老東西 / ip北京、上海、吉隆坡 / od / 割 / 雙相 / 精神狀態=開盲盒 / 我的未來一眼望到頭\n🚪：暫無，不想加墻內",
+        "id": "1626658024449540097",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2092586236087275979",
+        "name": "世界盡頭是一片螢光海",
+        "pinned_tweet_id": "2092269483809513837",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1626658024449540097/1787583844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091905768585150464/yrwPkiap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 40,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "h4tewithluv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-10T19:12:26.000Z",
+        "description": "扎鸡兄弟 Los Pollos Hermanos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/ALxTTL6SOC"
+              }
+            ]
+          }
+        },
+        "id": "1789010584731586561",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2092586457240395979",
+        "name": "扎17",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789010584731586561/1787669819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092264793378099201/nwq8pqCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 41,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/ALxTTL6SOC",
+        "username": "17_ZakkysLab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

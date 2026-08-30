@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089765041130348544"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2089765553502314722",
+    "created_at": "2026-08-18T17:25:08.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T18:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089765553502314722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0IjrwC2BFJ",
+          "end": 116,
+          "expanded_url": "https://x.com/pr80net/status/2089765553502314722/photo/1",
+          "media_key": "3_2089765041130348544",
+          "start": 93,
+          "url": "https://t.co/0IjrwC2BFJ"
+        },
+        {
+          "display_url": "x.com/5koPainful/sta…",
+          "end": 140,
+          "expanded_url": "https://twitter.com/5koPainful/status/2089663831278797095",
+          "start": 117,
+          "url": "https://t.co/fqBAo9dfgf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089765553502314722",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089765041130348544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089663831278797095",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现播报地狱笑话一则，穹姐姐新号再次被伟大的埃隆先生肘击，喜提12小时禁言套餐且暂时无法回关，等待解冻后穹姐姐会回复消息和回关，在座的各位没绷住的自罚三杯，绷住的严肃关注，感谢您的配合。 https://t.co/0IjrwC2BFJ https://t.co/fqBAo9dfgf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 420,
+        "media_key": "3_2089765041130348544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBWO5yaoAAt0sk.png",
+        "width": 476
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089663823288664064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_6LP8bAAA-QLL.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089765041130348544"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2089765553502314722",
+        "created_at": "2026-08-18T17:25:08.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089765553502314722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0IjrwC2BFJ",
+              "end": 116,
+              "expanded_url": "https://x.com/pr80net/status/2089765553502314722/photo/1",
+              "media_key": "3_2089765041130348544",
+              "start": 93,
+              "url": "https://t.co/0IjrwC2BFJ"
+            },
+            {
+              "display_url": "x.com/5koPainful/sta…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/5koPainful/status/2089663831278797095",
+              "start": 117,
+              "url": "https://t.co/fqBAo9dfgf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089765553502314722",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089765041130348544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089663831278797095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现播报地狱笑话一则，穹姐姐新号再次被伟大的埃隆先生肘击，喜提12小时禁言套餐且暂时无法回关，等待解冻后穹姐姐会回复消息和回关，在座的各位没绷住的自罚三杯，绷住的严肃关注，感谢您的配合。 https://t.co/0IjrwC2BFJ https://t.co/fqBAo9dfgf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089663823288664064"
+          ]
+        },
+        "author_id": "831435613937102848",
+        "conversation_id": "2089663831278797095",
+        "created_at": "2026-08-18T10:40:56.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089663831278797095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bOR59zWIax",
+              "end": 45,
+              "expanded_url": "https://x.com/5koPainful/status/2089663831278797095/photo/1",
+              "media_key": "3_2089663823288664064",
+              "start": 22,
+              "url": "https://t.co/bOR59zWIax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089663831278797095",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089663823288664064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4569,
+          "like_count": 23,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我是穹 我在这里 重新开始吧 反正也无所谓 https://t.co/bOR59zWIax"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2089765553502314722",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2089694815806271598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 569,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 275
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-02-14T09:31:12.000Z",
+        "description": "别烦 我复活了 寻回互关中ovo",
+        "id": "831435613937102848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089708703599780027",
+        "name": "穹",
+        "pinned_tweet_id": "2089663831278797095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/831435613937102848/1787048170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089657502426382336/IPDQhZ7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 30,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "5koPainful",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

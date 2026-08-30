@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092322383256588288"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2092322624571592733",
+    "created_at": "2026-08-25T18:46:01.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T19:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092322624571592733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uVMPHAzOuB",
+          "end": 89,
+          "expanded_url": "https://x.com/pr80net/status/2092322624571592733/photo/1",
+          "media_key": "3_2092322383256588288",
+          "start": 66,
+          "url": "https://t.co/uVMPHAzOuB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092322624571592733",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092322383256588288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神秘代码SR17018（上篇）\n这东西很有潜力，依然需要更多的实验数据和研究。\n一旦一些关键卡脖子点被克服，这简直就是成瘾者克星。 https://t.co/uVMPHAzOuB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2092322383256588288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQlsHzmbkAAvvJi.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092322383256588288"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2092322624571592733",
+        "created_at": "2026-08-25T18:46:01.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T19:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092322624571592733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uVMPHAzOuB",
+              "end": 89,
+              "expanded_url": "https://x.com/pr80net/status/2092322624571592733/photo/1",
+              "media_key": "3_2092322383256588288",
+              "start": 66,
+              "url": "https://t.co/uVMPHAzOuB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092322624571592733",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092322383256588288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘代码SR17018（上篇）\n这东西很有潜力，依然需要更多的实验数据和研究。\n一旦一些关键卡脖子点被克服，这简直就是成瘾者克星。 https://t.co/uVMPHAzOuB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @AndresgKevin\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "AndresgKevin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2092322624571592733",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2092229232063877171",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 617,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

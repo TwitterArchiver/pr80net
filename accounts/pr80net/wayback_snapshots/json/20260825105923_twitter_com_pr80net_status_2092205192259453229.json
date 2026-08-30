@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092192854315864066"
+      ],
+      "media_source_tweet_id": [
+        "2092192862373089632"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2092205192259453229",
+    "created_at": "2026-08-25T10:59:23.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T11:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092205192259453229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1972656423021801472",
+          "start": 3,
+          "username": "Ovoyachiyo"
+        },
+        {
+          "end": 36,
+          "id": "1132729630245265408",
+          "start": 28,
+          "username": "pr80net"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/20a0TkRJgr",
+          "end": 60,
+          "expanded_url": "https://x.com/Ovoyachiyo/status/2092192862373089632/photo/1",
+          "media_key": "3_2092192854315864066",
+          "start": 37,
+          "url": "https://t.co/20a0TkRJgr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092205192259453229",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092192854315864066"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092192862373089632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ovoyachiyo: 已收到，非常美味，我感激@pr80net https://t.co/20a0TkRJgr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2092192854315864066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQj2UOsbkAIxQTv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092192854315864066"
+          ],
+          "media_source_tweet_id": [
+            "2092192862373089632"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2092205192259453229",
+        "created_at": "2026-08-25T10:59:23.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092205192259453229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1972656423021801472",
+              "start": 3,
+              "username": "Ovoyachiyo"
+            },
+            {
+              "end": 36,
+              "id": "1132729630245265408",
+              "start": 28,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/20a0TkRJgr",
+              "end": 60,
+              "expanded_url": "https://x.com/Ovoyachiyo/status/2092192862373089632/photo/1",
+              "media_key": "3_2092192854315864066",
+              "start": 37,
+              "url": "https://t.co/20a0TkRJgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092205192259453229",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092192854315864066"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092192862373089632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ovoyachiyo: 已收到，非常美味，我感激@pr80net https://t.co/20a0TkRJgr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092192854315864066"
+          ]
+        },
+        "author_id": "1972656423021801472",
+        "conversation_id": "2092192862373089632",
+        "created_at": "2026-08-25T10:10:24.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092192862373089632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1132729630245265408",
+              "start": 12,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/20a0TkRJgr",
+              "end": 44,
+              "expanded_url": "https://x.com/Ovoyachiyo/status/2092192862373089632/photo/1",
+              "media_key": "3_2092192854315864066",
+              "start": 21,
+              "url": "https://t.co/20a0TkRJgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092192862373089632",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092192854315864066"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已收到，非常美味，我感激@pr80net https://t.co/20a0TkRJgr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab14\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "ZakkysLab14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2092205192259453229",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2091884407061922029",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 605,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 317
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T13:35:29.000Z",
+        "description": "重度百合豚，河野裕狂热粉丝，lgbt友好，交友大欢迎！欢迎互关喵 08小女孩 很温良的入ww防走丢：@Ovojuhao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Ovojuhao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%A5%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%A5%E5%8F%B7ovo",
+                "start": 0,
+                "url": "https://t.co/0WnDZR2odX"
+              }
+            ]
+          }
+        },
+        "id": "1972656423021801472",
+        "is_identity_verified": false,
+        "location": "架见崎站南检票口前",
+        "most_recent_tweet_id": "2092192862373089632",
+        "name": "句号Ovo",
+        "pinned_tweet_id": "2077302827106680882",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972656423021801472/1779361365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972656867710255104/ivD4OJ6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 529,
+          "like_count": 747,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1700
+        },
+        "url": "https://t.co/0WnDZR2odX",
+        "username": "Ovoyachiyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

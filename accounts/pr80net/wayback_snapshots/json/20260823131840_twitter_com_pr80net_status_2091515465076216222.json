@@ -1,0 +1,578 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091514742221496321",
+        "3_2091514760118534145",
+        "3_2091514783900254208",
+        "3_2091514842465325056"
+      ],
+      "media_source_tweet_id": [
+        "2091514857539751975",
+        "2091514857539751975",
+        "2091514857539751975",
+        "2091514857539751975"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091515465076216222",
+    "created_at": "2026-08-23T13:18:40.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T14:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091515465076216222"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 37,
+          "tag": "普瑞巴林"
+        },
+        {
+          "end": 50,
+          "start": 43,
+          "tag": "普瑞巴林原粉"
+        },
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "pr80"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "od"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1723108106106806272",
+          "start": 3,
+          "username": "ZakkysGustavo13"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZQfGcFle6R",
+          "end": 116,
+          "expanded_url": "https://x.com/ZakkysGustavo13/status/2091514857539751975/photo/1",
+          "media_key": "3_2091514742221496321",
+          "start": 93,
+          "url": "https://t.co/ZQfGcFle6R"
+        },
+        {
+          "display_url": "pic.x.com/ZQfGcFle6R",
+          "end": 116,
+          "expanded_url": "https://x.com/ZakkysGustavo13/status/2091514857539751975/photo/1",
+          "media_key": "3_2091514760118534145",
+          "start": 93,
+          "url": "https://t.co/ZQfGcFle6R"
+        },
+        {
+          "display_url": "pic.x.com/ZQfGcFle6R",
+          "end": 116,
+          "expanded_url": "https://x.com/ZakkysGustavo13/status/2091514857539751975/photo/1",
+          "media_key": "3_2091514783900254208",
+          "start": 93,
+          "url": "https://t.co/ZQfGcFle6R"
+        },
+        {
+          "display_url": "pic.x.com/ZQfGcFle6R",
+          "end": 116,
+          "expanded_url": "https://x.com/ZakkysGustavo13/status/2091514857539751975/photo/1",
+          "media_key": "3_2091514842465325056",
+          "start": 93,
+          "url": "https://t.co/ZQfGcFle6R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091515465076216222",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091514742221496321"
+      },
+      {
+        "media_key": "3_2091514760118534145"
+      },
+      {
+        "media_key": "3_2091514783900254208"
+      },
+      {
+        "media_key": "3_2091514842465325056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091514857539751975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZakkysGustavo13: 依旧耍起 99.7% 太太太正 #普瑞巴林 #普瑞巴林原粉 #pr80 #od 合理用药 遵从医嘱 仅为处方用药分享 遵守法律法规 无营销行为 https://t.co/ZQfGcFle6R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1127,
+        "media_key": "3_2091514742221496321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQaNk6Sa4AE1rN3.jpg",
+        "width": 846
+      },
+      {
+        "height": 2992,
+        "media_key": "3_2091514760118534145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQaNl89aAAEyl67.jpg",
+        "width": 2992
+      },
+      {
+        "height": 1016,
+        "media_key": "3_2091514783900254208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQaNnVjaQAAlzMD.jpg",
+        "width": 1155
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2091514842465325056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQaNqvuaUAA0vK7.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091514742221496321",
+            "3_2091514760118534145",
+            "3_2091514783900254208",
+            "3_2091514842465325056"
+          ],
+          "media_source_tweet_id": [
+            "2091514857539751975",
+            "2091514857539751975",
+            "2091514857539751975",
+            "2091514857539751975"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091515465076216222",
+        "created_at": "2026-08-23T13:18:40.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091515465076216222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "普瑞巴林原粉"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "pr80"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "od"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1723108106106806272",
+              "start": 3,
+              "username": "ZakkysGustavo13"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZQfGcFle6R",
+              "end": 116,
+              "expanded_url": "https://x.com/ZakkysGustavo13/status/2091514857539751975/photo/1",
+              "media_key": "3_2091514742221496321",
+              "start": 93,
+              "url": "https://t.co/ZQfGcFle6R"
+            },
+            {
+              "display_url": "pic.x.com/ZQfGcFle6R",
+              "end": 116,
+              "expanded_url": "https://x.com/ZakkysGustavo13/status/2091514857539751975/photo/1",
+              "media_key": "3_2091514760118534145",
+              "start": 93,
+              "url": "https://t.co/ZQfGcFle6R"
+            },
+            {
+              "display_url": "pic.x.com/ZQfGcFle6R",
+              "end": 116,
+              "expanded_url": "https://x.com/ZakkysGustavo13/status/2091514857539751975/photo/1",
+              "media_key": "3_2091514783900254208",
+              "start": 93,
+              "url": "https://t.co/ZQfGcFle6R"
+            },
+            {
+              "display_url": "pic.x.com/ZQfGcFle6R",
+              "end": 116,
+              "expanded_url": "https://x.com/ZakkysGustavo13/status/2091514857539751975/photo/1",
+              "media_key": "3_2091514842465325056",
+              "start": 93,
+              "url": "https://t.co/ZQfGcFle6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091515465076216222",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091514742221496321"
+          },
+          {
+            "media_key": "3_2091514760118534145"
+          },
+          {
+            "media_key": "3_2091514783900254208"
+          },
+          {
+            "media_key": "3_2091514842465325056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091514857539751975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZakkysGustavo13: 依旧耍起 99.7% 太太太正 #普瑞巴林 #普瑞巴林原粉 #pr80 #od 合理用药 遵从医嘱 仅为处方用药分享 遵守法律法规 无营销行为 https://t.co/ZQfGcFle6R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091514742221496321",
+            "3_2091514760118534145",
+            "3_2091514783900254208",
+            "3_2091514842465325056"
+          ]
+        },
+        "author_id": "1723108106106806272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091514857539751975",
+        "created_at": "2026-08-23T13:16:15.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091514857539751975"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "普瑞巴林原粉"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "pr80"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZQfGcFle6R",
+              "end": 95,
+              "expanded_url": "https://x.com/ZakkysGustavo13/status/2091514857539751975/photo/1",
+              "media_key": "3_2091514742221496321",
+              "start": 72,
+              "url": "https://t.co/ZQfGcFle6R"
+            },
+            {
+              "display_url": "pic.x.com/ZQfGcFle6R",
+              "end": 95,
+              "expanded_url": "https://x.com/ZakkysGustavo13/status/2091514857539751975/photo/1",
+              "media_key": "3_2091514760118534145",
+              "start": 72,
+              "url": "https://t.co/ZQfGcFle6R"
+            },
+            {
+              "display_url": "pic.x.com/ZQfGcFle6R",
+              "end": 95,
+              "expanded_url": "https://x.com/ZakkysGustavo13/status/2091514857539751975/photo/1",
+              "media_key": "3_2091514783900254208",
+              "start": 72,
+              "url": "https://t.co/ZQfGcFle6R"
+            },
+            {
+              "display_url": "pic.x.com/ZQfGcFle6R",
+              "end": 95,
+              "expanded_url": "https://x.com/ZakkysGustavo13/status/2091514857539751975/photo/1",
+              "media_key": "3_2091514842465325056",
+              "start": 72,
+              "url": "https://t.co/ZQfGcFle6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091514857539751975",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091514742221496321"
+          },
+          {
+            "media_key": "3_2091514760118534145"
+          },
+          {
+            "media_key": "3_2091514783900254208"
+          },
+          {
+            "media_key": "3_2091514842465325056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "依旧耍起 99.7% 太太太正 #普瑞巴林 #普瑞巴林原粉 #pr80 #od 合理用药 遵从医嘱 仅为处方用药分享 遵守法律法规 无营销行为 https://t.co/ZQfGcFle6R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysGustavo13\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "ZakkysGustavo13"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2091515465076216222",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2090074522661814401",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 589,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 303
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-10T22:39:41.000Z",
+        "description": "https://t.co/KYl45NRPlx\n扎鸡兄弟 Los Pollos Hermanos ，99.7%精品Ｐｒ原粉\n上班时间 12:00 - 00:00",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "http://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/KYl45NRPlx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "http://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/KYl45NRPlx"
+              }
+            ]
+          }
+        },
+        "id": "1723108106106806272",
+        "is_identity_verified": false,
+        "location": "新墨西哥州，阿尔伯克基",
+        "most_recent_tweet_id": "2091514857539751975",
+        "name": "ZakkysLab扎鸡叔 V13",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723108106106806272/1699656330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091048008662372352/hlAHpEGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 27,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/KYl45NRPlx",
+        "username": "ZakkysGustavo13",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

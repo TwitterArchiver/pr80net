@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2091503348138889216"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2091503395081527417",
+    "created_at": "2026-08-23T12:30:42.000Z",
+    "display_text_range": [
+      0,
+      157
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T13:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091503395081527417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 42,
+          "id": "2083292041057120256",
+          "start": 30,
+          "username": "misakinae37"
+        },
+        {
+          "end": 56,
+          "id": "2077071624025542656",
+          "start": 46,
+          "username": "Souomaowo"
+        },
+        {
+          "end": 68,
+          "id": "1843671138028634112",
+          "start": 60,
+          "username": "MZWFXS6"
+        },
+        {
+          "end": 83,
+          "id": "2084990480618770432",
+          "start": 72,
+          "username": "yuda3_8964"
+        },
+        {
+          "end": 94,
+          "id": "2078478815500894208",
+          "start": 87,
+          "username": "2nvihl"
+        },
+        {
+          "end": 136,
+          "id": "1723108106106806272",
+          "start": 120,
+          "username": "ZakkysGustavo13"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HLSLAkwaTR",
+          "end": 181,
+          "expanded_url": "https://x.com/pr80net/status/2091503395081527417/photo/1",
+          "media_key": "16_2091503348138889216",
+          "start": 158,
+          "url": "https://t.co/HLSLAkwaTR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091503395081527417",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "16_2091503348138889216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "永夜安港 千Fo回馈 开奖幸运观众 2/2批 空投砸中了：\n@misakinae37  | @Souomaowo  | @MZWFXS6  | @yuda3_8964  | @2nvihl  \n全部开奖完毕，跪谢各位的支持，😭也跪谢扎鸡叔 @ZakkysGustavo13  霸气的空投 ，永夜安港千Fo抽奖完成！ https://t.co/HLSLAkwaTR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 188,
+        "media_key": "16_2091503348138889216",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQaDNsBb0AAaLdI.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQaDNsBb0AAaLdI.mp4"
+          }
+        ],
+        "width": 346
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2091503348138889216"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2091503395081527417",
+        "created_at": "2026-08-23T12:30:42.000Z",
+        "display_text_range": [
+          0,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091503395081527417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "2083292041057120256",
+              "start": 30,
+              "username": "misakinae37"
+            },
+            {
+              "end": 56,
+              "id": "2077071624025542656",
+              "start": 46,
+              "username": "Souomaowo"
+            },
+            {
+              "end": 68,
+              "id": "1843671138028634112",
+              "start": 60,
+              "username": "MZWFXS6"
+            },
+            {
+              "end": 83,
+              "id": "2084990480618770432",
+              "start": 72,
+              "username": "yuda3_8964"
+            },
+            {
+              "end": 94,
+              "id": "2078478815500894208",
+              "start": 87,
+              "username": "2nvihl"
+            },
+            {
+              "end": 136,
+              "id": "1723108106106806272",
+              "start": 120,
+              "username": "ZakkysGustavo13"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLSLAkwaTR",
+              "end": 181,
+              "expanded_url": "https://x.com/pr80net/status/2091503395081527417/photo/1",
+              "media_key": "16_2091503348138889216",
+              "start": 158,
+              "url": "https://t.co/HLSLAkwaTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091503395081527417",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2091503348138889216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "永夜安港 千Fo回馈 开奖幸运观众 2/2批 空投砸中了：\n@misakinae37  | @Souomaowo  | @MZWFXS6  | @yuda3_8964  | @2nvihl  \n全部开奖完毕，跪谢各位的支持，😭也跪谢扎鸡叔 @ZakkysGustavo13  霸气的空投 ，永夜安港千Fo抽奖完成！ https://t.co/HLSLAkwaTR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @soobin4869\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "soobin4869"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2091503395081527417",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2090074522661814401",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 588,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 302
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T20:45:50.000Z",
+        "description": "04，🚪58，大三崎在无尽的轮回封号中得到了历练，这一世发誓一定不要被封号，药物使用爱好者，勇者大人@zzz1398454",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "zzz1398454"
+              }
+            ]
+          }
+        },
+        "id": "2083292041057120256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091494258616467490",
+        "name": "三崎南枳",
+        "pinned_tweet_id": "2086697575399473286",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083293219786559488/D_PmG2-k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 156,
+          "like_count": 625,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 208
+        },
+        "url": "",
+        "username": "misakinae37",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T16:44:57.000Z",
+        "description": "🇨🇳|od|精神不安定\n前世@souomaoxo 推友寻回中……\n💕@ 王馬小吉 我只是个爱老公酱的笨蛋\n男的来过门槛陪聊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "souomaoxo"
+              }
+            ]
+          }
+        },
+        "id": "2077071624025542656",
+        "is_identity_verified": false,
+        "location": "🚪52",
+        "most_recent_tweet_id": "2091489624128438545",
+        "name": "用户0621",
+        "pinned_tweet_id": "2086828466536603753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077071624025542656/1786647512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087976959007485952/4QlIXW0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 103,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "Souomaowo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-08T15:14:00.000Z",
+        "description": "",
+        "id": "1843671138028634112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090721054302068882",
+        "name": "XY小鸢",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843671138028634112/1786209064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903932146886291456/9167aXhJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 175,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "MZWFXS6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T13:12:24.000Z",
+        "description": "一个神秘的乐乐 三代目",
+        "id": "2084990480618770432",
+        "is_identity_verified": false,
+        "location": "你家",
+        "most_recent_tweet_id": "2091458613881798937",
+        "name": "𝖞𝖚𝖉𝖆،梦想挂了🏴‍☠️三代目",
+        "pinned_tweet_id": "2091148776421675102",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084990480618770432/1785936237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084991632076865537/chE31pU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 152,
+          "like_count": 5768,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 414
+        },
+        "url": "",
+        "username": "yuda3_8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T14:00:20.000Z",
+        "description": "貴方だけのものになりたい、離れないで\n记录负面日常什么都发｜🚬💊🩸\n同类天使宝贝直fo我喜欢你呀♡\n🚪30 52  100不接线下",
+        "id": "2078478815500894208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091441107578376448",
+        "name": "病み兎",
+        "pinned_tweet_id": "2088670284014625139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078478815500894208/1785744330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089088179643232256/fabhpjK0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 142,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "2nvihl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-10T22:39:41.000Z",
+        "description": "https://t.co/KYl45NRPlx\n扎鸡兄弟 Los Pollos Hermanos ，99.7%精品Ｐｒ原粉\n上班时间 12:00 - 00:00",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "http://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/KYl45NRPlx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "http://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/KYl45NRPlx"
+              }
+            ]
+          }
+        },
+        "id": "1723108106106806272",
+        "is_identity_verified": false,
+        "location": "新墨西哥州，阿尔伯克基",
+        "most_recent_tweet_id": "2091480754228465734",
+        "name": "ZakkysLab扎鸡叔 V13",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723108106106806272/1699656330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091048008662372352/hlAHpEGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 27,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "url": "https://t.co/KYl45NRPlx",
+        "username": "ZakkysGustavo13",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

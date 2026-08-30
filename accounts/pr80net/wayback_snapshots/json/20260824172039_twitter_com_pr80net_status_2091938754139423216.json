@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2091884407061922029",
+    "created_at": "2026-08-24T17:20:39.000Z",
+    "display_text_range": [
+      23,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T18:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091938754139423216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1982087657703591936",
+          "start": 0,
+          "username": "ugaoOVO"
+        },
+        {
+          "end": 22,
+          "id": "1314905089220341761",
+          "start": 9,
+          "username": "ZakkysLabV14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091938754139423216",
+    "in_reply_to_user_id": "1982087657703591936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091936763132707080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ugaoOVO @ZakkysLabV14 期待扎女郎新作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2091884407061922029",
+        "created_at": "2026-08-24T17:20:39.000Z",
+        "display_text_range": [
+          23,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091938754139423216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1982087657703591936",
+              "start": 0,
+              "username": "ugaoOVO"
+            },
+            {
+              "end": 22,
+              "id": "1314905089220341761",
+              "start": 9,
+              "username": "ZakkysLabV14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091938754139423216",
+        "in_reply_to_user_id": "1982087657703591936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091936763132707080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ugaoOVO @ZakkysLabV14 期待扎女郎新作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982087657703591936",
+        "conversation_id": "2091884407061922029",
+        "created_at": "2026-08-24T17:12:45.000Z",
+        "display_text_range": [
+          23,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091936763132707080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 22,
+              "id": "1314905089220341761",
+              "start": 9,
+              "username": "ZakkysLabV14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091936763132707080",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091884407061922029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @ZakkysLabV14 我将严肃cos"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysGustavo13\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "ZakkysGustavo13"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2091938754139423216",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2090074522661814401",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 599,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-25T14:11:52.000Z",
+        "description": "超绝美丽的废话大王🚪52/188，同类互fo，可以和我聊天，很爱聊天，intp ，日本語が話せる、気にせずコメントしてください。",
+        "id": "1982087657703591936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091936763132707080",
+        "name": "u糕",
+        "pinned_tweet_id": "2090141630187925697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982087657703591936/1773299547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982087774955053056/njuGsRcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 31,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "ugaoOVO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-10T12:26:36.000Z",
+        "description": "https://t.co/i6xIgWYeLW\n新墨西哥州正宗扎鸡兄弟 99.7% ｐｒ８０源粉\nZakky's 上班时间 12:00 - 00:00\nWelcome to Los Pollos Hermanos",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/i6xIgWYeLW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/i6xIgWYeLW"
+              }
+            ]
+          }
+        },
+        "id": "1314905089220341761",
+        "is_identity_verified": false,
+        "location": "新墨西哥州，阿尔伯克基",
+        "most_recent_tweet_id": "2091927940913410368",
+        "name": "ZakkysLab 扎鸡叔 V14",
+        "pinned_tweet_id": "2091877337713516602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1314905089220341761/1787577217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091875884848574464/yyTnkMHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 30,
+          "like_count": 987,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/i6xIgWYeLW",
+        "username": "ZakkysLabV14",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

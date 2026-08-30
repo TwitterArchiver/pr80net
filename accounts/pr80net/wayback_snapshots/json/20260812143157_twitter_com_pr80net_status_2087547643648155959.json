@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084434818306301952",
+        "3_2084434826644623360",
+        "3_2084434835649736704"
+      ],
+      "media_source_tweet_id": [
+        "2084434842855653664",
+        "2084434842855653664",
+        "2084434842855653664"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2087547643648155959",
+    "created_at": "2026-08-12T14:31:57.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087547643648155959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1989627406391635968",
+          "start": 3,
+          "username": "drug_artist2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/48p227W1FV",
+          "end": 59,
+          "expanded_url": "https://x.com/drug_artist2/status/2084434842855653664/photo/1",
+          "media_key": "3_2084434818306301952",
+          "start": 36,
+          "url": "https://t.co/48p227W1FV"
+        },
+        {
+          "display_url": "pic.x.com/48p227W1FV",
+          "end": 59,
+          "expanded_url": "https://x.com/drug_artist2/status/2084434842855653664/photo/1",
+          "media_key": "3_2084434826644623360",
+          "start": 36,
+          "url": "https://t.co/48p227W1FV"
+        },
+        {
+          "display_url": "pic.x.com/48p227W1FV",
+          "end": 59,
+          "expanded_url": "https://x.com/drug_artist2/status/2084434842855653664/photo/1",
+          "media_key": "3_2084434835649736704",
+          "start": 36,
+          "url": "https://t.co/48p227W1FV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087547643648155959",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2084434818306301952"
+      },
+      {
+        "media_key": "3_2084434826644623360"
+      },
+      {
+        "media_key": "3_2084434835649736704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084434842855653664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @drug_artist2: iso测试报告\n“我的痛苦与欲望” https://t.co/48p227W1FV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2084434818306301952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1mbGaaYAARLnW.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2084434826644623360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1mblebEAAy2yI.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2084434835649736704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1mcHBaMAAE5IS.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084434818306301952",
+            "3_2084434826644623360",
+            "3_2084434835649736704"
+          ]
+        },
+        "author_id": "1989627406391635968",
+        "conversation_id": "2084434842855653664",
+        "created_at": "2026-08-04T00:22:48.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084434842855653664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/48p227W1FV",
+              "end": 41,
+              "expanded_url": "https://x.com/drug_artist2/status/2084434842855653664/photo/1",
+              "media_key": "3_2084434818306301952",
+              "start": 18,
+              "url": "https://t.co/48p227W1FV"
+            },
+            {
+              "display_url": "pic.x.com/48p227W1FV",
+              "end": 41,
+              "expanded_url": "https://x.com/drug_artist2/status/2084434842855653664/photo/1",
+              "media_key": "3_2084434826644623360",
+              "start": 18,
+              "url": "https://t.co/48p227W1FV"
+            },
+            {
+              "display_url": "pic.x.com/48p227W1FV",
+              "end": 41,
+              "expanded_url": "https://x.com/drug_artist2/status/2084434842855653664/photo/1",
+              "media_key": "3_2084434835649736704",
+              "start": 18,
+              "url": "https://t.co/48p227W1FV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084434842855653664",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2084434818306301952"
+          },
+          {
+            "media_key": "3_2084434826644623360"
+          },
+          {
+            "media_key": "3_2084434835649736704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3084,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "iso测试报告\n“我的痛苦与欲望” https://t.co/48p227W1FV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084434818306301952",
+            "3_2084434826644623360",
+            "3_2084434835649736704"
+          ],
+          "media_source_tweet_id": [
+            "2084434842855653664",
+            "2084434842855653664",
+            "2084434842855653664"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2087547643648155959",
+        "created_at": "2026-08-12T14:31:57.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087547643648155959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1989627406391635968",
+              "start": 3,
+              "username": "drug_artist2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/48p227W1FV",
+              "end": 59,
+              "expanded_url": "https://x.com/drug_artist2/status/2084434842855653664/photo/1",
+              "media_key": "3_2084434818306301952",
+              "start": 36,
+              "url": "https://t.co/48p227W1FV"
+            },
+            {
+              "display_url": "pic.x.com/48p227W1FV",
+              "end": 59,
+              "expanded_url": "https://x.com/drug_artist2/status/2084434842855653664/photo/1",
+              "media_key": "3_2084434826644623360",
+              "start": 36,
+              "url": "https://t.co/48p227W1FV"
+            },
+            {
+              "display_url": "pic.x.com/48p227W1FV",
+              "end": 59,
+              "expanded_url": "https://x.com/drug_artist2/status/2084434842855653664/photo/1",
+              "media_key": "3_2084434835649736704",
+              "start": 36,
+              "url": "https://t.co/48p227W1FV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087547643648155959",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2084434818306301952"
+          },
+          {
+            "media_key": "3_2084434826644623360"
+          },
+          {
+            "media_key": "3_2084434835649736704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084434842855653664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @drug_artist2: iso测试报告\n“我的痛苦与欲望” https://t.co/48p227W1FV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2087547643648155959",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2085697514506993872",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 541,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 208
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱杀回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg自治区",
+        "most_recent_tweet_id": "2087317203309793454",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989627406391635968/1763199281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1820,
+          "following_count": 71,
+          "like_count": 476,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

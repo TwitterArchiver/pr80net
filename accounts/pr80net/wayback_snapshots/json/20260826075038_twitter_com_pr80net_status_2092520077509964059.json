@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2092520061730963456"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2092520077509964059",
+    "created_at": "2026-08-26T07:50:38.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T08:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092520077509964059"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/61uyv8Z6MH",
+          "end": 23,
+          "expanded_url": "https://x.com/pr80net/status/2092520077509964059/photo/1",
+          "media_key": "16_2092520061730963456",
+          "start": 0,
+          "url": "https://t.co/61uyv8Z6MH"
+        },
+        {
+          "display_url": "x.com/ZRandom074/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/ZRandom074/status/2092517542543962493",
+          "start": 24,
+          "url": "https://t.co/KjmSaBxYz3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092520077509964059",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "16_2092520061730963456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092517542543962493",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/61uyv8Z6MH https://t.co/KjmSaBxYz3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 188,
+        "media_key": "16_2092520061730963456",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQof6NTaQAAm1mU.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQof6NTaQAAm1mU.mp4"
+          }
+        ],
+        "width": 346
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092517000933474304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQodIC8bAAAyQGe.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092517012685938688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQodIuubYAAggAz.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092517034760491008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQodKA9aUAAn4Gx.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092517046189957120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQodKriaIAAfIhJ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2092520061730963456"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2092520077509964059",
+        "created_at": "2026-08-26T07:50:38.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092520077509964059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/61uyv8Z6MH",
+              "end": 23,
+              "expanded_url": "https://x.com/pr80net/status/2092520077509964059/photo/1",
+              "media_key": "16_2092520061730963456",
+              "start": 0,
+              "url": "https://t.co/61uyv8Z6MH"
+            },
+            {
+              "display_url": "x.com/ZRandom074/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ZRandom074/status/2092517542543962493",
+              "start": 24,
+              "url": "https://t.co/KjmSaBxYz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092520077509964059",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2092520061730963456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092517542543962493",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/61uyv8Z6MH https://t.co/KjmSaBxYz3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092517000933474304",
+            "3_2092517012685938688",
+            "3_2092517034760491008",
+            "3_2092517046189957120"
+          ]
+        },
+        "author_id": "1746676942139461632",
+        "conversation_id": "2092517542543962493",
+        "created_at": "2026-08-26T07:40:33.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092517542543962493"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "od"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "pr80"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "普瑞原粉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ujwz7a1CyN",
+              "end": 79,
+              "expanded_url": "https://x.com/ZRandom074/status/2092517542543962493/photo/1",
+              "media_key": "3_2092517000933474304",
+              "start": 56,
+              "url": "https://t.co/ujwz7a1CyN"
+            },
+            {
+              "display_url": "pic.x.com/ujwz7a1CyN",
+              "end": 79,
+              "expanded_url": "https://x.com/ZRandom074/status/2092517542543962493/photo/1",
+              "media_key": "3_2092517012685938688",
+              "start": 56,
+              "url": "https://t.co/ujwz7a1CyN"
+            },
+            {
+              "display_url": "pic.x.com/ujwz7a1CyN",
+              "end": 79,
+              "expanded_url": "https://x.com/ZRandom074/status/2092517542543962493/photo/1",
+              "media_key": "3_2092517034760491008",
+              "start": 56,
+              "url": "https://t.co/ujwz7a1CyN"
+            },
+            {
+              "display_url": "pic.x.com/ujwz7a1CyN",
+              "end": 79,
+              "expanded_url": "https://x.com/ZRandom074/status/2092517542543962493/photo/1",
+              "media_key": "3_2092517046189957120",
+              "start": 56,
+              "url": "https://t.co/ujwz7a1CyN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092517542543962493",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092517000933474304"
+          },
+          {
+            "media_key": "3_2092517012685938688"
+          },
+          {
+            "media_key": "3_2092517034760491008"
+          },
+          {
+            "media_key": "3_2092517046189957120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "99.7%依旧 #od #普瑞巴林 #pr80 #普瑞原粉 仅为pr遵医嘱用药处方分享 无不良行为 小飞机联系 https://t.co/ujwz7a1CyN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @AndresgKevin\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "AndresgKevin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2092520077509964059",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2092229232063877171",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 616,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-14T23:33:47.000Z",
+        "description": "扎鸡兄弟 Los Pollos Hermanos ，99.7%精品Ｐｒ原粉↓↓\nhttps://t.co/OxmCHdi1XL ←私聊询问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 63,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 40,
+                "url": "https://t.co/OxmCHdi1XL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/OxmCHdi1XL"
+              }
+            ]
+          }
+        },
+        "id": "1746676942139461632",
+        "is_identity_verified": false,
+        "location": "Mexico",
+        "most_recent_tweet_id": "2092517542543962493",
+        "name": "Zakky's 随机卖货号74",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746676942139461632/1787729814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092516554382733312/UPsZa9-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/OxmCHdi1XL",
+        "username": "ZRandom074",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

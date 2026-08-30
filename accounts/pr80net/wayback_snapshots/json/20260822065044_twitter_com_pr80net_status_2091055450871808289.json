@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2091055450871808289",
+    "created_at": "2026-08-22T06:50:44.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T07:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091055450871808289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ZakkysGustavo1…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/ZakkysGustavo13/status/2091048909212942810",
+          "start": 21,
+          "url": "https://t.co/aOjHpwvFnT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091055450871808289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091048909212942810",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "扎鸡区再次传来噩耗 扎鸡叔V13横空出场 https://t.co/aOjHpwvFnT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2992,
+        "media_key": "3_2091048861834076160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTl3Gma4AAHmby.jpg",
+        "width": 2992
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2091048861934776321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTl3G-bcAE1CRA.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2091048862027042816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTl3HUbUAAgj8o.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091048861855055872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTl3GrbAAA9o-z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2091055450871808289",
+        "created_at": "2026-08-22T06:50:44.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091055450871808289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZakkysGustavo1…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/ZakkysGustavo13/status/2091048909212942810",
+              "start": 21,
+              "url": "https://t.co/aOjHpwvFnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091055450871808289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091048909212942810",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "扎鸡区再次传来噩耗 扎鸡叔V13横空出场 https://t.co/aOjHpwvFnT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091048861834076160",
+            "3_2091048861934776321",
+            "3_2091048862027042816",
+            "3_2091048861855055872"
+          ]
+        },
+        "author_id": "1723108106106806272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091048909212942810",
+        "created_at": "2026-08-22T06:24:44.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091048909212942810"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 48,
+              "start": 41,
+              "tag": "普瑞巴林原粉"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "pr80"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TTrrE8OZiq",
+              "end": 114,
+              "expanded_url": "https://x.com/ZakkysGustavo13/status/2091048909212942810/photo/1",
+              "media_key": "3_2091048861834076160",
+              "start": 91,
+              "url": "https://t.co/TTrrE8OZiq"
+            },
+            {
+              "display_url": "pic.x.com/TTrrE8OZiq",
+              "end": 114,
+              "expanded_url": "https://x.com/ZakkysGustavo13/status/2091048909212942810/photo/1",
+              "media_key": "3_2091048861934776321",
+              "start": 91,
+              "url": "https://t.co/TTrrE8OZiq"
+            },
+            {
+              "display_url": "pic.x.com/TTrrE8OZiq",
+              "end": 114,
+              "expanded_url": "https://x.com/ZakkysGustavo13/status/2091048909212942810/photo/1",
+              "media_key": "3_2091048862027042816",
+              "start": 91,
+              "url": "https://t.co/TTrrE8OZiq"
+            },
+            {
+              "display_url": "pic.x.com/TTrrE8OZiq",
+              "end": 114,
+              "expanded_url": "https://x.com/ZakkysGustavo13/status/2091048909212942810/photo/1",
+              "media_key": "3_2091048861855055872",
+              "start": 91,
+              "url": "https://t.co/TTrrE8OZiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091048909212942810",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091048861834076160"
+          },
+          {
+            "media_key": "3_2091048861934776321"
+          },
+          {
+            "media_key": "3_2091048862027042816"
+          },
+          {
+            "media_key": "3_2091048861855055872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "新墨州老炮 正宗扎鸡兄弟 我是扎鸡叔 依旧耍起 99.7% 太太太正 #普瑞巴林 #普瑞巴林原粉 #pr80 #od 合理用药 遵从医嘱 仅为处方用药分享 遵守法律法规 无营销行为 https://t.co/TTrrE8OZiq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @soobin4869\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "soobin4869"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2091055450871808289",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2090074522661814401",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 587,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-10T22:39:41.000Z",
+        "description": "https://t.co/KYl45NRPlx\n扎鸡兄弟 Los Pollos Hermanos ，99.7%精品Ｐｒ原粉\n上班时间 12:00 - 00:00",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "http://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/KYl45NRPlx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "http://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/KYl45NRPlx"
+              }
+            ]
+          }
+        },
+        "id": "1723108106106806272",
+        "is_identity_verified": false,
+        "location": "新墨西哥州，阿尔伯克基",
+        "most_recent_tweet_id": "2091048909212942810",
+        "name": "ZakkysLab扎鸡叔 V13",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723108106106806272/1699656330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091048008662372352/hlAHpEGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 19,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "https://t.co/KYl45NRPlx",
+        "username": "ZakkysGustavo13",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

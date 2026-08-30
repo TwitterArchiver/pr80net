@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088604232471736320"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2088604867623628990",
+    "created_at": "2026-08-15T12:32:59.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T13:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088604867623628990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1fRmjLla5P",
+          "end": 147,
+          "expanded_url": "https://x.com/pr80net/status/2088604867623628990/video/1",
+          "media_key": "13_2088604232471736320",
+          "start": 124,
+          "url": "https://t.co/1fRmjLla5P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088604867623628990",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2088604232471736320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "永夜安港 【今日空投贴】\n依旧是扎鸡叔送出的妙妙小礼物*2！今天要去接待一个很重要的兄弟，感觉大家身边多多少少都会有一个人，不图ta什么的纯友谊，你们有这样的兄弟姐妹吗？是什么缘份认识的吗？评论区里聊聊你的兄弟姐妹，扎鸡叔随机选出幸运观众得到空投 https://t.co/1fRmjLla5P"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50333,
+        "height": 1440,
+        "media_key": "13_2088604232471736320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088604232471736320/img/gs5YxQ33XgNyVuFD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088604232471736320/vid/avc1/640x360/i_Ljh3M76jxtlHiz.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088604232471736320/vid/avc1/2560x1440/icVsiXKzoREGlkmi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088604232471736320/vid/avc1/1280x720/WvZT1Q7hmmBml53a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088604232471736320/pl/BOUh4WT2MFkDIS6x.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088604232471736320/vid/avc1/480x270/6yUqgi-O9r7ZguMm.mp4"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088604232471736320"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2088604867623628990",
+        "created_at": "2026-08-15T12:32:59.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088604867623628990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1fRmjLla5P",
+              "end": 147,
+              "expanded_url": "https://x.com/pr80net/status/2088604867623628990/video/1",
+              "media_key": "13_2088604232471736320",
+              "start": 124,
+              "url": "https://t.co/1fRmjLla5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088604867623628990",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088604232471736320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "永夜安港 【今日空投贴】\n依旧是扎鸡叔送出的妙妙小礼物*2！今天要去接待一个很重要的兄弟，感觉大家身边多多少少都会有一个人，不图ta什么的纯友谊，你们有这样的兄弟姐妹吗？是什么缘份认识的吗？评论区里聊聊你的兄弟姐妹，扎鸡叔随机选出幸运观众得到空投 https://t.co/1fRmjLla5P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2088604867623628990",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2085697514506993872",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 551,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
