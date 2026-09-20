@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2092983104994701761",
+    "created_at": "2026-08-27T14:30:32.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T15:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092983104994701761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 54,
+          "id": "1860377535215013888",
+          "start": 40,
+          "username": "AraiNogawaovo"
+        },
+        {
+          "end": 66,
+          "id": "1851283026027941888",
+          "start": 57,
+          "username": "KkkkjzZz"
+        },
+        {
+          "end": 83,
+          "id": "1984436258962358273",
+          "start": 69,
+          "username": "Ailith_Caeron"
+        },
+        {
+          "end": 97,
+          "id": "800983288428961792",
+          "start": 86,
+          "username": "xiaoyu_TwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092983104994701761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天空投超级加倍了，一共4位幸运观众被典藏版妙妙BabyPink砸中了，分别是 @AraiNogawaovo | @KkkkjzZz | @Ailith_Caeron | @xiaoyu_TwT ，今晚的空投马上来！恭喜他们！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2092983104994701761",
+        "created_at": "2026-08-27T14:30:32.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092983104994701761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 54,
+              "id": "1860377535215013888",
+              "start": 40,
+              "username": "AraiNogawaovo"
+            },
+            {
+              "end": 66,
+              "id": "1851283026027941888",
+              "start": 57,
+              "username": "KkkkjzZz"
+            },
+            {
+              "end": 83,
+              "id": "1984436258962358273",
+              "start": 69,
+              "username": "Ailith_Caeron"
+            },
+            {
+              "end": 97,
+              "id": "800983288428961792",
+              "start": 86,
+              "username": "xiaoyu_TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092983104994701761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天空投超级加倍了，一共4位幸运观众被典藏版妙妙BabyPink砸中了，分别是 @AraiNogawaovo | @KkkkjzZz | @Ailith_Caeron | @xiaoyu_TwT ，今晚的空投马上来！恭喜他们！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @17_ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "17_ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2092983104994701761",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2092584498512929115",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 626,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-23T17:39:13.000Z",
+        "description": "雙手合十的時候，第一個聽到祈禱的人是自己。\n-\n精神病channel偶爾發一些照片和作品不混小圈不談戀愛不是單身🙏🙏\n微查成分互fo",
+        "id": "1860377535215013888",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2092868525253869743",
+        "name": "荒井野川",
+        "pinned_tweet_id": "2091873760123212156",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860377535215013888/1783699878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075617491817226240/WqJS9TrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 253,
+          "like_count": 2252,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1094
+        },
+        "url": "",
+        "username": "AraiNogawaovo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T15:20:52.000Z",
+        "description": "",
+        "id": "1851283026027941888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092673258042859845",
+        "name": "转生橘子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851283026027941888/1762706356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061983590704107520/hIEJtPra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 124,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "KkkkjzZz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "休恋逝水。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092884804509290989",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2058970491638153390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1984436258962358273/1761961687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078422244280418304/fh20vcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 327,
+          "like_count": 12275,
+          "listed_count": 1,
+          "media_count": 509,
+          "tweet_count": 3277
+        },
+        "url": "",
+        "username": "Ailith_Caeron",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-11-22T08:44:32.000Z",
+        "description": "而我不再觉得失去是舍不得",
+        "id": "800983288428961792",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2092969464098877669",
+        "name": "死了就像水消失在水中",
+        "pinned_tweet_id": "1812687701709299854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/800983288428961792/1787676060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092286962027892736/wekn6ZoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 40,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1424
+        },
+        "url": "",
+        "username": "xiaoyu_TwT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
