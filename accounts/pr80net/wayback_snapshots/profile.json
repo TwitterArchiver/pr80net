@@ -1,20 +1,13 @@
 {
   "name": "pr80.net 永夜安港",
   "username": "@pr80net",
-  "bio": "https://t.me/ilovepr80\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @17_ZakkysLab\nCreated by Luvsenberg",
+  "bio": "https://t.me/ilovepr80\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky'tg：http://t.me/drug_artist\nCreated by Luvsenberg",
   "location": "永夜安港",
   "link": "https://pr80.net/",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2085697514506993872",
   "bio_entities": {
-    "mentions": [
-      {
-        "end": 111,
-        "start": 98,
-        "username": "17_ZakkysLab"
-      }
-    ],
     "urls": [
       {
         "display_url": "t.me/ilovepr80",
@@ -22,6 +15,13 @@
         "expanded_url": "https://t.me/ilovepr80",
         "start": 0,
         "url": "https://t.co/U6cOi5U2lA"
+      },
+      {
+        "display_url": "t.me/drug_artist",
+        "end": 122,
+        "expanded_url": "http://t.me/drug_artist",
+        "start": 99,
+        "url": "https://t.co/AJ3SEoIa7U"
       }
     ]
   },
