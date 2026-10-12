@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2092989108331360418",
+    "created_at": "2026-08-27T17:35:37.000Z",
+    "display_text_range": [
+      25,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T18:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093029684170912018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889244178447736832",
+          "start": 0,
+          "username": "huzbsbhsj"
+        },
+        {
+          "end": 24,
+          "id": "1789010584731586561",
+          "start": 11,
+          "username": "17_ZakkysLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093029684170912018",
+    "in_reply_to_user_id": "1889244178447736832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093026157226831911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huzbsbhsj @17_ZakkysLab 50年前的人们幻想的AI：代替人们扫地、洗碗，现在真实的AI："
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_2093026146220990465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvsMM8bYAEc9gC.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2092989108331360418",
+        "created_at": "2026-08-27T17:35:37.000Z",
+        "display_text_range": [
+          25,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093029684170912018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889244178447736832",
+              "start": 0,
+              "username": "huzbsbhsj"
+            },
+            {
+              "end": 24,
+              "id": "1789010584731586561",
+              "start": 11,
+              "username": "17_ZakkysLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093029684170912018",
+        "in_reply_to_user_id": "1889244178447736832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093026157226831911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huzbsbhsj @17_ZakkysLab 50年前的人们幻想的AI：代替人们扫地、洗碗，现在真实的AI："
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093026146220990465"
+          ]
+        },
+        "author_id": "1889244178447736832",
+        "conversation_id": "2092989108331360418",
+        "created_at": "2026-08-27T17:21:37.000Z",
+        "display_text_range": [
+          23,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093026157226831911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 22,
+              "id": "1789010584731586561",
+              "start": 9,
+              "username": "17_ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W5NUm2GgEw",
+              "end": 49,
+              "expanded_url": "https://x.com/huzbsbhsj/status/2093026157226831911/photo/1",
+              "media_key": "3_2093026146220990465",
+              "start": 26,
+              "url": "https://t.co/W5NUm2GgEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093026157226831911",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093026146220990465"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092989108331360418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @17_ZakkysLab 蹲蹲 https://t.co/W5NUm2GgEw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @17_ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "17_ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2093029684170912018",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2092989108331360418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 627,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 366
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T09:25:02.000Z",
+        "description": "我是圈圈/戒割手/od/本人蛮热情的就是可能有时候脑子不好/求互fo",
+        "id": "1889244178447736832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093027700395106541",
+        "name": "圈圈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889244178447736832/1739266121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085975281550893056/puIWt54W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 114,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "huzbsbhsj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-10T19:12:26.000Z",
+        "description": "扎鸡兄弟 Los Pollos Hermanos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/ALxTTL6SOC"
+              }
+            ]
+          }
+        },
+        "id": "1789010584731586561",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2092803581590343991",
+        "name": "扎17",
+        "pinned_tweet_id": "2092636720026288426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789010584731586561/1787669819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092264793378099201/nwq8pqCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 50,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/ALxTTL6SOC",
+        "username": "17_ZakkysLab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

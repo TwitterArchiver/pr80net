@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2092989108331360418",
+    "created_at": "2026-08-27T15:00:40.000Z",
+    "display_text_range": [
+      29,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T16:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092990688128557453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2073934453454614530",
+          "start": 0,
+          "username": "dreamolly1997"
+        },
+        {
+          "end": 28,
+          "id": "1789010584731586561",
+          "start": 15,
+          "username": "17_ZakkysLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092990688128557453",
+    "in_reply_to_user_id": "2073934453454614530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092990383928295491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dreamolly1997 @17_ZakkysLab 这种压力豆包最狠了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1566,
+        "media_key": "3_2092990374155526144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvLp_naIAAGbIj.jpg",
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2092989108331360418",
+        "created_at": "2026-08-27T15:00:40.000Z",
+        "display_text_range": [
+          29,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092990688128557453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2073934453454614530",
+              "start": 0,
+              "username": "dreamolly1997"
+            },
+            {
+              "end": 28,
+              "id": "1789010584731586561",
+              "start": 15,
+              "username": "17_ZakkysLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092990688128557453",
+        "in_reply_to_user_id": "2073934453454614530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092990383928295491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamolly1997 @17_ZakkysLab 这种压力豆包最狠了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092990374155526144"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2092989108331360418",
+        "created_at": "2026-08-27T14:59:28.000Z",
+        "display_text_range": [
+          22,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092990383928295491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 22,
+              "id": "1789010584731586561",
+              "start": 9,
+              "username": "17_ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/icUVOjgmBr",
+              "end": 46,
+              "expanded_url": "https://x.com/dreamolly1997/status/2092990383928295491/photo/1",
+              "media_key": "3_2092990374155526144",
+              "start": 23,
+              "url": "https://t.co/icUVOjgmBr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092990383928295491",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2092990374155526144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092989108331360418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @17_ZakkysLab https://t.co/icUVOjgmBr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @17_ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "17_ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2092990688128557453",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2092989108331360418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 626,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "is_identity_verified": false,
+        "location": "molise 的心里！",
+        "most_recent_tweet_id": "2092990533895635276",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073934453454614530/1783770009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 481,
+          "like_count": 2406,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 3088
+        },
+        "url": "",
+        "username": "dreamolly1997",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-10T19:12:26.000Z",
+        "description": "扎鸡兄弟 Los Pollos Hermanos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/ALxTTL6SOC"
+              }
+            ]
+          }
+        },
+        "id": "1789010584731586561",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2092803581590343991",
+        "name": "扎17",
+        "pinned_tweet_id": "2092636720026288426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789010584731586561/1787669819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092264793378099201/nwq8pqCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 50,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/ALxTTL6SOC",
+        "username": "17_ZakkysLab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

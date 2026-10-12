@@ -1,0 +1,595 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092571249625182208",
+        "3_2092571266708598784",
+        "13_2092571280130420736",
+        "16_2092571311830872064"
+      ],
+      "media_source_tweet_id": [
+        "2092571455976562837",
+        "2092571455976562837",
+        "2092571455976562837",
+        "2092571455976562837"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092576823070888005",
+    "created_at": "2026-08-26T11:36:07.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T12:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092576823070888005"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "OD"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "普瑞巴林"
+        },
+        {
+          "end": 67,
+          "start": 62,
+          "tag": "pr80"
+        },
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "普瑞原粉"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746676942139461632",
+          "start": 3,
+          "username": "ZRandom074"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9aMLAsjwzd",
+          "end": 97,
+          "expanded_url": "https://x.com/ZRandom074/status/2092571455976562837/video/1",
+          "media_key": "3_2092571249625182208",
+          "start": 74,
+          "url": "https://t.co/9aMLAsjwzd"
+        },
+        {
+          "display_url": "pic.x.com/9aMLAsjwzd",
+          "end": 97,
+          "expanded_url": "https://x.com/ZRandom074/status/2092571455976562837/video/1",
+          "media_key": "3_2092571266708598784",
+          "start": 74,
+          "url": "https://t.co/9aMLAsjwzd"
+        },
+        {
+          "display_url": "pic.x.com/9aMLAsjwzd",
+          "end": 97,
+          "expanded_url": "https://x.com/ZRandom074/status/2092571455976562837/video/1",
+          "media_key": "13_2092571280130420736",
+          "start": 74,
+          "url": "https://t.co/9aMLAsjwzd"
+        },
+        {
+          "display_url": "pic.x.com/9aMLAsjwzd",
+          "end": 97,
+          "expanded_url": "https://x.com/ZRandom074/status/2092571455976562837/video/1",
+          "media_key": "16_2092571311830872064",
+          "start": 74,
+          "url": "https://t.co/9aMLAsjwzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092576823070888005",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092571249625182208"
+      },
+      {
+        "media_key": "3_2092571266708598784"
+      },
+      {
+        "media_key": "13_2092571280130420736"
+      },
+      {
+        "media_key": "16_2092571311830872064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092571455976562837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZRandom074: 正宗扎鸡兄弟pr80原粉 tight tight tight yeah #OD #普瑞巴林 #pr80 #普瑞原粉 https://t.co/9aMLAsjwzd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2992,
+        "media_key": "3_2092571249625182208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpOdvEasAA5Xde.jpg",
+        "width": 2992
+      },
+      {
+        "height": 2992,
+        "media_key": "3_2092571266708598784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpOeuta8AAkdXC.jpg",
+        "width": 2992
+      },
+      {
+        "duration_ms": 18633,
+        "height": 1280,
+        "media_key": "13_2092571280130420736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092571280130420736/img/8QwcZfbVxSfpCw-K.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092571280130420736/vid/avc1/320x568/7k-D6SUzql5Blhcm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092571280130420736/vid/avc1/480x852/ZYM23W13HgOBdZlw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092571280130420736/vid/avc1/720x1280/Dr6O1Kqauxfe6YCx.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092571280130420736/pl/4tFM4DNnn5saJmUM.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 188,
+        "media_key": "16_2092571311830872064",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQpOhWzaMAAtyT7.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQpOhWzaMAAtyT7.mp4"
+          }
+        ],
+        "width": 346
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092571249625182208",
+            "3_2092571266708598784",
+            "13_2092571280130420736",
+            "16_2092571311830872064"
+          ],
+          "media_source_tweet_id": [
+            "2092571455976562837",
+            "2092571455976562837",
+            "2092571455976562837",
+            "2092571455976562837"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092576823070888005",
+        "created_at": "2026-08-26T11:36:07.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092576823070888005"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "OD"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "pr80"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "普瑞原粉"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746676942139461632",
+              "start": 3,
+              "username": "ZRandom074"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9aMLAsjwzd",
+              "end": 97,
+              "expanded_url": "https://x.com/ZRandom074/status/2092571455976562837/video/1",
+              "media_key": "3_2092571249625182208",
+              "start": 74,
+              "url": "https://t.co/9aMLAsjwzd"
+            },
+            {
+              "display_url": "pic.x.com/9aMLAsjwzd",
+              "end": 97,
+              "expanded_url": "https://x.com/ZRandom074/status/2092571455976562837/video/1",
+              "media_key": "3_2092571266708598784",
+              "start": 74,
+              "url": "https://t.co/9aMLAsjwzd"
+            },
+            {
+              "display_url": "pic.x.com/9aMLAsjwzd",
+              "end": 97,
+              "expanded_url": "https://x.com/ZRandom074/status/2092571455976562837/video/1",
+              "media_key": "13_2092571280130420736",
+              "start": 74,
+              "url": "https://t.co/9aMLAsjwzd"
+            },
+            {
+              "display_url": "pic.x.com/9aMLAsjwzd",
+              "end": 97,
+              "expanded_url": "https://x.com/ZRandom074/status/2092571455976562837/video/1",
+              "media_key": "16_2092571311830872064",
+              "start": 74,
+              "url": "https://t.co/9aMLAsjwzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092576823070888005",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092571249625182208"
+          },
+          {
+            "media_key": "3_2092571266708598784"
+          },
+          {
+            "media_key": "13_2092571280130420736"
+          },
+          {
+            "media_key": "16_2092571311830872064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092571455976562837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZRandom074: 正宗扎鸡兄弟pr80原粉 tight tight tight yeah #OD #普瑞巴林 #pr80 #普瑞原粉 https://t.co/9aMLAsjwzd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092571249625182208",
+            "3_2092571266708598784",
+            "13_2092571280130420736",
+            "16_2092571311830872064"
+          ]
+        },
+        "author_id": "1746676942139461632",
+        "conversation_id": "2092571455976562837",
+        "created_at": "2026-08-26T11:14:47.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092571455976562837"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "OD"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "pr80"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "普瑞原粉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9aMLAsjwzd",
+              "end": 81,
+              "expanded_url": "https://x.com/ZRandom074/status/2092571455976562837/video/1",
+              "media_key": "3_2092571249625182208",
+              "start": 58,
+              "url": "https://t.co/9aMLAsjwzd"
+            },
+            {
+              "display_url": "pic.x.com/9aMLAsjwzd",
+              "end": 81,
+              "expanded_url": "https://x.com/ZRandom074/status/2092571455976562837/video/1",
+              "media_key": "3_2092571266708598784",
+              "start": 58,
+              "url": "https://t.co/9aMLAsjwzd"
+            },
+            {
+              "display_url": "pic.x.com/9aMLAsjwzd",
+              "end": 81,
+              "expanded_url": "https://x.com/ZRandom074/status/2092571455976562837/video/1",
+              "media_key": "13_2092571280130420736",
+              "start": 58,
+              "url": "https://t.co/9aMLAsjwzd"
+            },
+            {
+              "display_url": "pic.x.com/9aMLAsjwzd",
+              "end": 81,
+              "expanded_url": "https://x.com/ZRandom074/status/2092571455976562837/video/1",
+              "media_key": "16_2092571311830872064",
+              "start": 58,
+              "url": "https://t.co/9aMLAsjwzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092571455976562837",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092571249625182208"
+          },
+          {
+            "media_key": "3_2092571266708598784"
+          },
+          {
+            "media_key": "13_2092571280130420736"
+          },
+          {
+            "media_key": "16_2092571311830872064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "正宗扎鸡兄弟pr80原粉 tight tight tight yeah #OD #普瑞巴林 #pr80 #普瑞原粉 https://t.co/9aMLAsjwzd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @AndresgKevin\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "AndresgKevin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2092576823070888005",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2092229232063877171",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 620,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-14T23:33:47.000Z",
+        "description": "扎鸡兄弟 Los Pollos Hermanos ，99.7%精品Ｐｒ原粉↓↓\nhttps://t.co/OxmCHdi1XL ←私聊询问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 63,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 40,
+                "url": "https://t.co/OxmCHdi1XL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/OxmCHdi1XL"
+              }
+            ]
+          }
+        },
+        "id": "1746676942139461632",
+        "is_identity_verified": false,
+        "location": "Mexico",
+        "most_recent_tweet_id": "2092571455976562837",
+        "name": "Zakky's 随机卖货号74",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746676942139461632/1787729814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092516554382733312/UPsZa9-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/OxmCHdi1XL",
+        "username": "ZRandom074",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

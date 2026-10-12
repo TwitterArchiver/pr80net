@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092991945601859584"
+      ]
+    },
+    "author_id": "1132729630245265408",
+    "conversation_id": "2092989108331360418",
+    "created_at": "2026-08-27T15:05:42.000Z",
+    "display_text_range": [
+      26,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T16:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092991953063616980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065198847698337792",
+          "start": 0,
+          "username": "mzmorz8964"
+        },
+        {
+          "end": 25,
+          "id": "1789010584731586561",
+          "start": 12,
+          "username": "17_ZakkysLab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MUL27fyN6L",
+          "end": 65,
+          "expanded_url": "https://x.com/pr80net/status/2092991953063616980/photo/1",
+          "media_key": "3_2092991945601859584",
+          "start": 42,
+          "url": "https://t.co/MUL27fyN6L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092991953063616980",
+    "in_reply_to_user_id": "2065198847698337792",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092991945601859584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092991533553467633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzmorz8964 @17_ZakkysLab 一会黄耗子给你来个电炮就老实了 https://t.co/MUL27fyN6L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2092991945601859584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvNFdtaQAAuIy2.jpg",
+        "width": 360
+      },
+      {
+        "height": 736,
+        "media_key": "3_2092991523331956736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvMs4oa4AAdcQB.jpg",
+        "width": 1140
+      },
+      {
+        "height": 112,
+        "media_key": "3_2092991529338249216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvMtPAboAAXQMi.jpg",
+        "width": 120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092991945601859584"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2092989108331360418",
+        "created_at": "2026-08-27T15:05:42.000Z",
+        "display_text_range": [
+          26,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092991953063616980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065198847698337792",
+              "start": 0,
+              "username": "mzmorz8964"
+            },
+            {
+              "end": 25,
+              "id": "1789010584731586561",
+              "start": 12,
+              "username": "17_ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MUL27fyN6L",
+              "end": 65,
+              "expanded_url": "https://x.com/pr80net/status/2092991953063616980/photo/1",
+              "media_key": "3_2092991945601859584",
+              "start": 42,
+              "url": "https://t.co/MUL27fyN6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092991953063616980",
+        "in_reply_to_user_id": "2065198847698337792",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092991945601859584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092991533553467633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzmorz8964 @17_ZakkysLab 一会黄耗子给你来个电炮就老实了 https://t.co/MUL27fyN6L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092991523331956736",
+            "3_2092991529338249216"
+          ]
+        },
+        "author_id": "2065198847698337792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092989108331360418",
+        "created_at": "2026-08-27T15:04:02.000Z",
+        "display_text_range": [
+          23,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092991533553467633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 22,
+              "id": "1789010584731586561",
+              "start": 9,
+              "username": "17_ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IX5sXACUIR",
+              "end": 54,
+              "expanded_url": "https://x.com/mzmorz8964/status/2092991533553467633/photo/1",
+              "media_key": "3_2092991523331956736",
+              "start": 31,
+              "url": "https://t.co/IX5sXACUIR"
+            },
+            {
+              "display_url": "pic.x.com/IX5sXACUIR",
+              "end": 54,
+              "expanded_url": "https://x.com/mzmorz8964/status/2092991533553467633/photo/1",
+              "media_key": "3_2092991529338249216",
+              "start": 31,
+              "url": "https://t.co/IX5sXACUIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092991533553467633",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092991523331956736"
+          },
+          {
+            "media_key": "3_2092991529338249216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092989108331360418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @17_ZakkysLab 看透一切的我: https://t.co/IX5sXACUIR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @17_ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "17_ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2092991953063616980",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2092989108331360418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 626,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T22:27:35.000Z",
+        "description": "“因恐惧而瑟瑟发抖人们啊，听我说……”\n这里是教主sama，间宫卓司人间体\n                       宛若梦一场\n最虔诚的信徒（逃生舱）@fmf5y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 78,
+                "username": "fmf5y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mzm_ssiah1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mzm_ssiah1",
+                "start": 0,
+                "url": "https://t.co/hu72BnifsZ"
+              }
+            ]
+          }
+        },
+        "id": "2065198847698337792",
+        "is_identity_verified": false,
+        "location": "終ノ空",
+        "most_recent_tweet_id": "2092991546383815020",
+        "name": "翻过护栏即可通往天堂",
+        "pinned_tweet_id": "2082912570957324352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065198847698337792/1787691792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092357142984716288/ZW9RUImj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 216,
+          "like_count": 1963,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 1033
+        },
+        "url": "https://t.co/hu72BnifsZ",
+        "username": "mzmorz8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-10T19:12:26.000Z",
+        "description": "扎鸡兄弟 Los Pollos Hermanos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/ALxTTL6SOC"
+              }
+            ]
+          }
+        },
+        "id": "1789010584731586561",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2092803581590343991",
+        "name": "扎17",
+        "pinned_tweet_id": "2092636720026288426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789010584731586561/1787669819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092264793378099201/nwq8pqCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 50,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/ALxTTL6SOC",
+        "username": "17_ZakkysLab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

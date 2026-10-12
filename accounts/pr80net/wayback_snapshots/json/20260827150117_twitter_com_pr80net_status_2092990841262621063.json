@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2092989108331360418",
+    "created_at": "2026-08-27T15:01:17.000Z",
+    "display_text_range": [
+      26,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T16:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092990841262621063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2072547086286168064",
+          "start": 0,
+          "username": "europhiaL7"
+        },
+        {
+          "end": 25,
+          "id": "1789010584731586561",
+          "start": 12,
+          "username": "17_ZakkysLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092990841262621063",
+    "in_reply_to_user_id": "2072547086286168064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092990650124058934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@europhiaL7 @17_ZakkysLab 豆包豆包，把这几头牛换成奶龙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1259,
+        "media_key": "3_2092990640405807106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvL5febAAI7T4U.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2092989108331360418",
+        "created_at": "2026-08-27T15:01:17.000Z",
+        "display_text_range": [
+          26,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092990841262621063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2072547086286168064",
+              "start": 0,
+              "username": "europhiaL7"
+            },
+            {
+              "end": 25,
+              "id": "1789010584731586561",
+              "start": 12,
+              "username": "17_ZakkysLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092990841262621063",
+        "in_reply_to_user_id": "2072547086286168064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092990650124058934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@europhiaL7 @17_ZakkysLab 豆包豆包，把这几头牛换成奶龙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092990640405807106"
+          ]
+        },
+        "author_id": "2072547086286168064",
+        "conversation_id": "2092989108331360418",
+        "created_at": "2026-08-27T15:00:31.000Z",
+        "display_text_range": [
+          22,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092990650124058934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 22,
+              "id": "1789010584731586561",
+              "start": 9,
+              "username": "17_ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wn8H6Wre5w",
+              "end": 46,
+              "expanded_url": "https://x.com/europhiaL7/status/2092990650124058934/photo/1",
+              "media_key": "3_2092990640405807106",
+              "start": 23,
+              "url": "https://t.co/Wn8H6Wre5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092990650124058934",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2092990640405807106"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092989108331360418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @17_ZakkysLab https://t.co/Wn8H6Wre5w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @17_ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "17_ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2092990841262621063",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2092989108331360418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 626,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 349
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-02T05:06:34.000Z",
+        "description": "˙˖Ი𐑼⋆\n ≧vo\n查成分互 私信会回复已互 其他随缘 ＞𐋣＜\n🚪52 纯圈@slitudergi6 @17xiaoxuan00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "slitudergi6"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "17xiaoxuan00"
+              }
+            ]
+          }
+        },
+        "id": "2072547086286168064",
+        "is_identity_verified": false,
+        "location": "❄️",
+        "most_recent_tweet_id": "2092990739416543680",
+        "name": "Maep1xel",
+        "pinned_tweet_id": "2088826619578532235",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072547086286168064/1783139407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073263010169397248/ezRUnKXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 19,
+          "like_count": 1026,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 586
+        },
+        "url": "",
+        "username": "europhiaL7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-10T19:12:26.000Z",
+        "description": "扎鸡兄弟 Los Pollos Hermanos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/ALxTTL6SOC"
+              }
+            ]
+          }
+        },
+        "id": "1789010584731586561",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2092803581590343991",
+        "name": "扎17",
+        "pinned_tweet_id": "2092636720026288426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789010584731586561/1787669819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092264793378099201/nwq8pqCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 50,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/ALxTTL6SOC",
+        "username": "17_ZakkysLab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

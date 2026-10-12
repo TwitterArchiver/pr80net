@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2095569019478921250",
+    "created_at": "2026-09-03T19:30:40.000Z",
+    "display_text_range": [
+      41,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T20:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095595351982162260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1013526829",
+          "start": 0,
+          "username": "TGbabycost"
+        },
+        {
+          "end": 25,
+          "id": "1386670401422434304",
+          "start": 12,
+          "username": "xx1012000456"
+        },
+        {
+          "end": 40,
+          "id": "1464941699889696768",
+          "start": 26,
+          "username": "drugs_artists"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095595351982162260",
+    "in_reply_to_user_id": "1013526829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095588502197170570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TGbabycost @xx1012000456 @drugs_artists 因为他姐姐让我去拷了 你要是有手机号你去问他姐姐吧\n别跟我扯淡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2095569019478921250",
+        "created_at": "2026-09-03T19:30:40.000Z",
+        "display_text_range": [
+          41,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T20:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095595351982162260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1013526829",
+              "start": 0,
+              "username": "TGbabycost"
+            },
+            {
+              "end": 25,
+              "id": "1386670401422434304",
+              "start": 12,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 40,
+              "id": "1464941699889696768",
+              "start": 26,
+              "username": "drugs_artists"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095595351982162260",
+        "in_reply_to_user_id": "1013526829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095588502197170570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TGbabycost @xx1012000456 @drugs_artists 因为他姐姐让我去拷了 你要是有手机号你去问他姐姐吧\n别跟我扯淡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1013526829",
+        "conversation_id": "2095569019478921250",
+        "created_at": "2026-09-03T19:03:27.000Z",
+        "display_text_range": [
+          38,
+          184
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T20:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095588502197170570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 22,
+              "id": "1386670401422434304",
+              "start": 9,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 37,
+              "id": "1464941699889696768",
+              "start": 23,
+              "username": "drugs_artists"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095588502197170570",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "窃★国★作★战★大★成★功\n\n我谔谔，去哀悼为什么要拷走账号密码邮箱验证？这下王嘉雨在地下有知沐雨毒死自己还接管自己的一切要死不瞑目力\n\n但他以前的合同与营业执照已不能再使用（失望）\n听这语气，如果尸体有价值的话，马师怕不事要开挖掘机挖出来用\n\n“最重要的事要到了普瑞原粉的99.7检测报告”\n王嘉雨一死他的璐子全都跟着死力，拿个检测报告就能把之后的所有普瑞原粉洗白成99.7纯度吗？可见马药商之恶心"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095569019478921250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @xx1012000456 @drugs_artists 窃★国★作★战★大★成★功\n\n我谔谔，去哀悼为什么要拷走账号密码邮箱验证？这下王嘉雨在地下有知沐雨毒死自己还接管自己的一切要死不瞑目力\n\n但他以前的合同与营业执照已不能再使用（失望）\n听这语气，如果尸体有价值的话，马师怕不事要开挖掘机挖出来用\n\n“最重要的事要到了普瑞原粉的99.7检测报告”"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @17_ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "17_ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2095595351982162260",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2095569019478921250",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 610,
+          "like_count": 23,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 377
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-12-15T16:26:30.000Z",
+        "description": "لا تجادل الأحمق فقد يخطئ الناس في التفريق بينكما.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/babycost",
+                "end": 23,
+                "expanded_url": "http://t.me/babycost",
+                "start": 0,
+                "url": "https://t.co/7SzUBiJ5EI"
+              }
+            ]
+          }
+        },
+        "id": "1013526829",
+        "is_identity_verified": true,
+        "location": "pm",
+        "most_recent_tweet_id": "2095594348532621561",
+        "name": "22",
+        "pinned_tweet_id": "2095594348532621561",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1013526829/1786438561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087098408909811712/mfNESRHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2737,
+          "following_count": 227,
+          "like_count": 206,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 41343
+        },
+        "url": "https://t.co/7SzUBiJ5EI",
+        "username": "TGbabycost",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2095468456569364635",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 968,
+          "like_count": 178,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 2335
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-28T12:58:24.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|4i男娘INFPI|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!年号雨玄二年\n名人堂梦工厂RC-沐雨 零售策划药产品联系我的https://t.co/QsZVHyAmQG \n我的双子星：@qiyueqiye11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "qiyueqiye11"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 119,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 96,
+                "url": "https://t.co/QsZVHyAmQG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/7EyvDSe3J6"
+              }
+            ]
+          }
+        },
+        "id": "1464941699889696768",
+        "is_identity_verified": false,
+        "location": "Xanax天国8mg自治区",
+        "most_recent_tweet_id": "2095593947951513846",
+        "name": "沐雨八世",
+        "pinned_tweet_id": "2093068227492651062",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464941699889696768/1787861084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093066704456953856/2BIY4fKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 59,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/7EyvDSe3J6",
+        "username": "drugs_artists",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

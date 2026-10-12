@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1132729630245265408",
+    "conversation_id": "2108810144075432005",
+    "created_at": "2026-10-10T06:41:32.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T07:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108810144075432005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1803609911215136769",
+          "start": 3,
+          "username": "pDwIj6gMsi50560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108810144075432005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108785658064208064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pDwIj6gMsi50560: 永夜及名人堂官方背书\nRC（未列管策划药）：\n喵喵姬 兴奋与解离\n吡咯冰 强效兴奋剂cocaine十倍效力\n都是 28u/t 多买有优惠\n3t 76u=530rmb\n5t 125u=875rmb\n7t 170u=1190rmb\n10t…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2108810144075432005",
+        "created_at": "2026-10-10T06:41:32.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T07:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108810144075432005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1803609911215136769",
+              "start": 3,
+              "username": "pDwIj6gMsi50560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108810144075432005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108785658064208064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pDwIj6gMsi50560: 永夜及名人堂官方背书\nRC（未列管策划药）：\n喵喵姬 兴奋与解离\n吡咯冰 强效兴奋剂cocaine十倍效力\n都是 28u/t 多买有优惠\n3t 76u=530rmb\n5t 125u=875rmb\n7t 170u=1190rmb\n10t…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803609911215136769",
+        "conversation_id": "2108785658064208064",
+        "created_at": "2026-10-10T05:04:14.000Z",
+        "display_text_range": [
+          0,
+          181
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T06:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108785658064208064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can contact @drug_artist right away.",
+              "display_url": "t.me/drug_artist",
+              "end": 181,
+              "expanded_url": "https://t.me/drug_artist",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2108134494775738368/F9_7DV6p?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2108134494775738368/F9_7DV6p?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 158,
+              "status": 200,
+              "title": "rain",
+              "unwound_url": "https://t.me/drug_artist",
+              "url": "https://t.co/C73Yv0rE0b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108785658064208064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "永夜及名人堂官方背书\nRC（未列管策划药）：\n喵喵姬 兴奋与解离\n吡咯冰 强效兴奋剂cocaine十倍效力\n都是 28u/t 多买有优惠\n3t 76u=530rmb\n5t 125u=875rmb\n7t 170u=1190rmb\n10t 243×7=1700rmb\n 后续抽奖活动还会继续\n需要请私信我购买或联系tg：https://t.co/C73Yv0rE0b"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky'tg：https://t.co/AJ3SEoIa7U\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              },
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 122,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 99,
+                "url": "https://t.co/AJ3SEoIa7U"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2108810144075432005",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2108134486198432233",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 589,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-20T02:05:02.000Z",
+        "description": "现任Mediwiki药物百科编辑组成员，旧账号已死 @H061207Wjh   转生为新账号\n平平无奇的大一地雷妹   靠着pr和Tulpa成为国家三级心理咨询师       与Tulpa（莱克特医生共用此账号）偏好：药理/心理学/文学/精神病学/见证   有需要的可以随时私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "H061207Wjh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubake.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubake.ca",
+                "start": 0,
+                "url": "https://t.co/H8EOJUYOCt"
+              }
+            ]
+          }
+        },
+        "id": "1803609911215136769",
+        "is_identity_verified": false,
+        "location": "夜之城 荒坂塔",
+        "most_recent_tweet_id": "2108809505882407280",
+        "name": "Lucy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1803609911215136769/1784564464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089636383820517376/ieT1CZDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 363,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/H8EOJUYOCt",
+        "username": "pDwIj6gMsi50560",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
